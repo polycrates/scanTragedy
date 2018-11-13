@@ -1,0 +1,1182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section type="prologue" form="mixed">
+<subsection type="dialogue">
+<line num="1"  type="ia6"><speaker name="Κράτος"> Χθονὸς μὲν ἐς τηλουρὸν ἥκομεν πέδον,</speaker></line>
+<line num="2"  type="ia6"><speaker name="Κράτος"> Σκύθην ἐς οἷμον, ἄβατον εἰς ἐρημίαν.</speaker></line>
+<line num="3"  type="ia6"><speaker name="Κράτος"> Ἥφαιστε, σοὶ δὲ χρὴ μέλειν ἐπιστολὰς</speaker></line>
+<line num="4"  type="ia6"><speaker name="Κράτος"> ἅς σοι πατὴρ ἐφεῖτο, τόνδε πρὸς πέτραις</speaker></line>
+<line num="5"  type="ia6"><speaker name="Κράτος"> ὑψηλοκρήμνοις τὸν λεωργὸν ὀχμάσαι</speaker></line>
+<line num="6"  type="ia6"><speaker name="Κράτος"> ἀδαμαντίνων δεσμῶν ἐν ἀρρήκτοις πέδαις.</speaker></line>
+<line num="7"  type="ia6"><speaker name="Κράτος"> τὸ σὸν γὰρ ἄνθος, παντέχνου πυρὸς σέλας,</speaker></line>
+<line num="8"  type="ia6"><speaker name="Κράτος"> θνητοῖσι κλέψας ὤπασεν. τοιᾶσδέ τοι</speaker></line>
+<line num="9"  type="ia6"><speaker name="Κράτος"> ἁμαρτίας σφε δεῖ θεοῖς δοῦναι δίκην,</speaker></line>
+<line num="10"  type="ia6"><speaker name="Κράτος"> ὡς ἂν διδαχθῇ τὴν Διὸς τυραννίδα</speaker></line>
+<line num="11"  type="ia6"><speaker name="Κράτος"> στέργειν, φιλανθρώπου δὲ παύεσθαι τρόπου.</speaker></line>
+<line num="12"  type="ia6"><speaker name="Ἥφαιστος"> Κράτος Βία τε, σφῷν μὲν ἐντολὴ Διὸς</speaker></line>
+<line num="13"  type="ia6"><speaker name="Ἥφαιστος"> ἔχει τέλος δὴ κοὐδὲν ἐμποδὼν ἔτι·</speaker></line>
+<line num="14"  type="ia6"><speaker name="Ἥφαιστος"> ἐγὼ δʼ ἄτολμός εἰμι συγγενῆ θεὸν</speaker></line>
+<line num="15"  type="ia6"><speaker name="Ἥφαιστος"> δῆσαι βίᾳ φάραγγι πρὸς δυσχειμέρῳ.</speaker></line>
+<line num="16"  type="ia6"><speaker name="Ἥφαιστος"> πάντως δʼ ἀνάγκη τῶνδέ μοι τόλμαν σχεθεῖν·</speaker></line>
+<line num="17"  type="ia6"><speaker name="Ἥφαιστος"> ἐξωριάζειν γὰρ πατρὸς λόγους βαρύ.</speaker></line>
+<line num="18"  type="ia6"><speaker name="Ἥφαιστος"> τῆς ὀρθοβούλου Θέμιδος αἰπυμῆτα παῖ,</speaker></line>
+<line num="19"  type="ia6"><speaker name="Ἥφαιστος"> ἄκοντά σʼ ἄκων δυσλύτοις χαλκεύμασι</speaker></line>
+<line num="20"  type="ia6"><speaker name="Ἥφαιστος"> προσπασσαλεύσω τῷδʼ ἀπανθρώπῳ πάγῳ</speaker></line>
+<line num="21"  type="ia6"><speaker name="Ἥφαιστος"> ἵνʼ οὔτε φωνὴν οὔτε του μορφὴν βροτῶν</speaker></line>
+<line num="22"  type="ia6"><speaker name="Ἥφαιστος"> ὄψει, σταθευτὸς δʼ ἡλίου φοίβῃ φλογὶ</speaker></line>
+<line num="23"  type="ia6"><speaker name="Ἥφαιστος"> χροιᾶς ἀμείψεις ἄνθος. ἀσμένῳ δέ σοι</speaker></line>
+<line num="24"  type="ia6"><speaker name="Ἥφαιστος"> ἡ ποικιλείμων νὺξ ἀποκρύψει φάος,</speaker></line>
+<line num="25"  type="ia6"><speaker name="Ἥφαιστος"> πάχνην θʼ ἑῴαν ἥλιος σκεδᾷ πάλιν·</speaker></line>
+<line num="26"  type="ia6"><speaker name="Ἥφαιστος"> ἀεὶ δὲ τοῦ παρόντος ἀχθηδὼν κακοῦ</speaker></line>
+<line num="27"  type="ia6"><speaker name="Ἥφαιστος"> τρύσει σʼ· ὁ λωφήσων γὰρ οὐ πέφυκέ πω.</speaker></line>
+<line num="28"  type="ia6"><speaker name="Ἥφαιστος"> τοιαῦτʼ ἐπηύρω τοῦ φιλανθρώπου τρόπου.</speaker></line>
+<line num="29"  type="ia6"><speaker name="Ἥφαιστος"> θεὸς θεῶν γὰρ οὐχ ὑποπτήσσων χόλον</speaker></line>
+<line num="30"  type="ia6"><speaker name="Ἥφαιστος"> βροτοῖσι τιμὰς ὤπασας πέρα δίκης.</speaker></line>
+<line num="31"  type="ia6"><speaker name="Ἥφαιστος"> ἀνθʼ ὧν ἀτερπῆ τήνδε φρουρήσεις πέτραν</speaker></line>
+<line num="32"  type="ia6"><speaker name="Ἥφαιστος"> ὀρθοστάδην, ἄυπνος, οὐ κάμπτων γόνυ·</speaker></line>
+<line num="33"  type="ia6"><speaker name="Ἥφαιστος"> πολλοὺς δʼ ὀδυρμοὺς καὶ γόους ἀνωφελεῖς</speaker></line>
+<line num="34"  type="ia6"><speaker name="Ἥφαιστος"> φθέγξῃ· Διὸς γὰρ δυσπαραίτητοι φρένες.</speaker></line>
+<line num="35"  type="ia6"><speaker name="Ἥφαιστος"> ἅπας δὲ τραχὺς ὅστις ἂν νέον κρατῇ.</speaker></line>
+<line num="36"  type="ia6"><speaker name="Κράτος"> εἶεν, τί μέλλεις καὶ κατοικτίζῃ μάτην;</speaker></line>
+<line num="37"  type="ia6"><speaker name="Κράτος"> τί τὸν θεοῖς ἔχθιστον οὐ στυγεῖς θεόν,</speaker></line>
+<line num="38"  type="ia6"><speaker name="Κράτος"> ὅστις τὸ σὸν θνητοῖσι προὔδωκεν γέρας;</speaker></line>
+<line num="39"  type="ia6"><speaker name="Ἥφαιστος"> τὸ συγγενές τοι δεινὸν ἥ θʼ ὁμιλία.</speaker></line>
+<line num="40"  type="ia6"><speaker name="Κράτος"> σύμφημʼ· ἀνηκουστεῖν δὲ τῶν πατρὸς λόγων</speaker></line>
+<line num="41"  type="ia6"><speaker name="Κράτος"> οἷόν τε πῶς; οὐ τοῦτο δειμαίνεις πλέον;</speaker></line>
+<line num="42"  type="ia6"><speaker name="Ἥφαιστος"> αἰεί γε δὴ νηλὴς σὺ καὶ θράσους πλέως.</speaker></line>
+<line num="43"  type="ia6"><speaker name="Κράτος"> ἄκος γὰρ οὐδὲν τόνδε θρηνεῖσθαι. σὺ δὲ</speaker></line>
+<line num="44"  type="ia6"><speaker name="Κράτος"> τὰ μηδὲν ὠφελοῦντα μὴ πόνει μάτην.</speaker></line>
+<line num="45"  type="ia6"><speaker name="Ἥφαιστος"> ὦ πολλὰ μισηθεῖσα χειρωναξία.</speaker></line>
+<line num="46"  type="ia6"><speaker name="Κράτος"> τί νιν στυγεῖς; πόνων γὰρ ὡς ἁπλῷ λόγῳ</speaker></line>
+<line num="47"  type="ia6"><speaker name="Κράτος"> τῶν νῦν παρόντων οὐδὲν αἰτία τέχνη.</speaker></line>
+<line num="48"  type="ia6"><speaker name="Ἥφαιστος"> ἔμπας τις αὐτὴν ἄλλος ὤφελεν λαχεῖν.</speaker></line>
+<line num="49"  type="ia6"><speaker name="Κράτος"> ἅπαντʼ ἐπαχθῆ πλὴν θεοῖσι κοιρανεῖν·</speaker></line>
+<line num="50"  type="ia6"><speaker name="Κράτος"> ἐλεύθερος γὰρ οὔτις ἐστὶ πλὴν Διός.</speaker></line>
+<line num="51"  type="ia6"><speaker name="Ἥφαιστος"> ἔγνωκα τοῖσδε κοὐδὲν ἀντειπεῖν ἔχω.</speaker></line>
+<line num="52"  type="ia6"><speaker name="Κράτος"> οὔκουν ἐπείξῃ τῷδε δεσμὰ περιβαλεῖν,</speaker></line>
+<line num="53"  type="ia6"><speaker name="Κράτος"> ὡς μή σʼ ἐλινύοντα προσδερχθῇ πατήρ;</speaker></line>
+<line num="54"  type="ia6"><speaker name="Ἥφαιστος"> καὶ δὴ πρόχειρα ψάλια δέρκεσθαι πάρα.</speaker></line>
+<line num="55"  type="ia6"><speaker name="Κράτος"> βαλών νιν ἀμφὶ χερσὶν ἐγκρατεῖ σθένει</speaker></line>
+<line num="56"  type="ia6"><speaker name="Κράτος"> ῥαιστῆρι θεῖνε, πασσάλευε πρὸς πέτραις.</speaker></line>
+<line num="57"  type="ia6"><speaker name="Ἥφαιστος"> περαίνεται δὴ κοὐ ματᾷ τοὔργον τόδε.</speaker></line>
+<line num="58"  type="ia6"><speaker name="Κράτος"> ἄρασσε μᾶλλον, σφίγγε, μηδαμῇ χάλα.</speaker></line>
+<line num="59"  type="ia6"><speaker name="Κράτος"> δεινὸς γὰρ εὑρεῖν κἀξ ἀμηχάνων πόρον.</speaker></line>
+<line num="60"  type="ia6"><speaker name="Ἥφαιστος"> ἄραρεν ἥδε γʼ ὠλένη δυσεκλύτως.</speaker></line>
+<line num="61"  type="ia6"><speaker name="Κράτος"> καὶ τήνδε νῦν πόρπασον ἀσφαλῶς, ἵνα</speaker></line>
+<line num="62"  type="ia6"><speaker name="Κράτος"> μάθῃ σοφιστὴς ὢν Διὸς νωθέστερος.</speaker></line>
+<line num="63"  type="ia6"><speaker name="Ἥφαιστος"> πλὴν τοῦδʼ ἂν οὐδεὶς ἐνδίκως μέμψαιτό μοι.</speaker></line>
+<line num="64"  type="ia6"><speaker name="Κράτος"> ἀδαμαντίνου νῦν σφηνὸς αὐθάδη γνάθον</speaker></line>
+<line num="65"  type="ia6"><speaker name="Κράτος"> στέρνων διαμπὰξ πασσάλευʼ ἐρρωμένως.</speaker></line>
+<line num="66"  type="ia6"><speaker name="Ἥφαιστος"> αἰαῖ, Προμηθεῦ, σῶν ὑπερστένω πόνων.</speaker></line>
+<line num="67"  type="ia6"><speaker name="Κράτος"> σὺ δʼ αὖ κατοκνεῖς τῶν Διός τʼ ἐχθρῶν ὕπερ</speaker></line>
+<line num="68"  type="ia6"><speaker name="Κράτος"> στένεις; ὅπως μὴ σαυτὸν οἰκτιεῖς ποτε.</speaker></line>
+<line num="69"  type="ia6"><speaker name="Ἥφαιστος"> ὁρᾷς θέαμα δυσθέατον ὄμμασιν.</speaker></line>
+<line num="70"  type="ia6"><speaker name="Κράτος"> ὁρῶ κυροῦντα τόνδε τῶν ἐπαξίων.</speaker></line>
+<line num="71"  type="ia6"><speaker name="Κράτος"> ἀλλʼ ἀμφὶ πλευραῖς μασχαλιστῆρας βάλε.</speaker></line>
+<line num="72"  type="ia6"><speaker name="Ἥφαιστος"> δρᾶν ταῦτʼ ἀνάγκη, μηδὲν ἐγκέλευʼ ἄγαν.</speaker></line>
+<line num="73"  type="ia6"><speaker name="Κράτος"> ἦ μὴν κελεύσω κἀπιθωύξω γε πρός.</speaker></line>
+<line num="74"  type="ia6"><speaker name="Κράτος"> χώρει κάτω, σκέλη δὲ κίρκωσον βίᾳ.</speaker></line>
+<line num="75"  type="ia6"><speaker name="Ἥφαιστος"> καὶ δὴ πέπρακται τοὔργον οὐ μακρῷ πόνῳ.</speaker></line>
+<line num="76"  type="ia6"><speaker name="Κράτος"> ἐρρωμένως νῦν θεῖνε διατόρους πέδας·</speaker></line>
+<line num="77"  type="ia6"><speaker name="Κράτος"> ὡς οὑπιτιμητής γε τῶν ἔργων βαρύς.</speaker></line>
+<line num="78"  type="ia6"><speaker name="Ἥφαιστος"> ὅμοια μορφῇ γλῶσσά σου γηρύεται.</speaker></line>
+<line num="79"  type="ia6"><speaker name="Κράτος"> σὺ μαλθακίζου, τὴν δʼ ἐμὴν αὐθαδίαν</speaker></line>
+<line num="80"  type="ia6"><speaker name="Κράτος"> ὀργῆς τε τραχύτητα μὴ ʼπίπλησσέ μοι.</speaker></line>
+<line num="81"  type="ia6"><speaker name="Ἥφαιστος"> στείχωμεν, ὡς κώλοισιν ἀμφίβληστρʼ ἔχει.</speaker></line>
+<line num="82"  type="ia6"><speaker name="Κράτος"> ἐνταῦθα νῦν ὕβριζε καὶ θεῶν γέρα</speaker></line>
+<line num="83"  type="ia6"><speaker name="Κράτος"> συλῶν ἐφημέροισι προστίθει. τί σοι</speaker></line>
+<line num="84"  type="ia6"><speaker name="Κράτος"> οἷοί τε θνητοὶ τῶνδʼ ἀπαντλῆσαι πόνων;</speaker></line>
+<line num="85"  type="ia6"><speaker name="Κράτος"> ψευδωνύμως σε δαίμονες Προμηθέα</speaker></line>
+<line num="86"  type="ia6"><speaker name="Κράτος"> καλοῦσιν· αὐτὸν γάρ σε δεῖ προμηθέως,</speaker></line>
+<line num="87"  type="ia6"><speaker name="Κράτος"> ὅτῳ τρόπῳ τῆσδʼ ἐκκυλισθήσῃ τέχνης.</speaker></line>
+</subsection>
+<subsection type="monologue">
+<line num="88"  type="ia6"><speaker name="Προμηθεύς"> ὦ δῖος αἰθὴρ καὶ ταχύπτεροι πνοαί,</speaker></line>
+<line num="89"  type="ia6"><speaker name="Προμηθεύς"> ποταμῶν τε πηγαί, ποντίων τε κυμάτων</speaker></line>
+<line num="90"  type="ia6"><speaker name="Προμηθεύς"> ἀνήριθμον γέλασμα, παμμῆτόρ τε γῆ,</speaker></line>
+<line num="91"  type="ia6"><speaker name="Προμηθεύς"> καὶ τὸν πανόπτην κύκλον ἡλίου καλῶ.</speaker></line>
+<line num="92"  type="ia6"><speaker name="Προμηθεύς"> ἴδεσθέ μʼ οἷα πρὸς θεῶν πάσχω θεός.</speaker></line>
+
+<line num="93"  type="an4"><speaker name="Προμηθεύς"> δέρχθηθʼ οἵαις αἰκείαισιν</speaker></line>
+<line num="94"  type="an4"><speaker name="Προμηθεύς"> διακναιόμενος τὸν μυριετῆ</speaker></line>
+<line num="95"  type="an4"><speaker name="Προμηθεύς"> χρόνον ἀθλεύσω.</speaker></line>
+<line num="96"  type="an4"><speaker name="Προμηθεύς"> τοιόνδʼ ὁ νέος ταγὸς μακάρων</speaker></line>
+<line num="97"  type="an4"><speaker name="Προμηθεύς"> ἐξηῦρʼ ἐπʼ ἐμοὶ δεσμὸν ἀεικῆ.</speaker></line>
+<line num="98"  type="an4"><speaker name="Προμηθεύς"> φεῦ φεῦ, τὸ παρὸν τό τʼ ἐπερχόμενον</speaker></line>
+<line num="99"  type="an4"><speaker name="Προμηθεύς"> πῆμα στενάχω, πῇ ποτε μόχθων</speaker></line>
+<line num="100"  type="an4cat"><speaker name="Προμηθεύς"> χρὴ τέρματα τῶνδʼ ἐπιτεῖλαι.</speaker></line>
+
+<line num="101"  type="ia6"><speaker name="Προμηθεύς"> καίτοι τί φημι; πάντα προυξεπίσταμαι</speaker></line>
+<line num="102"  type="ia6"><speaker name="Προμηθεύς"> σκεθρῶς τὰ μέλλοντʼ, οὐδέ μοι ποταίνιον</speaker></line>
+<line num="103"  type="ia6"><speaker name="Προμηθεύς"> πῆμʼ οὐδὲν ἥξει. τὴν πεπρωμένην δὲ χρὴ</speaker></line>
+<line num="104"  type="ia6"><speaker name="Προμηθεύς"> αἶσαν φέρειν ὡς ῥᾷστα, γιγνώσκονθʼ ὅτι</speaker></line>
+<line num="105"  type="ia6"><speaker name="Προμηθεύς"> τὸ τῆς ἀνάγκης ἔστʼ ἀδήριτον σθένος.</speaker></line>
+<line num="106"  type="ia6"><speaker name="Προμηθεύς"> ἀλλʼ οὔτε σιγᾶν οὔτε μὴ σιγᾶν τύχας</speaker></line>
+<line num="107"  type="ia6"><speaker name="Προμηθεύς"> οἷόν τέ μοι τάσδʼ ἐστί. θνητοῖς γὰρ γέρα</speaker></line>
+<line num="108"  type="ia6"><speaker name="Προμηθεύς"> πορὼν ἀνάγκαις ταῖσδʼ ἐνέζευγμαι τάλας.</speaker></line>
+<line num="109"  type="ia6"><speaker name="Προμηθεύς"> ναρθηκοπλήρωτον δὲ θηρῶμαι πυρὸς</speaker></line>
+<line num="110"  type="ia6"><speaker name="Προμηθεύς"> πηγὴν κλοπαίαν, ἣ διδάσκαλος τέχνης</speaker></line>
+<line num="111"  type="ia6"><speaker name="Προμηθεύς"> πάσης βροτοῖς πέφηνε καὶ μέγας πόρος.</speaker></line>
+<line num="112"  type="ia6"><speaker name="Προμηθεύς"> τοιῶνδε ποινὰς ἀμπλακημάτων τίνω</speaker></line>
+<line num="113"  type="ia6"><speaker name="Προμηθεύς"> ὑπαιθρίοις δεσμοῖς πεπασσαλευμένος.</speaker></line>
+</subsection>
+</section>
+
+<section type="parodos" form="epirrhematic">
+<subsection type="monody">
+	<line num="114"  type="exclam"><speaker name="Προμηθεύς"> ἆ ἆ ἔα ἔα.</speaker></line>
+	<line num="115"  type="ba4"><speaker name="Προμηθεύς"> τίς ἀχώ, τίς ὀδμὰ προσέπτα μʼ ἀφεγγής,</speaker></line>
+	<line num="116"  type="ia3"><speaker name="Προμηθεύς"> θεόσυτος, ἢ βρότειος, ἢ κεκραμένη;</speaker></line>
+	<line num="117"  type="Due"><speaker name="Προμηθεύς"> ἵκετο τερμόνιον <add>τις</add> ἐπὶ πάγον</speaker></line>
+	<line num="118"  type="ia6"><speaker name="Προμηθεύς"> πόνων ἐμῶν θεωρός, ἢ τί δὴ θέλων;</speaker></line>
+	<line num="119"  type="ia6"><speaker name="Προμηθεύς"> ὁρᾶτε δεσμώτην με δύσποτμον θεόν</speaker></line>
+
+	<line num="120"  type="an4"><speaker name="Προμηθεύς"> τὸν Διὸς ἐχθρόν, τὸν πᾶσι θεοῖς</speaker></line>
+	<line num="121"  type="an4"><speaker name="Προμηθεύς"> διʼ ἀπεχθείας ἐλθόνθʼ ὁπόσοι</speaker></line>
+	<line num="122"  type="an4"><speaker name="Προμηθεύς"> τὴν Διὸς αὐλὴν εἰσοιχνεῦσιν,</speaker></line>
+	<line num="123"  type="an4"><speaker name="Προμηθεύς"> διὰ τὴν λίαν φιλότητα βροτῶν.</speaker></line>
+	<line num="124"  type="an6"><speaker name="Προμηθεύς"> φεῦ φεῦ, τί ποτʼ αὖ κινάθισμα κλύω πέλας οἰωνῶν;</speaker></line>
+	<line num="125"  type="an6"><speaker name="Προμηθεύς">αἰθὴρ δʼ ἐλαφραῖς πτερύγων ῥιπαῖς ὑποσυρίζει.</speaker></line>
+	<line num="126"  type="an4"><speaker name="Προμηθεύς"> πᾶν μοι φοβερὸν τὸ προσέρπον.</speaker></line>
+</subsection>
+<subsection type="choral">
+	<line num="128"  type="iapenth_anacr" stanza="strophe_ionic"><speaker name="Χορός"> μηδὲν φοβηθῇς· φιλία γὰρ ἅδε τάξις</speaker></line>
+	<line num="129"  type="anacr" stanza="strophe_ionic"><speaker name="Χορός"> πτερύγων θοαῖς ἁμίλλαις</speaker></line>
+	<line num="130"  type="an_cho_ba" stanza="strophe_ionic" note="ionic clausula"><speaker name="Χορός"> προσέβα τόνδε πάγον, πατρῴας</speaker></line>
+	<line num="131"  type="iapenth_an" stanza="strophe_ionic"><speaker name="Χορός"> μόγις παρειποῦσα φρένας.</speaker></line>
+	<line num="132"  type="da2_tr2" stanza="strophe_ionic" note="alcaic decasyllable; west=aristoph. dactylo auctus"><speaker name="Χορός"> κραιπνοφόροι δέ μʼ ἔπεμψαν αὖραι·</speaker></line>
+	<line num="133"  type="iapenth_anacr" stanza="strophe_ionic"><speaker name="Χορός"> κτύπου γὰρ ἀχὼ χάλυβος διῇξεν ἄντρων</speaker></line>
+	<line num="134"  type="anacr_anacrcat2" stanza="strophe_ionic"><speaker name="Χορός">μυχόν, ἐκ  δʼ ἔπληξέ μου τὰν θεμερῶπιν αἰδῶ·</speaker></line>
+	<line num="135"  type="hag^d" stanza="strophe_ionic" note="enoplian"><speaker name="Χορός"> σύθην δʼ ἀπέδιλος ὄχῳ πτερωτῷ.</speaker></line>
+
+	<line num="137"  type="exclam"><speaker name="Προμηθεύς"> αἰαῖ αἰαῖ,</speaker></line>
+	<line num="138"  type="an4"><speaker name="Προμηθεύς"> τῆς πολυτέκνου Τηθύος ἔκγονα,</speaker></line>
+	<line num="139"  type="an4"><speaker name="Προμηθεύς"> τοῦ περὶ πᾶσάν θʼ εἱλισσομένου</speaker></line>
+	<line num="140"  type="an6"><speaker name="Προμηθεύς"> χθόνʼ ἀκοιμήτῳ ῥεύματι παῖδες πατρὸς, Ὠκεανοῦ,</speaker></line>
+	<line num="141"  type="an6"><speaker name="Προμηθεύς"> δέρχθητʼ, ἐσίδεσθʼ οἵῳ δεσμῷ, προσπορπατὸς</speaker></line>
+	<line num="142"  type="an4"><speaker name="Προμηθεύς">  τῆσδε φάραγγος σκοπέλοις ἐν ἄκροις</speaker></line>
+	<line num="143"  type="an4cat"><speaker name="Προμηθεύς"> φρουρὰν ἄζηλον ὀχήσω.</speaker></line>
+
+	<line num="144"  type="iapenth_anacr" stanza="antistrophe_ionic"><speaker name="Χορός"> λεύσσω, Προμηθεῦ· φοβερὰ δʼ ἐμοῖσιν ὄσσοις</speaker></line>
+	<line num="145"  type="anacr" stanza="antistrophe_ionic"><speaker name="Χορός">  ὀμίχλα προσῇξε πλήρης</speaker></line>
+	<line num="146"  type="an_cho_ba" stanza="antistrophe_ionic" note="ionic clausula"><speaker name="Χορός">  δακρύων σὸν δέμας εἰσιδούσᾳ</speaker></line>
+	<line num="147"  type="iapenth_an" stanza="antistrophe_ionic"><speaker name="Χορός"> πέτραις προσαυαινόμενον</speaker></line>
+	<line num="148"  type="D_ba" stanza="antistrophe_ionic" note="alcaic decasyllable"><speaker name="Χορός"> ταῖσδʼ ἀδαμαντοδέτοισι λύμαις.</speaker></line>
+	<line num="149"  type="iapenth_anacr" stanza="antistrophe_ionic"><speaker name="Χορός"> νέοι γὰρ οἰακονόμοι κρατοῦσʼ, Ὀλύμπου·</speaker></line>
+	<line num="150"  type="anacr_anacrcat2" stanza="antistrophe_ionic"><speaker name="Χορός"> νεοχμοῖς δὲ δὴ νόμοις Ζεὺς ἀθέτως κρατύνει.</speaker></line>
+	<line num="151"  type="hag^d" stanza="antistrophe_ionic" note="enoplian"><speaker name="Χορός"> τὰ πρὶν δὲ πελώρια νῦν ἀιστοῖ.</speaker></line>
+
+	<line num="152"  type="an4"><speaker name="Προμηθεύς"> εἰ γάρ μʼ ὑπὸ γῆν νέρθεν θʼ Ἅιδου</speaker></line>
+	<line num="153"  type="an4"><speaker name="Προμηθεύς"> τοῦ νεκροδέγμονος εἰς ἀπέρατον</speaker></line>
+	<line num="154"  type="an2"><speaker name="Προμηθεύς"> Τάρταρον ἧκεν,</speaker></line>
+	<line num="155"  type="an4"><speaker name="Προμηθεύς"> δεσμοῖς ἀλύτοις ἀγρίως πελάσας,</speaker></line>
+	<line num="156"  type="an4"><speaker name="Προμηθεύς"> ὡς μήτε θεὸς μήτε τις ἄλλος</speaker></line>
+	<line num="157"  type="an2"><speaker name="Προμηθεύς"> τοῖσδʼ ἐπεγήθει.</speaker></line>
+	<line num="158"  type="an4"><speaker name="Προμηθεύς"> νῦν δʼ αἰθέριον κίνυγμʼ ὁ τάλας</speaker></line>
+	<line num="159"  type="an4"><speaker name="Προμηθεύς"> ἐχθροῖς ἐπίχαρτα πέπονθα.</speaker></line>
+
+	<line num="160"  type="ia4" stanza="strophe_ionic"><speaker name="Χορός"> τίς ὧδε τλησικάρδιος</speaker></line>
+	<line num="161"  type="ia4" stanza="strophe_ionic"><speaker name="Χορός"> θεῶν, ὅτῳ τάδʼ ἐπιχαρῆ;</speaker></line>
+	<line num="162"  type="ia4" stanza="strophe_ionic"><speaker name="Χορός"> τίς οὐ ξυνασχαλᾷ κακοῖς</speaker></line>
+	<line num="163"  type="ia6" stanza="strophe_ionic"><speaker name="Χορός"> τεοῖσι, δίχα γε Διός; ὁ δʼ ἐπικότως ἀεὶ</speaker></line>
+	<line num="164"  type="lec" stanza="strophe_ionic"><speaker name="Χορός"> θέμενος ἄγναμπτον νόον</speaker></line>
+	<line num="165"  type="D_ith" stanza="strophe_ionic"><speaker name="Χορός"> δάμναται Οὐρανίαν γένναν, οὐδὲ λήξει,</speaker></line>
+	<line num="166"  type="uu_4da" stanza="strophe_ionic"><speaker name="Χορός"> πρὶν ἂν ἢ κορέσῃ κέαρ ἢ παλάμᾳ τινὶ</speaker></line>
+	<line num="167"  type="D_ba" stanza="strophe_ionic" note="alcaic decasyllable; west=aristoph. dactylo auctus"><speaker name="Χορός"> τὰν δυσάλωτον ἕλῃ τις ἀρχάν.</speaker></line>
+
+	<line num="168"  type="an6"><speaker name="Προμηθεύς"> ἦ μὴν ἔτʼ ἐμοῦ, καίπερ κρατεραῖς ἐν γυιοπέδαις</speaker></line>
+	<line num="169"  type="an6"><speaker name="Προμηθεύς"> αἰκιζομένου, χρείαν ἕξει μακάρων πρύτανις,</speaker></line>
+	<line num="170"  type="an4"><speaker name="Προμηθεύς"> δεῖξαι τὸ νέον βούλευμʼ ὑφʼ ὅτου</speaker></line>
+	<line num="171"  type="an4"><speaker name="Προμηθεύς"> σκῆπτρον τιμάς τʼ ἀποσυλᾶται.</speaker></line>
+	<line num="172"  type="an4"><speaker name="Προμηθεύς"> καί μʼ οὔτι μελιγλώσσοις πειθοῦς ἐπαοιδαῖσιν</speaker></line>
+	<line num="173"  type="an4"><speaker name="Προμηθεύς"> θέλξει, στερεάς τʼοὔποτʼ ἀπειλὰς</speaker></line>
+	<line num="174"  type="an4"><speaker name="Προμηθεύς"> πτήξας τόδʼ ἐγὼ καταμηνύσω,</speaker></line>
+	<line num="175"  type="an4"><speaker name="Προμηθεύς"> πρὶν ἂν ἐξ ἀγρίων δεσμῶν χαλάσῃ</speaker></line>
+	<line num="176"  type="an2"><speaker name="Προμηθεύς"> ποινάς τε τίνειν τῆσδʼ αἰκείας ἐθελήσῃ.</speaker></line>
+
+	<line num="178"  type="ia4" stanza="antistrophe_ionic"><speaker name="Χορός"> σὺ μὲν θρασύς τε καὶ πικραῖς</speaker></line>
+	<line num="179"  type="ia4" stanza="antistrophe_ionic"><speaker name="Χορός"> δύαισιν οὐδὲν ἐπιχαλᾷς,</speaker></line>
+	<line num="180"  type="ia4" stanza="antistrophe_ionic"><speaker name="Χορός"> ἄγαν δʼ ἐλευθεροστομεῖς.</speaker></line>
+	<line num="181"  type="ia6" stanza="antistrophe_ionic"><speaker name="Χορός"> ἐμὰς δὲ φρένας ἐρέθισε διάτορος φόβος·</speaker></line>
+	<line num="182"  type="lec" stanza="antistrophe_ionic"><speaker name="Χορός"> δέδια δʼ ἀμφὶ σαῖς τύχαις,</speaker></line>
+	<line num="183"  type="D_ith" stanza="antistrophe_ionic"><speaker name="Χορός"> πᾷ ποτε τῶνδε πόνων χρή σε τέρμα κέλσαντʼ</speaker></line>
+	<line num="184"  type="uu_4da" stanza="antistrophe_ionic"><speaker name="Χορός">  ἐσιδεῖν· ἀκίχητα γὰρ ἤθεα καὶ κέαρ</speaker></line>
+	<line num="185"  type="D_ba" stanza="antistrophe_ionic"><speaker name="Χορός"> ἀπαράμυθον ἔχει Κρόνου παῖς.</speaker></line>
+
+	<line num="187"  type="an6"><speaker name="Προμηθεύς"> οἶδʼ ὅτι τραχὺς καὶ παρʼ ἑαυτῷ τὸ δίκαιον ἔχων</speaker></line>
+	<line num="188"  type="an6"><speaker name="Προμηθεύς">  Ζεύς. ἀλλʼ ἔμπας <δ᾽> οἴω, μαλακογνώμων</speaker></line>
+	<line num="189"  type="an4"><speaker name="Προμηθεύς"> ἔσται ποθʼ, ὅταν ταύτῃ ῥαισθῇ·</speaker></line>
+	<line num="190"  type="an4"><speaker name="Προμηθεύς"> τὴν δʼ ἀτέραμνον στορέσας ὀργὴν</speaker></line>
+	<line num="191"  type="an4"><speaker name="Προμηθεύς"> εἰς ἀρθμὸν ἐμοὶ καὶ φιλότητα</speaker></line>
+	<line num="192"  type="an4"><speaker name="Προμηθεύς"> σπεύδων σπεύδοντί ποθʼ ἥξει.</speaker></line>
+</subsection>
+</section>
+
+<section type="episode" form="iambic">
+<subsection type="dialogue">
+<line num="196"  type="ia6"><speaker name="Χορός"> πάντʼ ἐκκάλυψον καὶ γέγωνʼ ἡμῖν λόγον,</speaker></line>
+<line num="197"  type="ia6"><speaker name="Χορός"> ποίῳ λαβών σε Ζεὺς ἐπʼ αἰτιάματι,</speaker></line>
+<line num="198"  type="ia6"><speaker name="Χορός"> οὕτως ἀτίμως καὶ πικρῶς αἰκίζεται·</speaker></line>
+<line num="199"  type="ia6"><speaker name="Χορός"> δίδαξον ἡμᾶς, εἴ τι μὴ βλάπτει λόγῳ.</speaker></line>
+<line num="200"  type="ia6"><speaker name="Προμηθεύς"> ἀλγεινὰ μέν μοι καὶ λέγειν ἐστὶν τάδε,</speaker></line>
+<line num="200b"  type="ia6"><speaker name="Προμηθεύς"> ἄλγος δὲ σιγᾶν, πανταχῇ δὲ δύσποτμα.</speaker></line>
+<line num="201"  type="ia6"><speaker name="Προμηθεύς"> ἐπεὶ τάχιστʼ ἤρξαντο δαίμονες χόλου</speaker></line>
+<line num="202"  type="ia6"><speaker name="Προμηθεύς"> στάσις τʼ ἐν ἀλλήλοισιν ὠροθύνετο,</speaker></line>
+<line num="203"  type="ia6"><speaker name="Προμηθεύς"> οἱ μὲν θέλοντες ἐκβαλεῖν ἕδρας Κρόνον,</speaker></line>
+<line num="204"  type="ia6"><speaker name="Προμηθεύς"> ὡς Ζεὺς ἀνάσσοι δῆθεν, οἱ δὲ τοὔμπαλιν</speaker></line>
+<line num="205"  type="ia6"><speaker name="Προμηθεύς"> σπεύδοντες, ὡς Ζεὺς μήποτʼ ἄρξειεν θεῶν,</speaker></line>
+<line num="206"  type="ia6"><speaker name="Προμηθεύς"> ἐνταῦθʼ ἐγὼ τὰ λῷστα βουλεύων πιθεῖν</speaker></line>
+<line num="207"  type="ia6"><speaker name="Προμηθεύς"> Τιτᾶνας, Οὐρανοῦ τε καὶ Χθονὸς τέκνα,</speaker></line>
+<line num="208"  type="ia6"><speaker name="Προμηθεύς"> οὐκ ἠδυνήθην. αἱμύλας δὲ μηχανὰς</speaker></line>
+<line num="209"  type="ia6"><speaker name="Προμηθεύς"> ἀτιμάσαντες καρτεροῖς φρονήμασιν</speaker></line>
+<line num="210"  type="ia6"><speaker name="Προμηθεύς"> ᾤοντʼ ἀμοχθεὶ πρὸς βίαν τε δεσπόσειν·</speaker></line>
+<line num="211"  type="ia6"><speaker name="Προμηθεύς"> ἐμοὶ δὲ μήτηρ οὐχ ἅπαξ μόνον Θέμις,</speaker></line>
+<line num="212"  type="ia6"><speaker name="Προμηθεύς"> καὶ Γαῖα, πολλῶν ὀνομάτων μορφὴ μία,</speaker></line>
+<line num="213"  type="ia6"><speaker name="Προμηθεύς"> τὸ μέλλον κραίνοιτο προυτεθεσπίκει,</speaker></line>
+<line num="214"  type="ia6"><speaker name="Προμηθεύς"> ὡς οὐ κατʼ ἰσχὺν οὐδὲ πρὸς τὸ καρτερόν</speaker></line>
+<line num="215"  type="ia6"><speaker name="Προμηθεύς"> χρείη, δόλῳ δὲ τοὺς ὑπερσχόντας κρατεῖν.</speaker></line>
+<line num="216"  type="ia6"><speaker name="Προμηθεύς"> τοιαῦτʼ ἐμοῦ λόγοισιν ἐξηγουμένου</speaker></line>
+<line num="217"  type="ia6"><speaker name="Προμηθεύς"> οὐκ ἠξίωσαν οὐδὲ προσβλέψαι τὸ πᾶν.</speaker></line>
+<line num="218"  type="ia6"><speaker name="Προμηθεύς"> κράτιστα δή μοι τῶν παρεστώτων τότε</speaker></line>
+<line num="219"  type="ia6"><speaker name="Προμηθεύς"> ἐφαίνετʼ εἶναι προσλαβόντα μητέρα</speaker></line>
+<line num="220"  type="ia6"><speaker name="Προμηθεύς"> ἑκόνθʼ ἑκόντι Ζηνὶ συμπαραστατεῖν.</speaker></line>
+<line num="221"  type="ia6"><speaker name="Προμηθεύς"> ἐμαῖς δὲ βουλαῖς Ταρτάρου μελαμβαθὴς</speaker></line>
+<line num="222"  type="ia6"><speaker name="Προμηθεύς"> κευθμὼν καλύπτει τὸν παλαιγενῆ Κρόνον</speaker></line>
+<line num="223"  type="ia6"><speaker name="Προμηθεύς"> αὐτοῖσι συμμάχοισι. τοιάδʼ ἐξ ἐμοῦ</speaker></line>
+<line num="224"  type="ia6"><speaker name="Προμηθεύς"> ὁ τῶν θεῶν τύραννος ὠφελημένος</speaker></line>
+<line num="225"  type="ia6"><speaker name="Προμηθεύς"> κακαῖσι ποιναῖς ταῖσδὲ μʼ ἐξημείψατο.</speaker></line>
+<line num="226"  type="ia6"><speaker name="Προμηθεύς"> ἔνεστι γάρ πως τοῦτο τῇ τυραννίδι</speaker></line>
+<line num="227"  type="ia6"><speaker name="Προμηθεύς"> νόσημα, τοῖς φίλοισι μὴ πεποιθέναι.</speaker></line>
+<line num="228"  type="ia6"><speaker name="Προμηθεύς"> ὃ δʼ οὖν ἐρωτᾶτʼ, αἰτίαν καθʼ ἥντινα</speaker></line>
+<line num="229"  type="ia6"><speaker name="Προμηθεύς"> αἰκίζεταί με, τοῦτο δὴ σαφηνιῶ.</speaker></line>
+<line num="230"  type="ia6"><speaker name="Προμηθεύς"> ὅπως τάχιστα τὸν πατρῷον ἐς θρόνον</speaker></line>
+<line num="231"  type="ia6"><speaker name="Προμηθεύς"> καθέζετʼ, εὐθὺς δαίμοσιν νέμει γέρα</speaker></line>
+<line num="232"  type="ia6"><speaker name="Προμηθεύς"> ἄλλοισιν ἄλλα καὶ διεστοιχίζετο</speaker></line>
+<line num="233"  type="ia6"><speaker name="Προμηθεύς"> ἀρχήν· βροτῶν δὲ τῶν ταλαιπώρων λόγον</speaker></line>
+<line num="234"  type="ia6"><speaker name="Προμηθεύς"> οὐκ ἔσχεν οὐδένʼ, ἀλλʼ ἀιστώσας γένος</speaker></line>
+<line num="235"  type="ia6"><speaker name="Προμηθεύς"> τὸ πᾶν ἔχρῃζεν ἄλλο φιτῦσαι νέον.</speaker></line>
+<line num="236"  type="ia6"><speaker name="Προμηθεύς"> καὶ τοῖσιν οὐδεὶς ἀντέβαινε πλὴν ἐμοῦ.</speaker></line>
+<line num="237"  type="ia6"><speaker name="Προμηθεύς"> ἐγὼ δʼ ἐτόλμησʼ· ἐξελυσάμην βροτοὺς</speaker></line>
+<line num="238"  type="ia6"><speaker name="Προμηθεύς"> τὸ μὴ διαρραισθέντας εἰς Ἅιδου μολεῖν.</speaker></line>
+<line num="239"  type="ia6"><speaker name="Προμηθεύς"> τῷ τοι τοιαῖσδε πημοναῖσι κάμπτομαι,</speaker></line>
+<line num="240"  type="ia6"><speaker name="Προμηθεύς"> πάσχειν μὲν ἀλγειναῖσιν, οἰκτραῖσιν δʼ ἰδεῖν·</speaker></line>
+<line num="241"  type="ia6"><speaker name="Προμηθεύς"> θνητοὺς δʼ ἐν οἴκτῳ προθέμενος, τούτου τυχεῖν</speaker></line>
+<line num="242"  type="ia6"><speaker name="Προμηθεύς"> οὐκ ἠξιώθην αὐτός, ἀλλὰ νηλεῶς</speaker></line>
+<line num="243"  type="ia6"><speaker name="Προμηθεύς"> ὧδʼ ἐρρύθμισμαι, Ζηνὶ δυσκλεὴς θέα.</speaker></line>
+<line num="244"  type="ia6"><speaker name="Χορός"> σιδηρόφρων τε κἀκ πέτρας εἰργασμένος</speaker></line>
+<line num="245"  type="ia6"><speaker name="Χορός"> ὅστις, Προμηθεῦ, σοῖσιν οὐ συνασχαλᾷ</speaker></line>
+<line num="246"  type="ia6"><speaker name="Χορός"> μόχθοις· ἐγὼ γὰρ οὔτʼ ἂν εἰσιδεῖν τάδε</speaker></line>
+<line num="247"  type="ia6"><speaker name="Χορός"> ἔχρῃζον εἰσιδοῦσά τʼ ἠλγύνθην κέαρ.</speaker></line>
+<line num="248"  type="ia6"><speaker name="Προμηθεύς"> καὶ μὴν φίλοις <add>γʼ </add> ἐλεινὸς εἰσορᾶν ἐγώ.</speaker></line>
+<line num="249"  type="ia6"><speaker name="Χορός"> μή πού τι προύβης τῶνδε καὶ περαιτέρω;</speaker></line>
+<line num="250"  type="ia6"><speaker name="Προμηθεύς"> θνητούς γʼ ἔπαυσα μὴ προδέρκεσθαι μόρον.</speaker></line>
+<line num="251"  type="ia6"><speaker name="Χορός"> τὸ ποῖον εὑρὼν τῆσδε φάρμακον νόσου;</speaker></line>
+<line num="252"  type="ia6"><speaker name="Προμηθεύς"> τυφλὰς ἐν αὐτοῖς ἐλπίδας κατῴκισα.</speaker></line>
+<line num="253"  type="ia6"><speaker name="Χορός"> μέγʼ ὠφέλημα τοῦτʼ ἐδωρήσω βροτοῖς.</speaker></line>
+<line num="254"  type="ia6"><speaker name="Προμηθεύς"> πρὸς τοῖσδε μέντοι πῦρ ἐγώ σφιν ὤπασα.</speaker></line>
+<line num="255"  type="ia6"><speaker name="Χορός"> καὶ νῦν φλογωπὸν πῦρ ἔχουσʼ ἐφήμεροι;</speaker></line>
+<line num="256"  type="ia6"><speaker name="Προμηθεύς"> ἀφʼ οὗ γε πολλὰς ἐκμαθήσονται τέχνας.</speaker></line>
+<line num="257"  type="ia6"><speaker name="Χορός"> τοιοῖσδε δή σε Ζεὺς ἐπʼ αἰτιάμασιν—</speaker></line>
+<line num="258"  type="ia6"><speaker name="Προμηθεύς"> αἰκίζεταί τε κοὐδαμῇ χαλᾷ κακῶν.</speaker></line>
+<line num="259"  type="ia6"><speaker name="Χορός"> οὐδʼ ἔστιν ἄθλου τέρμα σοι προκείμενον;</speaker></line>
+<line num="260"  type="ia6"><speaker name="Προμηθεύς"> οὐκ ἄλλο γʼ οὐδέν, πλὴν ὅταν κείνῳ δοκῇ.</speaker></line>
+<line num="261"  type="ia6"><speaker name="Χορός"> δόξει δὲ πῶς; τίς ἐλπίς; οὐχ ὁρᾷς ὅτι</speaker></line>
+<line num="262"  type="ia6"><speaker name="Χορός"> ἥμαρτες; ὡς δʼ ἥμαρτες οὔτʼ ἐμοὶ λέγειν</speaker></line>
+<line num="263"  type="ia6"><speaker name="Χορός"> καθʼ ἡδονὴν σοί τʼ ἄλγος. ἀλλὰ ταῦτα μὲν</speaker></line>
+<line num="264"  type="ia6"><speaker name="Χορός"> μεθῶμεν, ἄθλου δʼ ἔκλυσιν ζήτει τινά.</speaker></line>
+<line num="265"  type="ia6"><speaker name="Προμηθεύς"> ἐλαφρὸν ὅστις πημάτων ἔξω πόδα</speaker></line>
+<line num="266"  type="ia6"><speaker name="Προμηθεύς"> ἔχει παραινεῖν νουθετεῖν τε τὸν κακῶς</speaker></line>
+<line num="267"  type="ia6"><speaker name="Προμηθεύς"> πράσσοντʼ· ἐγὼ δὲ ταῦθʼ ἅπαντʼ ἠπιστάμην.</speaker></line>
+<line num="268"  type="ia6"><speaker name="Προμηθεύς"> ἑκὼν ἑκὼν ἥμαρτον, οὐκ ἀρνήσομαι·</speaker></line>
+<line num="269"  type="ia6"><speaker name="Προμηθεύς"> θνητοῖς ἀρήγων αὐτὸς ηὑρόμην πόνους.</speaker></line>
+<line num="270"  type="ia6"><speaker name="Προμηθεύς"> οὐ μήν τι ποιναῖς γʼ ᾠόμην τοίαισί με</speaker></line>
+<line num="271"  type="ia6"><speaker name="Προμηθεύς"> κατισχνανεῖσθαι πρὸς πέτραις πεδαρσίοις,</speaker></line>
+<line num="272"  type="ia6"><speaker name="Προμηθεύς"> τυχόντʼ ἐρήμου τοῦδʼ ἀγείτονος πάγου.</speaker></line>
+<line num="273"  type="ia6"><speaker name="Προμηθεύς"> καί μοι τὰ μὲν παρόντα μὴ δύρεσθʼ ἄχη,</speaker></line>
+<line num="274"  type="ia6"><speaker name="Προμηθεύς"> πέδοι δὲ βᾶσαι τὰς προσερπούσας τύχας</speaker></line>
+<line num="275"  type="ia6"><speaker name="Προμηθεύς"> ἀκούσαθʼ, ὡς μάθητε διὰ τέλους τὸ πᾶν.</speaker></line>
+<line num="276"  type="ia6"><speaker name="Προμηθεύς"> πίθεσθέ μοι πίθεσθε, συμπονήσατε</speaker></line>
+<line num="277"  type="ia6"><speaker name="Προμηθεύς"> τῷ νῦν μογοῦντι. ταὐτά τοι πλανωμένη</speaker></line>
+<line num="278"  type="ia6"><speaker name="Προμηθεύς"> πρὸς ἄλλοτʼ ἄλλον πημονὴ προσιζάνει.</speaker></line>
+</subsection>
+<subsection type="anapaests"">
+<line num="279"  type="an6"><speaker name="Χορός"> οὐκ ἁκούσαις ἐπεθώυξας τοῦτο, Προμηθεῦ.</speaker></line>
+<line num="280"  type="an4"><speaker name="Χορός"> καὶ νῦν ἐλαφρῷ ποδὶ κραιπνόσυτον</speaker></line>
+<line num="281"  type="an2"><speaker name="Χορός"> θᾶκον προλιποῦσʼ,</speaker></line>
+<line num="282"  type="an4"><speaker name="Χορός"> αἰθέρα θʼ ἁγνὸν πόρον οἰωνῶν,</speaker></line>
+<line num="283"  type="an4"><speaker name="Χορός"> ὀκριοέσσῃ χθονὶ τῇδε πελῶ,</speaker></line>
+<line num="284"  type="an6cat"><speaker name="Χορός">  τοὺς σοὺς δὲ πόνους χρῄζω διὰ παντὸς ἀκοῦσαι.</speaker></line>
+
+<line num="286"  type="an4"><speaker name="Ὠκεανός"> ἥκω δολιχῆς τέρμα κελεύθου</speaker></line>
+<line num="287"  type="an4"><speaker name="Ὠκεανός"> διαμειψάμενος πρὸς σέ, Προμηθεῦ,</speaker></line>
+<line num="288"  type="an4"><speaker name="Ὠκεανός"> τὸν πτερυγωκῆ τόνδʼ οἰωνὸν</speaker></line>
+<line num="289"  type="an4"><speaker name="Ὠκεανός"> γνώμῃ στομίων ἄτερ εὐθύνων·</speaker></line>
+<line num="290"  type="an4"><speaker name="Ὠκεανός"> ταῖς σαῖς δὲ τύχαις, ἴσθι, συναλγῶ.</speaker></line>
+<line num="291"  type="an6"><speaker name="Ὠκεανός"> τὸ τε γάρ με, δοκῶ, συγγενὲς οὕτως ἐσαναγκάζει,</speaker></line>
+<line num="293"  type="an4"><speaker name="Ὠκεανός"> χωρίς τε γένους οὐκ ἔστιν ὅτῳ</speaker></line>
+<line num="294"  type="an4"><speaker name="Ὠκεανός"> μείζονα μοῖραν νείμαιμʼ ἢ σοί.</speaker></line>
+<line num="295"  type="an4"><speaker name="Ὠκεανός"> γνώσῃ δὲ τάδʼ ὡς ἔτυμʼ, οὐδὲ μάτην</speaker></line>
+<line num="296"  type="an4"><speaker name="Ὠκεανός"> χαριτογλωσσεῖν ἔνι μοι· φέρε γὰρ</speaker></line>
+<line num="297"  type="an4"><speaker name="Ὠκεανός"> σήμαινʼ ὅ τι χρή σοι συμπράσσειν·</speaker></line>
+<line num="298"  type="an4"><speaker name="Ὠκεανός"> οὐ γάρ ποτʼ ἐρεῖς ὡς Ὠκεανοῦ</speaker></line>
+<line num="299"  type="an4cat"><speaker name="Ὠκεανός"> φίλος ἐστὶ βεβαιότερός σοι.</speaker></line>
+</subsection>
+<subsection type="dialogue">
+<line num="300"  type="ia6"><speaker name="Προμηθεύς"> ἔα· τί χρῆμα; καὶ σὺ δὴ πόνων ἐμῶν</speaker></line>
+<line num="301"  type="ia6"><speaker name="Προμηθεύς"> ἥκεις ἐπόπτης; πῶς ἐτόλμησας, λιπὼν</speaker></line>
+<line num="302"  type="ia6"><speaker name="Προμηθεύς"> ἐπώνυμόν τε ῥεῦμα καὶ πετρηρεφῆ</speaker></line>
+<line num="303"  type="ia6"><speaker name="Προμηθεύς"> αὐτόκτιτʼ ἄντρα, τὴν σιδηρομήτορα</speaker></line>
+<line num="304"  type="ia6"><speaker name="Προμηθεύς"> ἐλθεῖν ἐς αἶαν; ἦ θεωρήσων τύχας</speaker></line>
+<line num="305"  type="ia6"><speaker name="Προμηθεύς"> ἐμὰς ἀφῖξαι καὶ συνασχαλῶν κακοῖς;</speaker></line>
+<line num="306"  type="ia6"><speaker name="Προμηθεύς"> δέρκου θέαμα, τόνδε τὸν Διὸς φίλον,</speaker></line>
+<line num="307"  type="ia6"><speaker name="Προμηθεύς"> τὸν συγκαταστήσαντα τὴν τυραννίδα,</speaker></line>
+<line num="308"  type="ia6"><speaker name="Προμηθεύς"> οἵαις ὑπʼ αὐτοῦ πημοναῖσι κάμπτομαι.</speaker></line>
+<line num="309"  type="ia6"><speaker name="Ὠκεανός"> ὁρῶ, Προμηθεῦ, καὶ παραινέσαι γέ σοι</speaker></line>
+<line num="310"  type="ia6"><speaker name="Ὠκεανός"> θέλω τὰ λῷστα, καίπερ ὄντι ποικίλῳ.</speaker></line>
+<line num="311"  type="ia6"><speaker name="Ὠκεανός"> γίγνωσκε σαυτὸν καὶ μεθάρμοσαι τρόπους</speaker></line>
+<line num="312"  type="ia6"><speaker name="Ὠκεανός"> νέους· νέος γὰρ καὶ τύραννος ἐν θεοῖς.</speaker></line>
+<line num="313"  type="ia6"><speaker name="Ὠκεανός"> εἰ δʼ ὧδε τραχεῖς καὶ τεθηγμένους λόγους</speaker></line>
+<line num="314"  type="ia6"><speaker name="Ὠκεανός"> ῥίψεις, τάχʼ ἄν σου καὶ μακρὰν ἀνωτέρω</speaker></line>
+<line num="315"  type="ia6"><speaker name="Ὠκεανός"> θακῶν κλύοι Ζεύς, ὥστε σοι τὸν νῦν ὄχλον</speaker></line>
+<line num="316"  type="ia6"><speaker name="Ὠκεανός"> παρόντα μόχθων παιδιὰν εἶναι δοκεῖν.</speaker></line>
+<line num="317"  type="ia6"><speaker name="Ὠκεανός"> ἀλλʼ, ὦ ταλαίπωρʼ, ἃς ἔχεις ὀργὰς ἄφες,</speaker></line>
+<line num="318"  type="ia6"><speaker name="Ὠκεανός"> ζήτει δὲ τῶνδε πημάτων ἀπαλλαγάς.</speaker></line>
+<line num="319"  type="ia6"><speaker name="Ὠκεανός"> ἀρχαῖʼ ἴσως σοι φαίνομαι λέγειν τάδε·</speaker></line>
+<line num="320"  type="ia6"><speaker name="Ὠκεανός"> τοιαῦτα μέντοι τῆς ἄγαν ὑψηγόρου</speaker></line>
+<line num="321"  type="ia6"><speaker name="Ὠκεανός"> γλώσσης, Προμηθεῦ, τἀπίχειρα γίγνεται.</speaker></line>
+<line num="322"  type="ia6"><speaker name="Ὠκεανός"> σὺ δʼ οὐδέπω ταπεινὸς οὐδʼ εἴκεις κακοῖς,</speaker></line>
+<line num="323"  type="ia6"><speaker name="Ὠκεανός"> πρὸς τοῖς παροῦσι δʼ ἄλλα προσλαβεῖν θέλεις.</speaker></line>
+<line num="324"  type="ia6"><speaker name="Ὠκεανός"> οὔκουν ἔμοιγε χρώμενος διδασκάλῳ</speaker></line>
+<line num="325"  type="ia6"><speaker name="Ὠκεανός"> πρὸς κέντρα κῶλον ἐκτενεῖς, ὁρῶν ὅτι</speaker></line>
+<line num="326"  type="ia6"><speaker name="Ὠκεανός"> τραχὺς μόναρχος οὐδʼ ὑπεύθυνος κρατεῖ.</speaker></line>
+<line num="327"  type="ia6"><speaker name="Ὠκεανός"> καὶ νῦν ἐγὼ μὲν εἶμι καὶ πειράσομαι</speaker></line>
+<line num="328"  type="ia6"><speaker name="Ὠκεανός"> ἐὰν δύνωμαι τῶνδέ σʼ ἐκλῦσαι πόνων.</speaker></line>
+<line num="329"  type="ia6"><speaker name="Ὠκεανός"> σὺ δʼ ἡσύχαζε μηδʼ ἄγαν λαβροστόμει.</speaker></line>
+<line num="330"  type="ia6"><speaker name="Ὠκεανός"> ἢ οὐκ οἶσθʼ ἀκριβῶς ὢν περισσόφρων ὅτι</speaker></line>
+<line num="331"  type="ia6"><speaker name="Ὠκεανός"> γλώσσῃ ματαίᾳ ζημία προστρίβεται;</speaker></line>
+<line num="332"  type="ia6"><speaker name="Προμηθεύς"> ζηλῶ σʼ ὁθούνεκʼ ἐκτὸς αἰτίας κυρεῖς</speaker></line>
+<line num="333"  type="ia6"><speaker name="Προμηθεύς"> τούτων μετασχεῖν καὶ τετολμηκὼς ἐμοί.</speaker></line>
+<line num="334"  type="ia6"><speaker name="Προμηθεύς"> καὶ νῦν ἔασον μηδέ σοι μελησάτω.</speaker></line>
+<line num="335"  type="ia6"><speaker name="Προμηθεύς"> πάντως γὰρ οὐ πείσεις νιν· οὐ γὰρ εὐπιθής.</speaker></line>
+<line num="336"  type="ia6"><speaker name="Προμηθεύς"> πάπταινε δʼ αὐτὸς μή τι πημανθῇς ὁδῷ.</speaker></line>
+<line num="337"  type="ia6"><speaker name="Ὠκεανός"> πολλῷ γʼ ἀμείνων τοὺς πέλας φρενοῦν ἔφυς</speaker></line>
+<line num="338"  type="ia6"><speaker name="Ὠκεανός"> ἢ σαυτόν· ἔργῳ κοὐ λόγῳ τεκμαίρομαι.</speaker></line>
+<line num="340"  type="ia6"><speaker name="Ὠκεανός"> ὁρμώμενον δὲ μηδαμῶς ἀντισπάσῃς.</speaker></line>
+<line num="341"  type="ia6"><speaker name="Ὠκεανός"> αὐχῶ γὰρ αὐχῶ τήνδε δωρεὰν ἐμοὶ</speaker></line>
+<line num="342"  type="ia6"><speaker name="Ὠκεανός"> δώσειν Δίʼ, ὥστε τῶνδέ σʼ ἐκλῦσαι πόνων.</speaker></line>
+<line num="343"  type="ia6"><speaker name="Προμηθεύς"> τὰ μὲν σʼ ἐπαινῶ κοὐδαμῇ λήξω ποτέ·</speaker></line>
+<line num="343b"  type="ia6"><speaker name="Προμηθεύς"> προθυμίας γὰρ οὐδὲν ἐλλείπεις. ἀτὰρ</speaker></line>
+<line num="344"  type="ia6"><speaker name="Προμηθεύς"> μηδὲν πόνει. μάτην γὰρ οὐδὲν ὠφελῶν</speaker></line>
+<line num="345"  type="ia6"><speaker name="Προμηθεύς"> ἐμοὶ πονήσεις, εἴ τι καὶ πονεῖν θέλεις.</speaker></line>
+<line num="346"  type="ia6"><speaker name="Προμηθεύς"> ἀλλʼ ἡσύχαζε σαυτὸν ἐκποδὼν ἔχων·</speaker></line>
+<line num="347"  type="ia6"><speaker name="Προμηθεύς"> ἐγὼ γὰρ οὐκ, εἰ δυστυχῶ, τοῦδʼ εἵνεκα</speaker></line>
+<line num="348"  type="ia6"><speaker name="Προμηθεύς"> θέλοιμʼ ἂν ὡς πλείστοισι πημονὰς τυχεῖν.</speaker></line>
+<line num="349"  type="ia6"><speaker name="Προμηθεύς"> οὐ δῆτʼ ἐπεί με καὶ κασιγνήτου τύχαι</speaker></line>
+<line num="350"  type="ia6"><speaker name="Προμηθεύς"> τείρουσʼ Ἄτλαντος, ὃς πρὸς ἑσπέρους τόπους</speaker></line>
+<line num="351"  type="ia6"><speaker name="Προμηθεύς"> ἕστηκε κίονʼ οὐρανοῦ τε καὶ χθονὸς</speaker></line>
+<line num="352"  type="ia6"><speaker name="Προμηθεύς"> ὤμοις ἐρείδων, ἄχθος οὐκ εὐάγκαλον.</speaker></line>
+<line num="353"  type="ia6"><speaker name="Προμηθεύς"> τὸν γηγενῆ τε Κιλικίων οἰκήτορα</speaker></line>
+<line num="354"  type="ia6"><speaker name="Προμηθεύς"> ἄντρων ἰδὼν ᾤκτιρα, δάιον τέρας</speaker></line>
+<line num="355"  type="ia6"><speaker name="Προμηθεύς"> ἑκατογκάρανον πρὸς βίαν χειρούμενον</speaker></line>
+<line num="356"  type="ia6"><speaker name="Προμηθεύς"> Τυφῶνα θοῦρον· πᾶσιν <del>ὅς</del> ἀντέστη θεοῖς,</speaker></line>
+<line num="357"  type="ia6"><speaker name="Προμηθεύς"> σμερδναῖσι γαμφηλαῖσι συρίζων φόβον·</speaker></line>
+<line num="358"  type="ia6"><speaker name="Προμηθεύς"> ἐξ ὀμμάτων δʼ ἤστραπτε γοργωπὸν σέλας,</speaker></line>
+<line num="359"  type="ia6"><speaker name="Προμηθεύς"> ὡς τὴν Διὸς τυραννίδʼ ἐκπέρσων βίᾳ·</speaker></line>
+<line num="360"  type="ia6"><speaker name="Προμηθεύς"> ἀλλʼ ἦλθεν αὐτῷ Ζηνὸς ἄγρυπνον βέλος,</speaker></line>
+<line num="361"  type="ia6"><speaker name="Προμηθεύς"> καταιβάτης κεραυνὸς ἐκπνέων φλόγα,</speaker></line>
+<line num="362"  type="ia6"><speaker name="Προμηθεύς"> ὃς αὐτὸν ἐξέπληξε τῶν ὑψηγόρων</speaker></line>
+<line num="363"  type="ia6"><speaker name="Προμηθεύς"> κομπασμάτων. φρένας γὰρ εἰς αὐτὰς τυπεὶς</speaker></line>
+<line num="364"  type="ia6"><speaker name="Προμηθεύς"> ἐφεψαλώθη κἀξεβροντήθη σθένος.</speaker></line>
+<line num="365"  type="ia6"><speaker name="Προμηθεύς"> καὶ νῦν ἀχρεῖον καὶ παράορον δέμας</speaker></line>
+<line num="366"  type="ia6"><speaker name="Προμηθεύς"> κεῖται στενωποῦ πλησίον θαλασσίου</speaker></line>
+<line num="367"  type="ia6"><speaker name="Προμηθεύς"> ἰπούμενος ῥίζαισιν Αἰτναίαις ὕπο·</speaker></line>
+<line num="368"  type="ia6"><speaker name="Προμηθεύς"> κορυφαῖς δʼ ἐν ἄκραις ἥμενος μυδροκτυπεῖ</speaker></line>
+<line num="369"  type="ia6"><speaker name="Προμηθεύς"> Ἥφαιστος· ἔνθεν ἐκραγήσονταί ποτε</speaker></line>
+<line num="370"  type="ia6"><speaker name="Προμηθεύς"> ποταμοὶ πυρὸς δάπτοντες ἀγρίαις γνάθοις</speaker></line>
+<line num="371"  type="ia6"><speaker name="Προμηθεύς"> τῆς καλλικάρπου Σικελίας λευροὺς γύας·</speaker></line>
+<line num="372"  type="ia6"><speaker name="Προμηθεύς"> τοιόνδε Τυφὼς ἐξαναζέσει χόλον</speaker></line>
+<line num="373"  type="ia6"><speaker name="Προμηθεύς"> θερμοῖς ἀπλάτου βέλεσι πυρπνόου ζάλης,</speaker></line>
+<line num="374"  type="ia6"><speaker name="Προμηθεύς"> καίπερ κεραυνῷ Ζηνὸς ἠνθρακωμένος.</speaker></line>
+<line num="375"  type="ia6"><speaker name="Προμηθεύς"> σὺ δʼ οὐκ ἄπειρος, οὐδʼ ἐμοῦ διδασκάλου</speaker></line>
+<line num="376"  type="ia6"><speaker name="Προμηθεύς"> χρῄζεις· σεαυτὸν σῷζʼ ὅπως ἐπίστασαι·</speaker></line>
+<line num="377"  type="ia6"><speaker name="Προμηθεύς"> ἐγὼ δὲ τὴν παροῦσαν ἀντλήσω τύχην,</speaker></line>
+<line num="378"  type="ia6"><speaker name="Προμηθεύς"> ἔστʼ ἂν Διὸς φρόνημα λωφήσῃ χόλου.</speaker></line>
+<line num="379"  type="ia6"><speaker name="Ὠκεανός"> οὔκουν, Προμηθεῦ, τοῦτο γιγνώσκεις, ὅτι</speaker></line>
+<line num="380"  type="ia6"><speaker name="Ὠκεανός"> ὀργῆς νοσούσης εἰσὶν ἰατροὶ λόγοι;</speaker></line>
+<line num="381"  type="ia6"><speaker name="Προμηθεύς"> ἐάν τις ἐν καιρῷ γε μαλθάσσῃ κέαρ</speaker></line>
+<line num="382"  type="ia6"><speaker name="Προμηθεύς"> καὶ μὴ σφριγῶντα θυμὸν ἰσχναίνῃ βίᾳ.</speaker></line>
+<line num="383"  type="ia6"><speaker name="Ὠκεανός"> ἐν τῷ προθυμεῖσθαι δὲ καὶ τολμᾶν τίνα</speaker></line>
+<line num="384"  type="ia6"><speaker name="Ὠκεανός"> ὁρᾷς ἐνοῦσαν ζημίαν; δίδασκέ με.</speaker></line>
+<line num="385"  type="ia6"><speaker name="Προμηθεύς"> μόχθον περισσὸν κουφόνουν τʼ εὐηθίαν.</speaker></line>
+<line num="386"  type="ia6"><speaker name="Ὠκεανός"> ἔα με τῇδε τῇ νόσῳ νοσεῖν, ἐπεὶ</speaker></line>
+<line num="387"  type="ia6"><speaker name="Ὠκεανός"> κέρδιστον εὖ φρονοῦντα μὴ φρονεῖν δοκεῖν.</speaker></line>
+<line num="388"  type="ia6"><speaker name="Προμηθεύς"> ἐμὸν δοκήσει τἀμπλάκημʼ εἶναι τόδε.</speaker></line>
+<line num="389"  type="ia6"><speaker name="Ὠκεανός"> σαφῶς μʼ ἐς οἶκον σὸς λόγος στέλλει πάλιν.</speaker></line>
+<line num="390"  type="ia6"><speaker name="Προμηθεύς"> μὴ γάρ σε θρῆνος οὑμὸς εἰς ἔχθραν βάλῃ.</speaker></line>
+<line num="391"  type="ia6"><speaker name="Ὠκεανός"> ἦ τῷ νέον θακοῦντι παγκρατεῖς ἕδρας;</speaker></line>
+<line num="392"  type="ia6"><speaker name="Προμηθεύς"> τούτου φυλάσσου μή ποτʼ ἀχθεσθῇ κέαρ.</speaker></line>
+<line num="393"  type="ia6"><speaker name="Ὠκεανός"> ἡ σή, Προμηθεῦ, συμφορὰ διδάσκαλος.</speaker></line>
+<line num="394"  type="ia6"><speaker name="Προμηθεύς"> στέλλου, κομίζου, σῷζε τὸν παρόντα νοῦν.</speaker></line>
+<line num="395"  type="ia6"><speaker name="Ὠκεανός"> ὁρμωμένῳ μοι τόνδʼ ἐθώυξας λόγον.</speaker></line>
+<line num="396"  type="ia6"><speaker name="Ὠκεανός"> λευρὸν γὰρ οἷμον αἰθέρος ψαίρει πτεροῖς</speaker></line>
+<line num="397"  type="ia6"><speaker name="Ὠκεανός"> τετρασκελὴς οἰωνός· ἄσμενος δέ τἂν</speaker></line>
+<line num="398"  type="ia6"><speaker name="Ὠκεανός"> σταθμοῖς ἐν οἰκείοισι κάμψειεν γόνυ.</speaker></line>
+</subsection>
+</section>
+
+<section type="stasimon" form="strophic">
+<subsection type="strophic_pair">
+	<line num="399"  type="iapenth_anacr" stanza="strophe_ionic"><speaker name="Χορός"> στένω σε τᾶς οὐλομένας τύχας, Προμηθεῦ·</speaker></line>
+	<line num="400"  type="io2" stanza="strophe_ionic"><speaker name="Χορός"> δακρυσίστακτα δʼ ἀπʼ ὄσσων</speaker></line>
+	<line num="401"  type="io_anacr" stanza="strophe_ionic"><speaker name="Χορός"> ῥαδινὰν λειβομένα ῥέος παρειὰν</speaker></line>
+	<line num="402"  type="anacr" stanza="strophe_ionic"><speaker name="Χορός"> νοτίοις ἔτεγξα παγαῖς·</speaker></line>
+	<line num="403"  type="anacr" stanza="strophe_ionic"><speaker name="Χορός"> ἀμέγαρτα γὰρ τάδε Ζεὺς</speaker></line>
+	<line num="404"  type="anacr" stanza="strophe_ionic"><speaker name="Χορός"> ἰδίοις νόμοις κρατύνων</speaker></line>
+	<line num="405"  type="anacr" stanza="strophe_ionic"><speaker name="Χορός"> ὑπερήφανον θεοῖς τοῖς</speaker></line>
+	<line num="406"  type="io_tr2" stanza="strophe_ionic"><speaker name="Χορός"> πάρος ἐνδείκνυσιν αἰχμάν.</speaker></line>
+
+	<line num="407"  type="iapenth_anacr" stanza="antistrophe_ionic"><speaker name="Χορός"> πρόπασα δʼ ἤδη στονόεν λέλακε χώρα,</speaker></line>
+	<line num="408"  type="io2" stanza="antistrophe_ionic"><speaker name="Χορός"> μεγαλοσχήμονα ἀρχαι-</speaker></line>
+	<line num="409"  type="io_anacr" stanza="antistrophe_ionic"><speaker name="Χορός"> οπρεπῆ <add>-uu-</add> στένουσι τὰν σὰν</speaker></line>
+	<line num="410"  type="anacr" stanza="antistrophe_ionic"><speaker name="Χορός"> ξυνομαιμόνων τε τιμάν,</speaker></line>
+	<line num="411"  type="anacr" stanza="antistrophe_ionic"><speaker name="Χορός"> ὁπόσοι τʼ ἔποικον ἁγνᾶς</speaker></line>
+	<line num="412"  type="anacr" stanza="antistrophe_ionic"><speaker name="Χορός"> Ἀσίας ἕδος νέμονται,</speaker></line>
+	<line num="413"  type="anacr" stanza="antistrophe_ionic"><speaker name="Χορός"> μεγαλοστόνοισι σοῖς πή-</speaker></line>
+	<line num="414"  type="io_tr2" stanza="antistrophe_ionic"><speaker name="Χορός">-μασι συγκάμνουσι θνατοί.</speaker></line>
+</subsection>
+<subsection type="strophic_pair">
+	<line num="415"  type="tr2" stanza="strophe_ionic"><speaker name="Χορός"> Κολχίδος τε γᾶς ἔνοικοι</speaker></line>
+	<line num="416"  type="tr2" stanza="strophe_ionic"><speaker name="Χορός"> παρθένοι, μάχας ἄτρεστοι,</speaker></line>
+	<line num="417"  type="tr2" stanza="strophe_ionic"><speaker name="Χορός"> καὶ Σκύθης ὅμιλος, οἳ γᾶς</speaker></line>
+	<line num="418"  type="glyc" stanza="strophe_ionic"><speaker name="Χορός"> ἔσχατον τόπον ἀμφὶ Μαι-</speaker></line>
+	<line num="419"  type="ar" stanza="strophe_ionic"><speaker name="Χορός"> ῶτιν ἔχουσι λίμναν,</speaker></line>
+
+	<line num="420"  type="tr2" stanza="antistrophe_ionic"><speaker name="Χορός"> Ἀραβίας τʼ ἄρειον ἄνθος,</speaker></line>
+	<line num="421"  type="tr2" stanza="antistrophe_ionic"><speaker name="Χορός"> ὑψίκρημνον οἳ πόλισμα</speaker></line>
+	<line num="422"  type="tr2" stanza="antistrophe_ionic"><speaker name="Χορός"> Καυκάσου πέλας νέμονται,</speaker></line>
+	<line num="423"  type="glyc" stanza="antistrophe_ionic"><speaker name="Χορός"> δάιος στρατός, ὀξυπρῴ-</speaker></line>
+	<line num="424"  type="ar" stanza="antistrophe_ionic"><speaker name="Χορός"> ροισι βρέμων ἐν αἰχμαῖς.</speaker></line>
+</subsection>
+<subsection type="strophic_pair">
+	<line num="425"  type="ba_lec" stanza="strophe_ionic"><speaker name="Χορός"> μόνον δὴ πρόσθεν ἄλλον ἐν πόνοις</speaker></line>
+	<line num="426"  type="u_D_ia2" stanza="strophe_ionic"><speaker name="Χορός"> δαμέντʼ ἀδαμαντοδέτοις Τιτᾶνα λύ-</speaker></line>
+	<line num="427"  type="lec" stanza="strophe_ionic"><speaker name="Χορός"> -μαις ἐσειδόμαν, θεόν,</speaker></line>
+	<line num="428"  type="ia6cat" stanza="strophe_ionic"><speaker name="Χορός"> Ἄτλαντος ὑπέροχον σθένος κραταιόν,</speaker></line>
+	<line num="429"  type="sp_D" stanza="strophe_ionic"><speaker name="Χορός"> <add>ὃς γᾶν</add> οὐράνιόν <del>τε</del> πόλον</speaker></line>
+	<line num="430"  type="ia2cat" stanza="strophe_ionic"><speaker name="Χορός"> νώτοις ὑποστεγάζει.</speaker></line>
+	
+	<line num="431"  type="ba_lec" stanza="antistrophe_ionic"><speaker name="Χορός"> <add>Προμηθεῦ, σὰς δὲ γᾶ στένει τύχας</add></speaker></line>	
+	<line num="431"  type="u_D_ia2" stanza="antistrophe_ionic"><speaker name="Χορός"> βοᾷ δὲ πόντιος κλύδων</speaker></line>
+	<line num="432"  type="lec" stanza="antistrophe_ionic"><speaker name="Χορός"> ξυμπίτνων, στένει βυθός,</speaker></line>
+	<line num="433"  type="ia6cat" stanza="antistrophe_ionic"><speaker name="Χορός"> κελαινὸς δʼ Ἄιδος ὑποβρέμει μυχὸς γᾶς,</speaker></line>
+	<line num="434"  type="sp_D" stanza="antistrophe_ionic"><speaker name="Χορός"> παγαί θʼ ἁγνορύτων ποταμῶν</speaker></line>
+	<line num="435"  type="ia2cat" stanza="antistrophe_ionic"><speaker name="Χορός"> στένουσιν ἄλγος οἰκτρόν.</speaker></line>
+</subsection>
+</section>
+
+<section type="episode" form="iambic">
+<subsection type="dialogue">
+<line num="436"  type="ia6"><speaker name="Προμηθεύς"> μή τοι χλιδῇ δοκεῖτε μηδʼ αὐθαδίᾳ</speaker></line>
+<line num="437"  type="ia6"><speaker name="Προμηθεύς"> σιγᾶν με· συννοίᾳ δὲ δάπτομαι κέαρ,</speaker></line>
+<line num="438"  type="ia6"><speaker name="Προμηθεύς"> ὁρῶν ἐμαυτὸν ὧδε προυσελούμενον.</speaker></line>
+<line num="439"  type="ia6"><speaker name="Προμηθεύς"> καίτοι θεοῖσι τοῖς νέοις τούτοις γέρα</speaker></line>
+<line num="440"  type="ia6"><speaker name="Προμηθεύς"> τίς ἄλλος ἢ ʼγὼ παντελῶς διώρισεν;</speaker></line>
+<line num="441"  type="ia6"><speaker name="Προμηθεύς"> ἀλλʼ αὐτὰ σιγῶ· καὶ γὰρ εἰδυίαισιν ἂν</speaker></line>
+<line num="442"  type="ia6"><speaker name="Προμηθεύς"> ὑμῖν λέγοιμι· τἀν βροτοῖς δὲ πήματα</speaker></line>
+<line num="443"  type="ia6"><speaker name="Προμηθεύς"> ἀκούσαθʼ, ὥς σφας νηπίους ὄντας τὸ πρὶν</speaker></line>
+<line num="444"  type="ia6"><speaker name="Προμηθεύς"> ἔννους ἔθηκα καὶ φρενῶν ἐπηβόλους.</speaker></line>
+<line num="445"  type="ia6"><speaker name="Προμηθεύς"> λέξω δέ, μέμψιν οὔτινʼ ἀνθρώποις ἔχων,</speaker></line>
+<line num="446"  type="ia6"><speaker name="Προμηθεύς"> ἀλλʼ ὧν δέδωκʼ εὔνοιαν ἐξηγούμενος·</speaker></line>
+<line num="447"  type="ia6"><speaker name="Προμηθεύς"> οἳ πρῶτα μὲν βλέποντες ἔβλεπον μάτην,</speaker></line>
+<line num="448"  type="ia6"><speaker name="Προμηθεύς"> κλύοντες οὐκ ἤκουον, ἀλλʼ ὀνειράτων</speaker></line>
+<line num="449"  type="ia6"><speaker name="Προμηθεύς"> ἀλίγκιοι μορφαῖσι τὸν μακρὸν βίον</speaker></line>
+<line num="450"  type="ia6"><speaker name="Προμηθεύς"> ἔφυρον εἰκῇ πάντα, κοὔτε πλινθυφεῖς</speaker></line>
+<line num="451"  type="ia6"><speaker name="Προμηθεύς"> δόμους προσείλους, ᾖσαν, οὐ ξυλουργίαν·</speaker></line>
+<line num="452"  type="ia6"><speaker name="Προμηθεύς"> κατώρυχες δʼ ἔναιον ὥστʼ ἀήσυροι</speaker></line>
+<line num="453"  type="ia6"><speaker name="Προμηθεύς"> μύρμηκες ἄντρων ἐν μυχοῖς ἀνηλίοις.</speaker></line>
+<line num="454"  type="ia6"><speaker name="Προμηθεύς"> ἦν δʼ οὐδὲν αὐτοῖς οὔτε χείματος τέκμαρ</speaker></line>
+<line num="455"  type="ia6"><speaker name="Προμηθεύς"> οὔτʼ ἀνθεμώδους ἦρος οὔτε καρπίμου</speaker></line>
+<line num="456"  type="ia6"><speaker name="Προμηθεύς"> θέρους βέβαιον, ἀλλʼ ἄτερ γνώμης τὸ πᾶν</speaker></line>
+<line num="457"  type="ia6"><speaker name="Προμηθεύς"> ἔπρασσον, ἔστε δή σφιν ἀντολὰς ἐγὼ</speaker></line>
+<line num="458"  type="ia6"><speaker name="Προμηθεύς"> ἄστρων ἔδειξα τάς τε δυσκρίτους δύσεις.</speaker></line>
+<line num="459"  type="ia6"><speaker name="Προμηθεύς"> καὶ μὴν ἀριθμόν, ἔξοχον σοφισμάτων,</speaker></line>
+<line num="460"  type="ia6"><speaker name="Προμηθεύς"> ἐξηῦρον αὐτοῖς, γραμμάτων τε συνθέσεις,</speaker></line>
+<line num="461"  type="ia6"><speaker name="Προμηθεύς"> μνήμην ἁπάντων, μουσομήτορʼ ἐργάνην.</speaker></line>
+<line num="462"  type="ia6"><speaker name="Προμηθεύς"> κἄζευξα πρῶτος ἐν ζυγοῖσι κνώδαλα</speaker></line>
+<line num="463"  type="ia6"><speaker name="Προμηθεύς"> ζεύγλαισι δουλεύοντα σάγμασὶν θʼ, ὅπως</speaker></line>
+<line num="464"  type="ia6"><speaker name="Προμηθεύς"> θνητοῖς μεγίστων διάδοχοι μοχθημάτων</speaker></line>
+<line num="465"  type="ia6"><speaker name="Προμηθεύς"> γένοινθʼ , ὑφʼ ἅρμα τʼ ἤγαγον φιληνίους</speaker></line>
+<line num="466"  type="ia6"><speaker name="Προμηθεύς"> ἵππους, ἄγαλμα τῆς ὑπερπλούτου χλιδῆς.</speaker></line>
+<line num="467"  type="ia6"><speaker name="Προμηθεύς"> θαλασσόπλαγκτα δʼ οὔτις ἄλλος ἀντʼ ἐμοῦ</speaker></line>
+<line num="468"  type="ia6"><speaker name="Προμηθεύς"> λινόπτερʼ ηὗρε ναυτίλων ὀχήματα.</speaker></line>
+<line num="469"  type="ia6"><speaker name="Προμηθεύς"> τοιαῦτα μηχανήματʼ ἐξευρὼν τάλας</speaker></line>
+<line num="470"  type="ia6"><speaker name="Προμηθεύς"> βροτοῖσιν, αὐτὸς οὐκ ἔχω σόφισμʼ ὅτῳ</speaker></line>
+<line num="471"  type="ia6"><speaker name="Προμηθεύς"> τῆς νῦν παρούσης πημονῆς ἀπαλλαγῶ.</speaker></line>
+<line num="472"  type="ia6"><speaker name="Χορός"> πέπονθας αἰκὲς πῆμʼ· ἀποσφαλεὶς φρενῶν</speaker></line>
+<line num="473"  type="ia6"><speaker name="Χορός"> πλανᾷ, κακὸς δʼ ἰατρὸς ὥς τις ἐς νόσον</speaker></line>
+<line num="474"  type="ia6"><speaker name="Χορός"> πεσὼν ἀθυμεῖς καὶ σεαυτὸν οὐκ ἔχεις</speaker></line>
+<line num="475"  type="ia6"><speaker name="Χορός"> εὑρεῖν ὁποίοις φαρμάκοις ἰάσιμος.</speaker></line>
+<line num="476"  type="ia6"><speaker name="Προμηθεύς"> τὰ λοιπά μου κλύουσα θαυμάσῃ πλέον,</speaker></line>
+<line num="477"  type="ia6"><speaker name="Προμηθεύς"> οἵας τέχνας τε καὶ πόρους ἐμησάμην.</speaker></line>
+<line num="478"  type="ia6"><speaker name="Προμηθεύς"> τὸ μὲν μέγιστον, εἴ τις ἐς νόσον πέσοι,</speaker></line>
+<line num="479"  type="ia6"><speaker name="Προμηθεύς"> οὐκ ἦν ἀλέξημʼ οὐδέν, οὔτε βρώσιμον,</speaker></line>
+<line num="480"  type="ia6"><speaker name="Προμηθεύς"> οὐ χριστόν, οὐδὲ πιστόν, ἀλλὰ φαρμάκων</speaker></line>
+<line num="481"  type="ia6"><speaker name="Προμηθεύς"> χρείᾳ κατεσκέλλοντο, πρίν γʼ ἐγώ σφισιν</speaker></line>
+<line num="482"  type="ia6"><speaker name="Προμηθεύς"> ἔδειξα κράσεις ἠπίων ἀκεσμάτων,</speaker></line>
+<line num="483"  type="ia6"><speaker name="Προμηθεύς"> αἷς τὰς ἁπάσας ἐξαμύνονται νόσους.</speaker></line>
+<line num="484"  type="ia6"><speaker name="Προμηθεύς"> τρόπους τε πολλοὺς μαντικῆς ἐστοίχισα,</speaker></line>
+<line num="485"  type="ia6"><speaker name="Προμηθεύς"> κἄκρινα πρῶτος ἐξ ὀνειράτων ἃ χρὴ</speaker></line>
+<line num="486"  type="ia6"><speaker name="Προμηθεύς"> ὕπαρ γενέσθαι, κληδόνας τε δυσκρίτους</speaker></line>
+<line num="487"  type="ia6"><speaker name="Προμηθεύς"> ἐγνώρισʼ αὐτοῖς ἐνοδίους τε συμβόλους·</speaker></line>
+<line num="488"  type="ia6"><speaker name="Προμηθεύς"> γαμψωνύχων τε πτῆσιν οἰωνῶν σκεθρῶς</speaker></line>
+<line num="489"  type="ia6"><speaker name="Προμηθεύς"> διώρισʼ, οἵτινές τε δεξιοὶ φύσιν</speaker></line>
+<line num="490"  type="ia6"><speaker name="Προμηθεύς"> εὐωνύμους τε, καὶ δίαιταν ἥντινα</speaker></line>
+<line num="491"  type="ia6"><speaker name="Προμηθεύς"> ἔχουσʼ ἕκαστοι, καὶ πρὸς ἀλλήλους τίνες</speaker></line>
+<line num="492"  type="ia6"><speaker name="Προμηθεύς"> ἔχθραι τε καὶ στέργηθρα καὶ συνεδρίαι·</speaker></line>
+<line num="493"  type="ia6"><speaker name="Προμηθεύς"> σπλάγχνων τε λειότητα, καὶ χροιὰν τίνα</speaker></line>
+<line num="494"  type="ia6"><speaker name="Προμηθεύς"> ἔχουσʼ ἂν εἴη δαίμοσιν πρὸς ἡδονὴν</speaker></line>
+<line num="495"  type="ia6"><speaker name="Προμηθεύς"> χολή, λοβοῦ τε ποικίλην εὐμορφίαν.</speaker></line>
+<line num="496"  type="ia6"><speaker name="Προμηθεύς"> κνίσῃ τε κῶλα συγκαλυπτὰ καὶ μακρὰν</speaker></line>
+<line num="497"  type="ia6"><speaker name="Προμηθεύς"> ὀσφῦν πυρώσας δυστέκμαρτον ἐς τέχνην</speaker></line>
+<line num="498"  type="ia6"><speaker name="Προμηθεύς"> ὥδωσα θνητούς, καὶ φλογωπὰ σήματα</speaker></line>
+<line num="499"  type="ia6"><speaker name="Προμηθεύς"> ἐξωμμάτωσα, πρόσθεν ὄντʼ ἐπάργεμα.</speaker></line>
+<line num="500"  type="ia6"><speaker name="Προμηθεύς"> τοιαῦτα μὲν δὴ ταῦτʼ· ἔνερθε δὲ χθονὸς</speaker></line>
+<line num="501"  type="ia6"><speaker name="Προμηθεύς"> κεκρυμμένʼ, ἀνθρώποισιν ὠφελήματα,</speaker></line>
+<line num="502"  type="ia6"><speaker name="Προμηθεύς"> χαλκόν, σίδηρον, ἄργυρον, χρυσόν τε τίς</speaker></line>
+<line num="503"  type="ia6"><speaker name="Προμηθεύς"> φήσειεν ἂν πάροιθεν ἐξευρεῖν ἐμοῦ;</speaker></line>
+<line num="504"  type="ia6"><speaker name="Προμηθεύς"> οὐδείς, σάφʼ οἶδα, μὴ μάτην φλύσαι θέλων.</speaker></line>
+<line num="505"  type="ia6"><speaker name="Προμηθεύς"> βραχεῖ δὲ μύθῳ πάντα συλλήβδην μάθε,</speaker></line>
+<line num="506"  type="ia6"><speaker name="Προμηθεύς"> πᾶσαι τέχναι βροτοῖσιν ἐκ Προμηθέως.</speaker></line>
+<line num="507"  type="ia6"><speaker name="Χορός"> μή νυν βροτοὺς μὲν ὠφέλει καιροῦ πέρα,</speaker></line>
+<line num="508"  type="ia6"><speaker name="Χορός"> σαυτοῦ δʼ ἀκήδει δυστυχοῦντος. ὡς ἐγὼ</speaker></line>
+<line num="509"  type="ia6"><speaker name="Χορός"> εὔελπίς εἰμι τῶνδέ σʼ ἐκ δεσμῶν ἔτι</speaker></line>
+<line num="510"  type="ia6"><speaker name="Χορός"> λυθέντα μηδὲν μεῖον ἰσχύσειν Διός.</speaker></line>
+<line num="511"  type="ia6"><speaker name="Προμηθεύς"> οὐ ταῦτα ταύτῃ Μοῖρά πω τελεσφόρος</speaker></line>
+<line num="512"  type="ia6"><speaker name="Προμηθεύς"> κρᾶναι πέπρωται, μυρίαις δὲ πημοναῖς</speaker></line>
+<line num="513"  type="ia6"><speaker name="Προμηθεύς"> δύαις τε καμφθεὶς ὧδε δεσμὰ φυγγάνω·</speaker></line>
+<line num="514"  type="ia6"><speaker name="Προμηθεύς"> τέχνη δʼ ἀνάγκης ἀσθενεστέρα μακρῷ.</speaker></line>
+<line num="515"  type="ia6"><speaker name="Χορός"> τίς οὖν ἀνάγκης ἐστὶν οἰακοστρόφος;</speaker></line>
+<line num="516"  type="ia6"><speaker name="Προμηθεύς"> Μοῖραι τρίμορφοι μνήμονές τʼ Ἐρινύες</speaker></line>
+<line num="517"  type="ia6"><speaker name="Χορός"> τούτων ἄρα Ζεύς ἐστιν ἀσθενέστερος;</speaker></line>
+<line num="518"  type="ia6"><speaker name="Προμηθεύς"> οὔκουν ἂν ἐκφύγοι γε τὴν πεπρωμένην.</speaker></line>
+<line num="519"  type="ia6"><speaker name="Χορός"> τί γὰρ πέπρωται Ζηνὶ πλὴν ἀεὶ κρατεῖν;</speaker></line>
+<line num="520"  type="ia6"><speaker name="Προμηθεύς"> τοῦτʼ οὐκέτʼ ἂν πύθοιο μηδὲ λιπάρει.</speaker></line>
+<line num="521"  type="ia6"><speaker name="Χορός"> ἦ πού τι σεμνόν ἐστιν ὃ ξυναμπέχεις.</speaker></line>
+<line num="522"  type="ia6"><speaker name="Προμηθεύς"> ἄλλου λόγου μέμνησθε, τόνδε δʼ οὐδαμῶς</speaker></line>
+<line num="523"  type="ia6"><speaker name="Προμηθεύς"> καιρὸς γεγωνεῖν, ἀλλὰ συγκαλυπτέος</speaker></line>
+<line num="524"  type="ia6"><speaker name="Προμηθεύς"> ὅσον μάλιστα· τόνδε γὰρ σῴζων ἐγὼ</speaker></line>
+<line num="525"  type="ia6"><speaker name="Προμηθεύς"> δεσμοὺς ἀεικεῖς καὶ δύας ἐκφυγγάνω.</speaker></line>
+</subsection>
+</section>
+
+<section type="stasimon" form="strophic">
+<subsection type="strophic_pair">
+	<line num="526"  type="D" stanza="strophe"><speaker name="Χορός"> μηδάμʼ ὁ πάντα νέμων</speaker></line>
+	<line num="527"  type="e-D-" stanza="strophe"><speaker name="Χορός"> θεῖτʼ ἐμᾷ γνώμᾳ κράτος ἀντίπαλον Ζεύς,</speaker></line>
+	<line num="529"  type="e-D" stanza="strophe"><speaker name="Χορός"> μηδʼ ἐλινύσαιμι θεοὺς ὁσίαις</speaker></line>
+	<line num="530"  type="-D" stanza="strophe"><speaker name="Χορός">θοίναις ποτινισομένα</speaker></line>
+	<line num="531"  type="e-D-e" stanza="strophe"><speaker name="Χορός"> βουφόνοις παρʼ Ὠκεανοῦ πατρὸς ἄσβεστον πόρον,</speaker></line>
+	<line num="533"  type="D" stanza="strophe"><speaker name="Χορός"> μηδʼ ἀλίτοιμι λόγοις·</speaker></line>
+	<line num="534"  type="exe" stanza="strophe"><speaker name="Χορός"> ἀλλά μοι τόδʼ ἐμμένοι </speaker></line>
+	<line num="535"  type="-ith" stanza="strophe"><speaker name="Χορός"> καὶ μήποτʼ ἐκτακείη·</speaker></line>
+
+	<line num="537"  type="D" stanza="antistrophe"><speaker name="Χορός"> ἁδύ τι θαρσαλέαις</speaker></line>
+	<line num="538"  type="e-D-" stanza="antistrophe"><speaker name="Χορός"> τὸν μακρὸν τείνειν βίον ἐλπίσι, φαναῖς</speaker></line>
+	<line num="539"  type="e-D" stanza="antistrophe"><speaker name="Χορός"> θυμὸν ἀλδαίνουσαν ἐν εὐφροσύναις.</speaker></line>
+	<line num="540"  type="-D" stanza="antistrophe"><speaker name="Χορός"> φρίσσω δέ σε δερκομένα</speaker></line>
+	<line num="541"  type="e-D-e" stanza="antistrophe"><speaker name="Χορός"> μυρίοις μόχθοις διακναιόμενον <add>u-u-</add>.</speaker></line>
+	<line num="542"  type="D" stanza="antistrophe"><speaker name="Χορός"> Ζῆνα γὰρ οὐ τρομέων</speaker></line>
+	<line num="543"  type="exe" stanza="antistrophe"><speaker name="Χορός"> ἰδίᾳ γνώμᾳ σέβῃ</speaker></line>
+	<line num="544"  type="-ith" stanza="antistrophe"><speaker name="Χορός"> θνατοὺς ἄγαν, Προμηθεῦ.</speaker></line>
+</subsection>
+<subsection type="strophic_pair">
+	<line num="545"  type="an4" stanza="strophe"><speaker name="Χορός"> φέρʼ, ὅπως ἄχαρις χάρις, ὦ φίλος· εἰ-</speaker></line>
+	<line num="546"  type="iapenth" stanza="strophe"><speaker name="Χορός"> -πὲ ποῦ τίς ἀλκά;</speaker></line>
+	<line num="547"  type="an2_ia4cat" stanza="strophe"><speaker name="Χορός"> τίς ἐφαμερίων ἄρηξις; οὐδʼ ἐδέρχθης</speaker></line>
+	<line num="548"  type="an2" stanza="strophe"><speaker name="Χορός"> ὀλιγοδρανίαν </speaker></line>
+	<line num="549"  type="ia6cat" stanza="strophe"><speaker name="Χορός"> ἄκικυν, ἰσόνειρον, ᾇ τὸ φωτῶν</speaker></line>
+	<line num="550"  type="an4cat" stanza="strophe"><speaker name="Χορός"> ἀλαὸν γένος ἐμπεποδισμένον; οὔποτε <--></speaker></line> 
+	<line num="551"  type="D" stanza="strophe"><speaker name="Χορός">τὰν Διὸς ἁρμονίαν</speaker></line>
+	<line num="552"  type="ia4+" stanza="strophe"><speaker name="Χορός">θνατῶν παρεξίασι βουλαί.</speaker></line>
+
+	<line num="553"  type="an4" stanza="antistrophe"><speaker name="Χορός"> ἔμαθον τάδε σὰς προσιδοῦσʼ ὀλοὰς</speaker></line>
+	<line num="554"  type="iapenth" stanza="antistrophe"><speaker name="Χορός"> τύχας, Προμηθεῦ.</speaker></line>
+	<line num="555"  type="an2_ia4cat" stanza="antistrophe"><speaker name="Χορός"> τὸ διαμφίδιον δέ μοι μέλος προσέπτα</speaker></line>
+	<line num="556"  type="an2" stanza="antistrophe"><speaker name="Χορός"> τόδʼ ἐκεῖνό θʼ, ὅ τʼ ἀμ-</speaker></line>
+	<line num="557"  type="ia6cat" stanza="antistrophe"><speaker name="Χορός"> -φὶ λουτρὰ καὶ λέχος σὸν ὑμεναίουν</speaker></line>
+	<line num="558"  type="an4cat" stanza="antistrophe"><speaker name="Χορός"> ἰότατι γάμων, ὅτε τὰν ὁμοπάτριον ἕδνοις</speaker></line>
+	<line num="559"  type="D" stanza="antistrophe"><speaker name="Χορός"> ἄγαγες Ἡσιόναν </speaker></line>
+	<line num="560"  type="ia4+" stanza="antistrophe"><speaker name="Χορός"> πείθὼν δάμαρτα κοινόλεκτρον.</speaker></line>
+</subsection>
+</section>
+
+<section type="episode" form="mixed">
+<subsection type="anapaests"">
+	<line num="561"  type="an4"><speaker name="Ἰώ"> τίς γῆ; τί γένος; τίνα φῶ λεύσσειν</speaker></line>
+	<line num="562"  type="an4"><speaker name="Ἰώ"> τόνδε χαλινοῖς ἐν πετρίνοισιν</speaker></line>
+	<line num="563"  type="an2"><speaker name="Ἰώ"> χειμαζόμενον;</speaker></line>
+	<line num="564"  type="an4"><speaker name="Ἰώ"> τίνος ἀμπλακίας ποινὰς ὀλέκῃ;</speaker></line>
+	<line num="565"  type="an6cat"><speaker name="Ἰώ"> σήμηνον ὅποι γῆς ἡ μογερὰ πεπλάνημαι.</speaker></line>
+</subsection>
+<subsection type="lyric_monody">
+	<line num="566"  type="exclam"><speaker name="Ἰώ"> ἆ ἆ, ἒ ἔ,</speaker></line>
+	<line num="567"  type="ia6cat"><speaker name="Ἰώ"> χρίει τις αὖ με τὰν τάλαιναν οἶστρος,</speaker></line>
+	<line num="568"  type="ia8cat"><speaker name="Ἰώ"> εἴδωλον Ἄργου γηγενοῦς, ἄλευʼ ἆ δᾶ· φοβοῦμαι</speaker></line>
+	<line num="569"  type="ia6cat"><speaker name="Ἰώ"> τὸν μυριωπὸν εἰσορῶσα βούταν.</speaker></line>
+	<line num="570"  type="doch2"><speaker name="Ἰώ"> ὁ δὲ πορεύεται δόλιον ὄμμʼ ἔχων,</speaker></line>
+	<line num="570a"  type="ia6cat"><speaker name="Ἰώ"> ὃν οὐδὲ κατθανόντα γαῖα κεύθει.</speaker></line>
+	<line num="571"  type="doch+"><speaker name="Ἰώ"> ἀλλʼ, ἐμὲ τὰν τάλαιναν</speaker></line>
+	<line num="572"  type="doch_ia3"><speaker name="Ἰώ"> ἐξ ἐνέρων περῶν κυναγετεῖ, πλανᾷ</speaker></line>
+	<line num="573"  type="doch2"><speaker name="Ἰώ"> τε νῆστιν ἀνὰ τὰν παραλίαν ψάμμον.</speaker></line>
+</subsection>
+<subsection type=strophic_monody">
+	<line num="574"  type="doch2" stanza="strophe"><speaker name="Ἰώ"> ὑπὸ δὲ κηρόπλαστος ὀτοβεῖ δόναξ</speaker></line>
+	<line num="575"  type="cr_doch" stanza="strophe"><speaker name="Ἰώ"> ἀχέτας ὑπνοδόταν νόμον·</speaker></line>
+	<line num="576"  type="doch" stanza="strophe"><speaker name="Ἰώ"> ἰὼ ἰὼ πόποι,</speaker></line>
+	<line num="577"  type="cr2_doch" stanza="strophe"><speaker name="Ἰώ"> ποῖ μʼ ἄγουσ᾽αἵδε τηλέπλαγκτοι πλάναι;</speaker></line>
+	<line num="578"  type="cr3" stanza="strophe"><speaker name="Ἰώ"> τί ποτέ μʼ, ὦ Κρόνιε παῖ, τί ποτε ταῖσδʼ</speaker></line>
+	<line num="579"  type="doch_cr4" stanza="strophe"><speaker name="Ἰώ"> ἐνέζευξας εὑρὼν ἁμαρτοῦσαν ἐν πημοναῖσιν; ἓ ἕ,</speaker></line>
+	<line num="580"  type="iapenth_doch" stanza="strophe"><speaker name="Ἰώ"> οἰστρηλάτῳ δὲ δείματι δειλαίαν</speaker></line>
+	<line num="581"  type="ia4cat" stanza="strophe"><speaker name="Ἰώ"> παράκοπον ὧδε τείρεις;</speaker></line>
+	<line num="582"  type="doch2" stanza="strophe"><speaker name="Ἰώ"> πυρί <add>με</add> φλέξον, ἢ χθονὶ κάλυψον, ἤ</speaker></line>
+	<line num="582a"  type="cr_doch" stanza="strophe"><speaker name="Ἰώ">ποντίοις δάκεσι δὸς βοράν,</speaker></line>
+	<line num="583"  type="ith" stanza="strophe"><speaker name="Ἰώ"> μηδέ μοι φθονήσῃς</speaker></line>
+	<line num="584"  type="hdoch" stanza="strophe"><speaker name="Ἰώ"> εὐγμάτων, ἄναξ.</speaker></line>
+	<line num="585"  type="ia4" stanza="strophe"><speaker name="Ἰώ"> ἄδην με πολύπλανοι πλάναι</speaker></line>
+	<line num="586"  type="ia6" stanza="strophe"><speaker name="Ἰώ"> γεγυμνάκασιν, οὐδʼ ἔχω μαθεῖν ὅπα</speaker></line>
+	<line num="587"  type="ith" stanza="strophe"><speaker name="Ἰώ"> πημονὰς ἀλύξω.</speaker></line>
+	<line num="588"  type="doch_cr2" stanza="strophe"><speaker name="Ἰώ"> κλύεις φθέγμα τᾶς βούκερω παρθένου;</speaker></line>
+
+	<line num="589"  type="ia6"><speaker name="Προμηθεύς"> πῶς δʼ οὐ κλύω τῆς οἰστροδινήτου κόρης,</speaker></line>
+	<line num="590"  type="ia6"><speaker name="Προμηθεύς"> τῆς Ἰναχείας; ἣ Διὸς θάλπει κέαρ</speaker></line>
+	<line num="591"  type="ia6"><speaker name="Προμηθεύς"> ἔρωτι, καὶ νῦν τοὺς ὑπερμήκεις δρόμους</speaker></line>
+	<line num="592"  type="ia6"><speaker name="Προμηθεύς"> Ἥρᾳ στυγητὸς πρὸς βίαν γυμνάζεται.</speaker></line>
+
+	<line num="593"  type="doch2" stanza="antistrophe"><speaker name="Ἰώ"> πόθεν ἐμοῦ σὺ πατρὸς ὄνομʼ ἀπύεις;</speaker></line>
+	<line num="594"  type="cr_doch" stanza="antistrophe"><speaker name="Ἰώ"> εἰπέ μοι τᾷ μογερᾷ τίς ὤν;</speaker></line>
+	<line num="595"  type="doch" stanza="antistrophe"><speaker name="Ἰώ"> τίς ἄρα μʼ, ὦ τάλας,</speaker></line>
+	<line num="596"  type="cr2_doch" stanza="antistrophe"><speaker name="Ἰώ"> τὰν τάλαιναν ὧδʼ ἔτυμα προσθροεῖς;</speaker></line>
+	<line num="597"  type="cr3" stanza="antistrophe"><speaker name="Ἰώ"> θεόσυτόν τε νόσον ὠνόμασας, ἃ</speaker></line>
+	<line num="598"  type="doch_cr4" stanza="antistrophe"><speaker name="Ἰώ"> μαραίνει με χρίουσα κέντροισι, φοιταλέοισιν ἓ ἕ·,</speaker></line>
+	<line num="599"  type="iapenth_doch" stanza="antistrophe"><speaker name="Ἰώ"> σκιρτημάτων δὲ νήστισιν αἰκείαις</speaker></line>
+	<line num="600"  type="ia4cat" stanza="antistrophe"><speaker name="Ἰώ"> λαβρόσυτος ἦλθον, <add>Ἥρας </add></speaker></line>
+	<line num="601"  type="doch2" stanza="antistrophe"><speaker name="Ἰώ"> ἐπικότοισι μήδεσι δαμεῖσα. δυσ-</speaker></line>
+	<line num="602"  type="cr_doch" stanza="antistrophe"><speaker name="Ἰώ"> δαιμόνων δὲ τίνες οἵ, ἓ ἕ,</speaker></line>
+	<line num="603"  type="ith" stanza="antistrophe"><speaker name="Ἰώ"> οἷʼ ἐγὼ μογοῦσιν;</speaker></line>
+	<line num="604"  type="hdoch" stanza="antistrophe"><speaker name="Ἰώ"> ἀλλά μοι τορῶς</speaker></line>
+	<line num="605"  type="ia4" stanza="antistrophe"><speaker name="Ἰώ"> τέκμηρον ὅ τι μʼ ἐπαμμένει</speaker></line>
+	<line num="606"  type="ia6" stanza="antistrophe"><speaker name="Ἰώ"> παθεῖν, τί μῆχαρ, ἢ τί φάρμακον νόσου,</speaker></line>
+	<line num="607"  type="ith" stanza="antistrophe"><speaker name="Ἰώ"> δεῖξον, εἴπερ οἶσθα·</speaker></line>
+	<line num="608"  type="doch_cr2" stanza="antistrophe"><speaker name="Ἰώ"> θρόει, φράζε τᾷ δυσπλάνῳ παρθένῳ.</speaker></line>
+</subsection>
+<subsection type="dialogue">
+<line num="609"  type="ia6"><speaker name="Προμηθεύς"> λέξω τορῶς σοι πᾶν ὅπερ χρῄζεις μαθεῖν,</speaker></line>
+<line num="610"  type="ia6"><speaker name="Προμηθεύς"> οὐκ ἐμπλέκων αἰνίγματʼ, ἀλλʼ ἁπλῷ λόγῳ,</speaker></line>
+<line num="611"  type="ia6"><speaker name="Προμηθεύς"> ὥσπερ δίκαιον πρὸς φίλους οἴγειν στόμα.</speaker></line>
+<line num="612"  type="ia6"><speaker name="Προμηθεύς"> πυρὸς βροτοῖς δοτῆρʼ ὁρᾷς Προμηθέα.</speaker></line>
+<line num="613"  type="ia6"><speaker name="Ἰώ"> ὦ κοινὸν ὠφέλημα θνητοῖσιν φανείς,</speaker></line>
+<line num="614"  type="ia6"><speaker name="Ἰώ"> τλῆμον Προμηθεῦ, τοῦ δίκην πάσχεις τάδε;</speaker></line>
+<line num="615"  type="ia6"><speaker name="Προμηθεύς"> ἁρμοῖ πέπαυμαι τοὺς ἐμοὺς θρηνῶν πόνους.</speaker></line>
+<line num="616"  type="ia6"><speaker name="Ἰώ"> οὔκουν πόροις ἂν τήνδε δωρεὰν ἐμοί;</speaker></line>
+<line num="617"  type="ia6"><speaker name="Προμηθεύς"> λέγʼ ἥντινʼ αἰτῇ· πᾶν γὰρ ἂν πύθοιό μου.</speaker></line>
+<line num="618"  type="ia6"><speaker name="Ἰώ"> σήμηνον ὅστις ἐν φάραγγί σʼ ὤχμασεν.</speaker></line>
+<line num="619"  type="ia6"><speaker name="Προμηθεύς"> βούλευμα μὲν τὸ Δῖον, Ἡφαίστου δὲ χείρ.</speaker></line>
+<line num="620"  type="ia6"><speaker name="Ἰώ"> ποινὰς δὲ ποίων ἀμπλακημάτων τίνεις;</speaker></line>
+<line num="621"  type="ia6"><speaker name="Προμηθεύς"> τοσοῦτον ἀρκῶ σοι σαφηνίσας μόνον.</speaker></line>
+<line num="622"  type="ia6"><speaker name="Ἰώ"> καὶ πρός γε τούτοις τέρμα τῆς ἐμῆς πλάνης</speaker></line>
+<line num="623"  type="ia6"><speaker name="Ἰώ"> δεῖξον, τίς ἔσται τῇ ταλαιπώρῳ χρόνος.</speaker></line>
+<line num="624"  type="ia6"><speaker name="Προμηθεύς"> τὸ μὴ μαθεῖν σοι κρεῖσσον ἢ μαθεῖν τάδε.</speaker></line>
+<line num="625"  type="ia6"><speaker name="Ἰώ"> μήτοι με κρύψῃς τοῦθʼ ὅπερ μέλλω παθεῖν.</speaker></line>
+<line num="626"  type="ia6"><speaker name="Προμηθεύς"> ἀλλʼ οὐ μεγαίρω τοῦδέ σοι δωρήματος.</speaker></line>
+<line num="627"  type="ia6"><speaker name="Ἰώ"> τί δῆτα μέλλεις μὴ_οὐ γεγωνίσκειν τὸ πᾶν;</speaker></line>
+<line num="628"  type="ia6"><speaker name="Προμηθεύς"> φθόνος μὲν οὐδείς, σὰς δʼ ὀκνῶ θράξαι φρένας.</speaker></line>
+<line num="629"  type="ia6"><speaker name="Ἰώ"> μή μου προκήδου μᾶσσον ὡς ἐμοὶ γλυκύ.</speaker></line>
+<line num="630"  type="ia6"><speaker name="Προμηθεύς"> ἐπεὶ προθυμῇ, χρὴ λέγειν. ἄκουε δή.</speaker></line>
+<line num="631"  type="ia6"><speaker name="Χορός"> μήπω γε· μοῖραν δʼ ἡδονῆς κἀμοὶ πόρε.</speaker></line>
+<line num="632"  type="ia6"><speaker name="Χορός"> τὴν τῆσδε πρῶτον ἱστορήσωμεν νόσον,</speaker></line>
+<line num="633"  type="ia6"><speaker name="Χορός"> αὐτῆς λεγούσης τὰς πολυφθόρους τύχας·</speaker></line>
+<line num="634"  type="ia6"><speaker name="Χορός"> τὰ λοιπὰ δʼ ἄθλων σοῦ διδαχθήτω πάρα.</speaker></line>
+<line num="635"  type="ia6"><speaker name="Προμηθεύς"> σὸν ἔργον, Ἰοῖ, ταῖσδʼ ὑπουργῆσαι χάριν,</speaker></line>
+<line num="636"  type="ia6"><speaker name="Προμηθεύς"> ἄλλως τε πάντως καὶ κασιγνήταις πατρός.</speaker></line>
+<line num="637"  type="ia6"><speaker name="Προμηθεύς"> ὡς τἀποκλαῦσαι κἀποδύρασθαι τύχας</speaker></line>
+<line num="638"  type="ia6"><speaker name="Προμηθεύς"> ἐνταῦθʼ, ὅπου μέλλοι τις οἴσεσθαι δάκρυ</speaker></line>
+<line num="639"  type="ia6"><speaker name="Προμηθεύς"> πρὸς τῶν κλυόντων, ἀξίαν τριβὴν ἔχει.</speaker></line>
+<line num="640"  type="ia6"><speaker name="Ἰώ"> οὐκ οἶδʼ ὅπως ὑμῖν ἀπιστῆσαί με χρή,</speaker></line>
+<line num="641"  type="ia6"><speaker name="Ἰώ"> σαφεῖ δὲ μύθῳ πᾶν ὅπερ προσχρῄζετε</speaker></line>
+<line num="642"  type="ia6"><speaker name="Ἰώ"> πεύσεσθε· καίτοι καὶ λέγουσʼ αἰσχύνομαι</speaker></line>
+<line num="643"  type="ia6"><speaker name="Ἰώ"> θεόσσυτον χειμῶνα καὶ διαφθορὰν</speaker></line>
+<line num="644"  type="ia6"><speaker name="Ἰώ"> μορφῆς, ὅθεν μοι σχετλίᾳ προσέπτατο.</speaker></line>
+<line num="645"  type="ia6"><speaker name="Ἰώ"> αἰεὶ γὰρ ὄψεις ἔννυχοι πωλεύμεναι</speaker></line>
+<line num="646"  type="ia6"><speaker name="Ἰώ"> ἐς παρθενῶνας τοὺς ἐμοὺς παρηγόρουν</speaker></line>
+<line num="647"  type="ia6"><speaker name="Ἰώ"> λείοισι μύθοις <q>ὦ μέγʼ εὔδαιμον κόρη,</q></speaker></line>
+<line num="648"  type="ia6"><speaker name="Ἰώ"> <q rend="merge">τί παρθενεύει δαρόν, ἐξόν σοι γάμου</q></speaker></line>
+<line num="649"  type="ia6"><speaker name="Ἰώ"> <q rend="merge">τυχεῖν μεγίστου; Ζεὺς γὰρ ἱμέρου βέλει</q></speaker></line>
+<line num="650"  type="ia6"><speaker name="Ἰώ"> <q rend="merge">πρὸς σοῦ τέθαλπται καὶ συναίρεσθαι Κύπριν</q></speaker></line>
+<line num="651"  type="ia6"><speaker name="Ἰώ"> <q rend="merge">θέλει· σὺ δʼ, ὦ παῖ, μὴ ʼπολακτίσῃς λέχος</q></speaker></line>
+<line num="652"  type="ia6"><speaker name="Ἰώ"> <q rend="merge">τὸ Ζηνός, ἀλλʼ ἔξελθε πρὸς Λέρνης βαθὺν</q></speaker></line>
+<line num="653"  type="ia6"><speaker name="Ἰώ"> <q rend="merge">λειμῶνα, ποίμνας βουστάσεις τε πρὸς πατρός,</q></speaker></line>
+<line num="654"  type="ia6"><speaker name="Ἰώ"> <q rend="merge">ὡς ἂν τὸ Δῖον ὄμμα λωφήσῃ πόθου.</q></speaker></line>
+<line num="655"  type="ia6"><speaker name="Ἰώ"> τοιοῖσδε πάσας εὐφρόνας ὀνείρασι</speaker></line>
+<line num="656"  type="ia6"><speaker name="Ἰώ"> συνειχόμην δύστηνος, ἔστε δὴ πατρὶ</speaker></line>
+<line num="657"  type="ia6"><speaker name="Ἰώ"> ἔτλην γεγωνεῖν νυκτίφοιτʼ ὀνείρατα.</speaker></line>
+<line num="658"  type="ia6"><speaker name="Ἰώ"> ὁ δʼ ἔς τε Πυθὼ κἀπὶ Δωδώνης πυκνοὺς</speaker></line>
+<line num="659"  type="ia6"><speaker name="Ἰώ"> θεοπρόπους ἴαλλεν, ὡς μάθοι τί χρὴ</speaker></line>
+<line num="660"  type="ia6"><speaker name="Ἰώ"> δρῶντʼ ἢ λέγοντα δαίμοσιν πράσσειν φίλα.</speaker></line>
+<line num="661"  type="ia6"><speaker name="Ἰώ"> ἧκον δʼ ἀναγγέλλοντες αἰολοστόμους</speaker></line>
+<line num="662"  type="ia6"><speaker name="Ἰώ"> χρησμοὺς ἀσήμους δυσκρίτως τʼ εἰρημένους.</speaker></line>
+<line num="663"  type="ia6"><speaker name="Ἰώ"> τέλος δʼ ἐναργὴς βάξις ἦλθεν Ἰνάχῳ</speaker></line>
+<line num="664"  type="ia6"><speaker name="Ἰώ"> σαφῶς ἐπισκήπτουσα καὶ μυθουμένη</speaker></line>
+<line num="665"  type="ia6"><speaker name="Ἰώ"> ἔξω δόμων τε καὶ πάτρας ὠθεῖν ἐμέ,</speaker></line>
+<line num="666"  type="ia6"><speaker name="Ἰώ"> ἄφετον ἀλᾶσθαι γῆς ἐπʼ ἐσχάτοις ὅροις·</speaker></line>
+<line num="667"  type="ia6"><speaker name="Ἰώ"> κεἰ μὴ θέλοι, πυρωπὸν ἐκ Διὸς μολεῖν</speaker></line>
+<line num="668"  type="ia6"><speaker name="Ἰώ"> κεραυνόν, ὃς πᾶν ἐξαϊστώσοι γένος.</speaker></line>
+<line num="669"  type="ia6"><speaker name="Ἰώ"> τοιοῖσδε πεισθεὶς Λοξίου μαντεύμασιν</speaker></line>
+<line num="670"  type="ia6"><speaker name="Ἰώ"> ἐξήλασέν με κἀπέκλῃσε δωμάτων</speaker></line>
+<line num="671"  type="ia6"><speaker name="Ἰώ"> ἄκουσαν ἄκων· ἀλλʼ ἐπηνάγκαζέ νιν</speaker></line>
+<line num="672"  type="ia6"><speaker name="Ἰώ"> Διὸς χαλινὸς πρὸς βίαν πράσσειν τάδε.</speaker></line>
+<line num="673"  type="ia6"><speaker name="Ἰώ"> εὐθὺς δὲ μορφὴ καὶ φρένες διάστροφοι</speaker></line>
+<line num="674"  type="ia6"><speaker name="Ἰώ"> ἦσαν, κεραστὶς δʼ, ὡς ὁρᾶτʼ, ὀξυστόμῳ</speaker></line>
+<line num="675"  type="ia6"><speaker name="Ἰώ"> μύωπι χρισθεῖσʼ ἐμμανεῖ σκιρτήματι</speaker></line>
+<line num="676"  type="ia6"><speaker name="Ἰώ"> ᾖσσον πρὸς εὔποτόν τε Κερχνείας ῥέος</speaker></line>
+<line num="677"  type="ia6"><speaker name="Ἰώ"> Λέρνης τε κρήνην · βουκόλος δὲ γηγενὴς</speaker></line>
+<line num="678"  type="ia6"><speaker name="Ἰώ"> ἄκρατος ὀργὴν Ἄργος ὡμάρτει, πυκνοῖς</speaker></line>
+<line num="679"  type="ia6"><speaker name="Ἰώ"> ὄσσοις δεδορκὼς τοὺς ἐμοὺς κατὰ στίβους.</speaker></line>
+<line num="680"  type="ia6"><speaker name="Ἰώ"> ἀπροσδόκητος δʼ αὐτὸν ἀφνίδιος μόρος</speaker></line>
+<line num="681"  type="ia6"><speaker name="Ἰώ"> τοῦ ζῆν ἀπεστέρησεν. οἰστροπλὴξ δʼ ἐγὼ</speaker></line>
+<line num="682"  type="ia6"><speaker name="Ἰώ"> μάστιγι θείᾳ γῆν πρὸ γῆς ἐλαύνομαι.</speaker></line>
+<line num="683"  type="ia6"><speaker name="Ἰώ"> κλύεις τὰ πραχθέντʼ· εἰ δʼ ἔχεις εἰπεῖν ὅ τι</speaker></line>
+<line num="684"  type="ia6"><speaker name="Ἰώ"> λοιπὸν πόνων, σήμαινε· μηδέ μʼ οἰκτίσας</speaker></line>
+<line num="685"  type="ia6"><speaker name="Ἰώ"> ξύνθαλπε μύθοις ψευδέσιν· νόσημα γὰρ</speaker></line>
+<line num="686"  type="ia6"><speaker name="Ἰώ"> αἴσχιστον εἶναί φημι συνθέτους λόγους.</speaker></line>
+</subsection>
+<subsection type="lyric">
+<line num="687"  type="cr2"><speaker name="Χορός"> ἔα ἔα, ἄπεχε, φεῦ·</speaker></line>
+<line num="688"  type="cr3"><speaker name="Χορός"> οὔποτʼ <add>ὧδ'</add> οὔποτʼ ηὔχουν ξένους</speaker></line>
+<line num="689"  type="doch2"><speaker name="Χορός"> μολεῖσθαι λόγους εἰς ἀκοὰν ἐμάν,</speaker></line>
+<line num="690"  type="ia6cat"><speaker name="Χορός"> οὐδʼ ὧδε δυσθέατα καὶ δύσοιστα</speaker></line>
+<line num="691"  type="?"><speaker name="Χορός"> πήματα, λύματα, δείματα ἀμφάκει</speaker></line>
+<line num="692"  type="ia4"><speaker name="Χορός">  κέντρῳ ψύχειν ψυχὰν ἐμάν.</speaker></line>
+<line num="693"  type="ba2"><speaker name="Χορός"> ἰὼ μοῖρα μοῖρα,</speaker></line>
+<line num="695"  type="ba_ia2_ba"><speaker name="Χορός"> πέφρικʼ εἰσιδοῦσα πρᾶξιν Ἰοῦς.</speaker></line>
+</subsection>
+<subsection type="dialogue">
+<line num="696"  type="ia6"><speaker name="Προμηθεύς"> πρῴ γε στενάζεις καὶ φόβου πλέα τις εἶ·</speaker></line>
+<line num="697"  type="ia6"><speaker name="Προμηθεύς"> ἐπίσχες ἔστʼ ἂν καὶ τὰ λοιπὰ προσμάθῃς.</speaker></line>
+<line num="698"  type="ia6"><speaker name="Χορός"> λέγʼ, ἐκδίδασκε· τοῖς νοσοῦσί τοι γλυκὺ</speaker></line>
+<line num="699"  type="ia6"><speaker name="Χορός"> τὸ λοιπὸν ἄλγος προυξεπίστασθαι τορῶς.</speaker></line>
+<line num="700"  type="ia6"><speaker name="Προμηθεύς"> τὴν πρίν γε χρείαν ἠνύσασθʼ ἐμοῦ πάρα</speaker></line>
+<line num="701"  type="ia6"><speaker name="Προμηθεύς"> κούφως· μαθεῖν γὰρ τῆσδε πρῶτʼ ἐχρῄζετε</speaker></line>
+<line num="702"  type="ia6"><speaker name="Προμηθεύς"> τὸν ἀμφʼ ἑαυτῆς ἆθλον ἐξηγουμένης·</speaker></line>
+<line num="703"  type="ia6"><speaker name="Προμηθεύς"> τὰ λοιπὰ νῦν ἀκούσαθʼ, οἷα χρὴ πάθη</speaker></line>
+<line num="704"  type="ia6"><speaker name="Προμηθεύς"> τλῆναι πρὸς Ἥρας τήνδε τὴν νεάνιδα.</speaker></line>
+<line num="705"  type="ia6"><speaker name="Προμηθεύς"> σύ τʼ Ἰνάχειον σπέρμα, τοὺς ἐμοὺς λόγους</speaker></line>
+<line num="706"  type="ia6"><speaker name="Προμηθεύς"> θυμῷ βάλʼ, ὡς ἂν τέρματʼ ἐκμάθῃς ὁδοῦ.</speaker></line>
+<line num="707"  type="ia6"><speaker name="Προμηθεύς"> πρῶτον μὲν ἐνθένδʼ ἡλίου πρὸς ἀντολὰς</speaker></line>
+<line num="708"  type="ia6"><speaker name="Προμηθεύς"> στρέψασα σαυτὴν στεῖχʼ ἀνηρότους γύας·</speaker></line>
+<line num="709"  type="ia6"><speaker name="Προμηθεύς"> Σκύθας δʼ ἀφίξῃ νομάδας, οἳ πλεκτὰς στέγας</speaker></line>
+<line num="710"  type="ia6"><speaker name="Προμηθεύς"> πεδάρσιοι ναίουσʼ ἐπʼ εὐκύκλοις ὄχοις</speaker></line>
+<line num="711"  type="ia6"><speaker name="Προμηθεύς"> ἑκηβόλοις τόξοισιν ἐξηρτυμένοι·</speaker></line>
+<line num="712"  type="ia6"><speaker name="Προμηθεύς"> οἷς μὴ πελάζειν, ἀλλʼ ἁλιστόνοις πόδας</speaker></line>
+<line num="713"  type="ia6"><speaker name="Προμηθεύς"> χρίμπτουσα ῥαχίαισιν ἐκπερᾶν χθόνα.</speaker></line>
+<line num="714"  type="ia6"><speaker name="Προμηθεύς"> λαιᾶς δὲ χειρὸς οἱ σιδηροτέκτονες</speaker></line>
+<line num="715"  type="ia6"><speaker name="Προμηθεύς"> οἰκοῦσι Χάλυβες, οὓς φυλάξασθαί σε χρή.</speaker></line>
+<line num="716"  type="ia6"><speaker name="Προμηθεύς"> ἀνήμεροι γὰρ οὐδὲ πρόσπλατοι ξένοις.</speaker></line>
+<line num="717"  type="ia6"><speaker name="Προμηθεύς"> ἥξεις δʼ Ὑβριστὴν ποταμὸν οὐ ψευδώνυμον,</speaker></line>
+<line num="718"  type="ia6"><speaker name="Προμηθεύς"> ὃν μὴ περάσῃς, οὐ γὰρ εὔβατος περᾶν,</speaker></line>
+<line num="719"  type="ia6"><speaker name="Προμηθεύς"> πρὶν ἂν πρὸς αὐτὸν Καύκασον μόλῃς, ὀρῶν</speaker></line>
+<line num="720"  type="ia6"><speaker name="Προμηθεύς"> ὕψιστον, ἔνθα ποταμὸς ἐκφυσᾷ μένος</speaker></line>
+<line num="721"  type="ia6"><speaker name="Προμηθεύς"> κροτάφων ἀπʼ αὐτῶν. ἀστρογείτονας δὲ χρὴ</speaker></line>
+<line num="722"  type="ia6"><speaker name="Προμηθεύς"> κορυφὰς ὑπερβάλλουσαν ἐς μεσημβρινὴν</speaker></line>
+<line num="723"  type="ia6"><speaker name="Προμηθεύς"> βῆναι κέλευθον, ἔνθʼ, Ἀμαζόνων στρατὸν</speaker></line>
+<line num="724"  type="ia6"><speaker name="Προμηθεύς"> ἥξεις στυγάνορʼ, αἳ Θεμίσκυράν ποτε</speaker></line>
+<line num="725"  type="ia6"><speaker name="Προμηθεύς"> κατοικιοῦσιν ἀμφὶ Θερμώδονθʼ, ἵνα</speaker></line>
+<line num="726"  type="ia6"><speaker name="Προμηθεύς"> τραχεῖα πόντου Σαλμυδησσία γνάθος</speaker></line>
+<line num="727"  type="ia6"><speaker name="Προμηθεύς"> ἐχθρόξενος ναύταισι, μητρυιὰ νεῶν·</speaker></line>
+<line num="728"  type="ia6"><speaker name="Προμηθεύς"> αὗταί σʼ ὁδηγήσουσι καὶ μάλʼ ἀσμένως.</speaker></line>
+<line num="729"  type="ia6"><speaker name="Προμηθεύς"> ἰσθμὸν δʼ ἐπʼ αὐταῖς στενοπόροις λίμνης πύλαις</speaker></line>
+<line num="730"  type="ia6"><speaker name="Προμηθεύς"> Κιμμερικὸν ἥξεις, ὃν θρασυσπλάγχνως σε χρὴ</speaker></line>
+<line num="731"  type="ia6"><speaker name="Προμηθεύς"> λιποῦσαν αὐλῶνʼ ἐκπερᾶν Μαιωτικόν·</speaker></line>
+<line num="732"  type="ia6"><speaker name="Προμηθεύς"> ἔσται δὲ θνητοῖς εἰσαεὶ λόγος μέγας</speaker></line>
+<line num="733"  type="ia6"><speaker name="Προμηθεύς"> τῆς σῆς πορείας, Βόσπορος δʼ ἐπώνυμος</speaker></line>
+<line num="734"  type="ia6"><speaker name="Προμηθεύς"> κεκλήσεται. λιποῦσα δʼ Εὐρώπης πέδον</speaker></line>
+<line num="735"  type="ia6"><speaker name="Προμηθεύς"> ἤπειρον ἥξεις Ἀσιάδʼ·. ἆρʼ, ὑμῖν δοκεῖ</speaker></line>
+<line num="736"  type="ia6"><speaker name="Προμηθεύς"> ὁ τῶν θεῶν τύραννος ἐς τὰ πάνθʼ ὁμῶς</speaker></line>
+<line num="737"  type="ia6"><speaker name="Προμηθεύς"> βίαιος εἶναι; τῇδε γὰρ θνητῇ θεὸς</speaker></line>
+<line num="738"  type="ia6"><speaker name="Προμηθεύς"> χρῄζων μιγῆναι τάσδʼ ἐπέρριψεν πλάνας.</speaker></line>
+<line num="739"  type="ia6"><speaker name="Προμηθεύς"> πικροῦ δʼ ἔκυρσας, ὦ κόρη, τῶν σῶν γάμων</speaker></line>
+<line num="740"  type="ia6"><speaker name="Προμηθεύς"> μνηστῆρος. οὓς γὰρ νῦν ἀκήκοας λόγους,</speaker></line>
+<line num="741"  type="ia6"><speaker name="Προμηθεύς"> εἶναι δόκει σοι μηδέπω ʼν προοιμίοις.</speaker></line>
+<line num="742"  type="exclam"><speaker name="Ἰώ"> ἰώ μοί μοι, ἒ ἔ.</speaker></line>
+<line num="743"  type="ia6"><speaker name="Προμηθεύς"> σὺ δʼ αὖ κέκραγας κἀναμυχθίζῃ; τί που</speaker></line>
+<line num="744"  type="ia6"><speaker name="Προμηθεύς"> δράσεις, ὅταν τὰ λοιπὰ πυνθάνῃ κακά;</speaker></line>
+<line num="745"  type="ia6"><speaker name="Χορός"> ἦ γάρ τι λοιπὸν τῇδε πημάτων ἐρεῖς;</speaker></line>
+<line num="746"  type="ia6"><speaker name="Προμηθεύς"> δυσχείμερόν γε πέλαγος ἀτηρᾶς δύης.</speaker></line>
+<line num="747"  type="ia6"><speaker name="Ἰώ"> τί δῆτʼ ἐμοὶ ζῆν κέρδος, ἀλλʼ οὐκ ἐν τάχει</speaker></line>
+<line num="748"  type="ia6"><speaker name="Ἰώ"> ἔρριψʼ ἐμαυτὴν τῆσδʼ ἀπὸ στύφλου πέτρας,</speaker></line>
+<line num="749"  type="ia6"><speaker name="Ἰώ"> ὅπως πέδοι σκήψασα τῶν πάντων πόνων</speaker></line>
+<line num="750"  type="ia6"><speaker name="Ἰώ"> ἀπηλλάγην; κρεῖσσον γὰρ εἰσάπαξ θανεῖν</speaker></line>
+<line num="751"  type="ia6"><speaker name="Ἰώ"> ἢ τὰς ἁπάσας ἡμέρας πάσχειν κακῶς.</speaker></line>
+<line num="752"  type="ia6"><speaker name="Προμηθεύς"> ἦ δυσπετῶς ἂν τοὺς ἐμοὺς ἄθλους φέροις,</speaker></line>
+<line num="753"  type="ia6"><speaker name="Προμηθεύς"> ὅτῳ θανεῖν μέν ἐστιν οὐ πεπρωμένον·</speaker></line>
+<line num="754"  type="ia6"><speaker name="Προμηθεύς"> αὕτη γὰρ ἦν ἂν πημάτων ἀπαλλαγή·</speaker></line>
+<line num="755"  type="ia6"><speaker name="Προμηθεύς"> νῦν δʼ οὐδέν ἐστι τέρμα μοι προκείμενον</speaker></line>
+<line num="756"  type="ia6"><speaker name="Προμηθεύς"> μόχθων, πρὶν ἂν Ζεὺς ἐκπέσῃ τυραννίδος.</speaker></line>
+<line num="757"  type="ia6"><speaker name="Ἰώ"> ἦ γάρ ποτʼ ἔστιν ἐκπεσεῖν ἀρχῆς Δία;</speaker></line>
+<line num="758"  type="ia6"><speaker name="Προμηθεύς"> ἥδοιʼ ἄν, οἶμαι, τήνδʼ ἰδοῦσα συμφοράν.</speaker></line>
+<line num="759"  type="ia6"><speaker name="Ἰώ"> πῶς δʼ οὐκ ἄν, ἥτις ἐκ Διὸς πάσχω κακῶς;</speaker></line>
+<line num="760"  type="ia6"><speaker name="Προμηθεύς"> ὡς τοίνυν ὄντων τῶνδέ σοι μαθεῖν πάρα.</speaker></line>
+<line num="761"  type="ia6"><speaker name="Ἰώ"> πρὸς τοῦ τύραννα σκῆπτρα συληθήσεται;</speaker></line>
+<line num="762"  type="ia6"><speaker name="Προμηθεύς"> πρὸς αὐτὸς αὑτοῦ κενοφρόνων βουλευμάτων.</speaker></line>
+<line num="763"  type="ia6"><speaker name="Ἰώ"> ποίῳ τρόπῳ; σήμηνον, εἰ μή τις βλάβη.</speaker></line>
+<line num="764"  type="ia6"><speaker name="Προμηθεύς"> γαμεῖ γάμον τοιοῦτον ᾧ ποτʼ ἀσχαλᾷ.</speaker></line>
+<line num="765"  type="ia6"><speaker name="Ἰώ"> θέορτον, ἢ βρότειον; εἰ ῥητόν, φράσον.</speaker></line>
+<line num="766"  type="ia6"><speaker name="Προμηθεύς"> τί δʼ ὅντινʼ·; οὐ γὰρ ῥητὸν αὐδᾶσθαι τόδε.</speaker></line>
+<line num="767"  type="ia6"><speaker name="Ἰώ"> ἦ πρὸς δάμαρτος ἐξανίσταται θρόνων;</speaker></line>
+<line num="768"  type="ia6"><speaker name="Προμηθεύς"> ἣ τέξεταί γε παῖδα φέρτερον πατρός.</speaker></line>
+<line num="769"  type="ia6"><speaker name="Ἰώ"> οὐδʼ ἔστιν αὐτῷ τῆσδʼ ἀποστροφὴ τύχης;</speaker></line>
+<line num="770"  type="ia6"><speaker name="Προμηθεύς"> οὐ δῆτα, πλὴν ἔγωγʼ ἂν ἐκ δεσμῶν λυθείς.</speaker></line>
+<line num="771"  type="ia6"><speaker name="Ἰώ"> τίς οὖν ὁ λύσων ἐστὶν ἄκοντος Διός;</speaker></line>
+<line num="772"  type="ia6"><speaker name="Προμηθεύς"> τῶν σῶν τινʼ αὐτὸν ἐγγόνων εἶναι χρεών.</speaker></line>
+<line num="773"  type="ia6"><speaker name="Ἰώ"> πῶς εἶπας; ἦ ʼμὸς παῖς σʼ ἀπαλλάξει κακῶν;</speaker></line>
+<line num="774"  type="ia6"><speaker name="Προμηθεύς"> τρίτος γε γένναν πρὸς δέκʼ ἄλλαισιν γοναῖς.</speaker></line>
+<line num="775"  type="ia6"><speaker name="Ἰώ"> ἥδʼ οὐκέτʼ εὐξύμβλητος ἡ χρησμῳδία.</speaker></line>
+<line num="776"  type="ia6"><speaker name="Προμηθεύς"> καὶ μηδὲ σαυτῆς ἐκμαθεῖν ζήτει πόνους.</speaker></line>
+<line num="777"  type="ia6"><speaker name="Ἰώ"> μή μοι προτείνων κέρδος εἶτʼ ἀποστέρει.</speaker></line>
+<line num="778"  type="ia6"><speaker name="Προμηθεύς"> δυοῖν λόγοιν σε θατέρῳ δωρήσομαι.</speaker></line>
+<line num="779"  type="ia6"><speaker name="Ἰώ"> ποίοιν; πρόδειξον, αἵρεσίν τʼ ἐμοὶ δίδου.</speaker></line>
+<line num="780"  type="ia6"><speaker name="Προμηθεύς"> δίδωμʼ· ἑλοῦ γάρ, ἢ πόνων τὰ λοιπά σοι</speaker></line>
+<line num="781"  type="ia6"><speaker name="Προμηθεύς"> φράσω σαφηνῶς, ἢ τὸν ἐκλύσοντʼ ἐμέ.</speaker></line>
+<line num="782"  type="ia6"><speaker name="Χορός"> τούτων σὺ τὴν μὲν τῇδε, τὴν δʼ ἐμοὶ χάριν</speaker></line>
+<line num="783"  type="ia6"><speaker name="Χορός"> θέσθαι θέλησον, μηδʼ ἀτιμάσῃς λόγου·</speaker></line>
+<line num="784"  type="ia6"><speaker name="Χορός"> καὶ τῇδε μὲν γέγωνε τὴν λοιπὴν πλάνην,</speaker></line>
+<line num="785"  type="ia6"><speaker name="Χορός"> ἐμοὶ δὲ τὸν λύσοντα· τοῦτο γὰρ ποθῶ.</speaker></line>
+<line num="786"  type="ia6"><speaker name="Προμηθεύς"> ἐπεὶ προθυμεῖσθʼ, οὐκ ἐναντιώσομαι</speaker></line>
+<line num="787"  type="ia6"><speaker name="Προμηθεύς"> τὸ μὴ οὐ γεγωνεῖν πᾶν ὅσον προσχρῄζετε.</speaker></line>
+<line num="788"  type="ia6"><speaker name="Προμηθεύς"> σοὶ πρῶτον, Ἰοῖ, πολύδονον πλάνην φράσω,</speaker></line>
+<line num="789"  type="ia6"><speaker name="Προμηθεύς"> ἣν ἐγγράφου σὺ μνήμοσιν δέλτοις φρενῶν.</speaker></line>
+<line num="790"  type="ia6"><speaker name="Προμηθεύς"> ὅταν περάσῃς ῥεῖθρον ἠπείροιν ὅρον,</speaker></line>
+<line num="791"  type="ia6"><speaker name="Προμηθεύς"> πρὸς ἀντολὰς φλογῶπας ἡλιοστιβεῖς</speaker></line>
+<line num="792"  type="ia6"><speaker name="Προμηθεύς"> <gap reason="lost"></gap></speaker></line>
+<line num="793"  type="ia6"><speaker name="Προμηθεύς"> πόντου περῶσα φλοῖσβον, ἔστʼ ἂν ἐξίκῃ</speaker></line>
+<line num="794"  type="ia6"><speaker name="Προμηθεύς"> πρὸς Γοργόνεια πεδία Κισθήνης, ἵνα</speaker></line>
+<line num="795"  type="ia6"><speaker name="Προμηθεύς"> αἱ Φορκίδες ναίουσι δηναιαὶ κόραι</speaker></line>
+<line num="795a"  type="ia6"><speaker name="Προμηθεύς"> τρεῖς κυκνόμορφοι, κοινὸν ὄμμʼ ἐκτημέναι,</speaker></line>
+<line num="796"  type="ia6"><speaker name="Προμηθεύς"> μονόδοντες, ἃς οὔθʼ ἥλιος προσδέρκεται</speaker></line>
+<line num="797"  type="ia6"><speaker name="Προμηθεύς"> ἀκτῖσιν οὔθʼ ἡ νύκτερος μήνη ποτέ.</speaker></line>
+<line num="798"  type="ia6"><speaker name="Προμηθεύς"> πέλας δʼ ἀδελφαὶ τῶνδε τρεῖς κατάπτεροι,</speaker></line>
+<line num="799"  type="ia6"><speaker name="Προμηθεύς"> δρακοντόμαλλοι Γοργόνες βροτοστυγεῖς,</speaker></line>
+<line num="800"  type="ia6"><speaker name="Προμηθεύς"> ἃς θνητὸς οὐδεὶς εἰσιδὼν ἕξει πνοάς.</speaker></line>
+<line num="801"  type="ia6"><speaker name="Προμηθεύς"> τοιοῦτο μέν σοι τοῦτο φρούριον λέγω·</speaker></line>
+<line num="802"  type="ia6"><speaker name="Προμηθεύς"> ἄλλην δʼ ἄκουσον δυσχερῆ θεωρίαν·</speaker></line>
+<line num="803"  type="ia6"><speaker name="Προμηθεύς"> ὀξυστόμους γὰρ Ζηνὸς ἀκραγεῖς κύνας</speaker></line>
+<line num="804"  type="ia6"><speaker name="Προμηθεύς"> γρῦπας φύλαξαι, τόν τε μουνῶπα στρατὸν</speaker></line>
+<line num="805"  type="ia6"><speaker name="Προμηθεύς"> Ἀριμασπὸν ἱπποβάμονʼ, οἳ χρυσόρρυτον</speaker></line>
+<line num="806"  type="ia6"><speaker name="Προμηθεύς"> οἰκοῦσιν ἀμφὶ νᾶμα Πλούτωνος πόρου·</speaker></line>
+<line num="807"  type="ia6"><speaker name="Προμηθεύς"> τούτοις σὺ μὴ πέλαζε. τηλουρὸν δὲ γῆν</speaker></line>
+<line num="808"  type="ia6"><speaker name="Προμηθεύς"> ἥξεις, κελαινὸν φῦλον, οἳ πρὸς ἡλίου</speaker></line>
+<line num="809"  type="ia6"><speaker name="Προμηθεύς"> ναίουσι πηγαῖς, ἔνθα ποταμὸς Αἰθίοψ.</speaker></line>
+<line num="810"  type="ia6"><speaker name="Προμηθεύς"> τούτου παρʼ ὄχθας ἕρφʼ, ἕως ἂν ἐξίκῃ</speaker></line>
+<line num="811"  type="ia6"><speaker name="Προμηθεύς"> καταβασμόν, ἔνθα Βιβλίνων ὀρῶν ἄπο</speaker></line>
+<line num="812"  type="ia6"><speaker name="Προμηθεύς"> ἵησι σεπτὸν Νεῖλος εὔποτον ῥέος.</speaker></line>
+<line num="813"  type="ia6"><speaker name="Προμηθεύς"> οὗτός σʼ ὁδώσει τὴν τρίγωνον ἐς χθόνα</speaker></line>
+<line num="814"  type="ia6"><speaker name="Προμηθεύς"> Νειλῶτιν, οὗ δὴ τὴν μακρὰν ἀποικίαν,</speaker></line>
+<line num="815"  type="ia6"><speaker name="Προμηθεύς"> Ἰοῖ, πέπρωται σοί τε καὶ τέκνοις κτίσαι.</speaker></line>
+<line num="816"  type="ia6"><speaker name="Προμηθεύς"> τῶν δʼ εἴ τί σοι ψελλόν τε καὶ δυσεύρετον,</speaker></line>
+<line num="817"  type="ia6"><speaker name="Προμηθεύς"> ἐπανδίπλαζε καὶ σαφῶς ἐκμάνθανε·</speaker></line>
+<line num="818"  type="ia6"><speaker name="Προμηθεύς"> σχολὴ δὲ πλείων ἢ θέλω πάρεστί μοι.</speaker></line>
+<line num="819"  type="ia6"><speaker name="Χορός"> εἰ μέν τι τῇδε λοιπὸν ἢ παρειμένον</speaker></line>
+<line num="820"  type="ia6"><speaker name="Χορός"> ἔχεις γεγωνεῖν τῆς πολυφθόρου πλάνης,</speaker></line>
+<line num="821"  type="ia6"><speaker name="Χορός"> λέγʼ· εἰ δὲ πάντʼ εἴρηκας, ἡμῖν αὖ χάριν</speaker></line>
+<line num="822"  type="ia6"><speaker name="Χορός"> δὸς ἥνπερ αἰτούμεσθα, μέμνησαι δέ που.</speaker></line>
+<line num="823"  type="ia6"><speaker name="Προμηθεύς"> τὸ πᾶν πορείας ἥδε τέρμʼ ἀκήκοεν.</speaker></line>
+<line num="824"  type="ia6"><speaker name="Προμηθεύς"> ὅπως δʼ ἂν εἰδῇ μὴ μάτην κλύουσά μου,</speaker></line>
+<line num="825"  type="ia6"><speaker name="Προμηθεύς"> ἃ πρὶν μολεῖν δεῦρʼ ἐκμεμόχθηκεν φράσω,</speaker></line>
+<line num="826"  type="ia6"><speaker name="Προμηθεύς"> τεκμήριον τοῦτʼ αὐτὸ δοὺς μύθων ἐμῶν.</speaker></line>
+<line num="827"  type="ia6"><speaker name="Προμηθεύς"> ὄχλον μὲν οὖν τὸν πλεῖστον ἐκλείψω λόγων,</speaker></line>
+<line num="828"  type="ia6"><speaker name="Προμηθεύς"> πρὸς αὐτὸ δʼ εἶμι τέρμα σῶν πλανημάτων.</speaker></line>
+<line num="829"  type="ia6"><speaker name="Προμηθεύς"> ἐπεὶ γὰρ ἦλθες πρὸς Μολοσσὰ γάπεδα,</speaker></line>
+<line num="830"  type="ia6"><speaker name="Προμηθεύς"> τὴν αἰπύνωτόν τʼ ἀμφὶ Δωδώνην, ἵνα</speaker></line>
+<line num="831"  type="ia6"><speaker name="Προμηθεύς"> μαντεῖα θᾶκός τʼ ἐστὶ Θεσπρωτοῦ Διός,</speaker></line>
+<line num="832"  type="ia6"><speaker name="Προμηθεύς"> τέρας τʼ ἄπιστον, αἱ προσήγοροι δρύες,</speaker></line>
+<line num="833"  type="ia6"><speaker name="Προμηθεύς"> ὑφʼ ὧν σὺ λαμπρῶς κοὐδὲν αἰνικτηρίως</speaker></line>
+<line num="834"  type="ia6"><speaker name="Προμηθεύς"> προσηγορεύθης ἡ Διὸς κλεινὴ δάμαρ</speaker></line>
+<line num="835"  type="ia6"><speaker name="Προμηθεύς"> μέλλουσʼ ἔσεσθαι. τῶνδε προσσαίνει σέ τι ;</speaker></line>
+<line num="836"  type="ia6"><speaker name="Προμηθεύς"> ἐντεῦθεν οἰστρήσασα τὴν παρακτίαν</speaker></line>
+<line num="837"  type="ia6"><speaker name="Προμηθεύς"> κέλευθον ᾖξας πρὸς μέγαν κόλπον Ῥέας,</speaker></line>
+<line num="838"  type="ia6"><speaker name="Προμηθεύς"> ἀφʼ οὗ παλιμπλάγκτοισι χειμάζῃ δρόμοις·</speaker></line>
+<line num="839"  type="ia6"><speaker name="Προμηθεύς"> χρόνον δὲ τὸν μέλλοντα πόντιος μυχός,</speaker></line>
+<line num="840"  type="ia6"><speaker name="Προμηθεύς"> σαφῶς ἐπίστασʼ, Ἰόνιος κεκλήσεται,.</speaker></line>
+<line num="841"  type="ia6"><speaker name="Προμηθεύς"> τῆς σῆς πορείας μνῆμα τοῖς πᾶσιν βροτοῖς.</speaker></line>
+<line num="842"  type="ia6"><speaker name="Προμηθεύς"> σημεῖά σοι τάδʼ ἐστὶ τῆς ἐμῆς φρενός,</speaker></line>
+<line num="843"  type="ia6"><speaker name="Προμηθεύς"> ὡς δέρκεται πλέον τι τοῦ πεφασμένου.</speaker></line>
+<line num="844"  type="ia6"><speaker name="Προμηθεύς"> τὰ λοιπὰ δʼ ὑμῖν τῇδέ τʼ ἐς κοινὸν φράσω,</speaker></line>
+<line num="845"  type="ia6"><speaker name="Προμηθεύς"> ἐς ταὐτὸν ἐλθὼν τῶν πάλαι λόγων ἴχνος.</speaker></line>
+<line num="846"  type="ia6"><speaker name="Προμηθεύς"> ἔστιν πόλις Κάνωβος ἐσχάτη χθονός,</speaker></line>
+<line num="847"  type="ia6"><speaker name="Προμηθεύς"> Νείλου πρὸς αὐτῷ στόματι καὶ προσχώματι·</speaker></line>
+<line num="848"  type="ia6"><speaker name="Προμηθεύς"> ἐνταῦθα δή σε Ζεὺς τίθησιν ἔμφρονα</speaker></line>
+<line num="849"  type="ia6"><speaker name="Προμηθεύς"> ἐπαφῶν ἀταρβεῖ χειρὶ καὶ θιγὼν μόνον.</speaker></line>
+<line num="850"  type="ia6"><speaker name="Προμηθεύς"> ἐπώνυμον δὲ τῶν Διὸς γεννημάτων</speaker></line>
+<line num="851"  type="ia6"><speaker name="Προμηθεύς"> τέξεις κελαινὸν Ἔπαφον, ὃς καρπώσεται</speaker></line>
+<line num="852"  type="ia6"><speaker name="Προμηθεύς"> ὅσην πλατύρρους Νεῖλος ἀρδεύει χθόνα·</speaker></line>
+<line num="853"  type="ia6"><speaker name="Προμηθεύς"> πέμπτη δʼ ἀπʼ αὐτοῦ γέννα πεντηκοντάπαις</speaker></line>
+<line num="854"  type="ia6"><speaker name="Προμηθεύς"> πάλιν πρὸς Ἄργος οὐχ ἑκοῦσʼ ἐλεύσεται</speaker></line>
+<line num="855"  type="ia6"><speaker name="Προμηθεύς"> θηλύσπορος, φεύγουσα συγγενῆ γάμον</speaker></line>
+<line num="856"  type="ia6"><speaker name="Προμηθεύς"> ἀνεψιῶν· οἱ δʼ ἐπτοημένοι φρένας,</speaker></line>
+<line num="857"  type="ia6"><speaker name="Προμηθεύς"> κίρκοι πελειῶν οὐ μακρὰν λελειμμένοι,</speaker></line>
+<line num="858"  type="ia6"><speaker name="Προμηθεύς"> ἥξουσι θηρεύοντες οὐ θηρασίμους</speaker></line>
+<line num="859"  type="ia6"><speaker name="Προμηθεύς"> γάμους, φθόνον δὲ σωμάτων ἕξει θεός·</speaker></line>
+<line num="860"  type="ia6"><speaker name="Προμηθεύς"> Πελασγία δὲ δέξεται θηλυκτόνῳ</speaker></line>
+<line num="861"  type="ia6"><speaker name="Προμηθεύς"> Ἄρει, δαμέντων νυκτιφρουρήτῳ θράσει.</speaker></line>
+<line num="862"  type="ia6"><speaker name="Προμηθεύς"> γυνὴ γὰρ ἄνδρʼ ἕκαστον αἰῶνος στερεῖ,</speaker></line>
+<line num="863"  type="ia6"><speaker name="Προμηθεύς"> δίθηκτον ἐν σφαγαῖσι βάψασα ξίφος·</speaker></line>
+<line num="864"  type="ia6"><speaker name="Προμηθεύς"> τοιάδʼ ἐπʼ ἐχθροὺς τοὺς ἐμοὺς ἔλθοι Κύπρις.</speaker></line>
+<line num="865"  type="ia6"><speaker name="Προμηθεύς"> μίαν δὲ παίδων ἵμερος θέλξει τὸ μὴ</speaker></line>
+<line num="866"  type="ia6"><speaker name="Προμηθεύς"> κτεῖναι σύνευνον, ἀλλʼ ἀπαμβλυνθήσεται</speaker></line>
+<line num="867"  type="ia6"><speaker name="Προμηθεύς"> γνώμην· δυοῖν δὲ θάτερον βουλήσεται,</speaker></line>
+<line num="868"  type="ia6"><speaker name="Προμηθεύς"> κλύειν ἄναλκις μᾶλλον ἢ μιαιφόνος·</speaker></line>
+<line num="869"  type="ia6"><speaker name="Προμηθεύς"> αὕτη κατʼ Ἄργος βασιλικὸν τέξει γένος.</speaker></line>
+<line num="870"  type="ia6"><speaker name="Προμηθεύς"> μακροῦ λόγου δεῖ ταῦτʼ ἐπεξελθεῖν τορῶς.</speaker></line>
+<line num="871"  type="ia6"><speaker name="Προμηθεύς"> σπορᾶς γε μὴν ἐκ τῆσδε φύσεται θρασὺς</speaker></line>
+<line num="872"  type="ia6"><speaker name="Προμηθεύς"> τόξοισι κλεινός, ὃς πόνων ἐκ τῶνδʼ ἐμὲ</speaker></line>
+<line num="873"  type="ia6"><speaker name="Προμηθεύς"> λύσει. τοιόνδε χρησμὸν ἡ παλαιγενὴς</speaker></line>
+<line num="874"  type="ia6"><speaker name="Προμηθεύς"> μήτηρ ἐμοὶ διῆλθε Τιτανὶς Θέμις·</speaker></line>
+<line num="875"  type="ia6"><speaker name="Προμηθεύς"> ὅπως δὲ χὤπη, ταῦτα δεῖ μακροῦ λόγου</speaker></line>
+<line num="876"  type="ia6"><speaker name="Προμηθεύς"> εἰπεῖν, σύ τʼ οὐδὲν ἐκμαθοῦσα κερδανεῖς.</speaker></line>
+</subsection>
+<subsection type="anapaests"">
+<line num="877"  type="an4"><speaker name="Ἰώ"> ἐλελεῦ ἐλελεῦ,</speaker></line>
+<line num="878"  type="an4"><speaker name="Ἰώ"> ὑπό μʼ αὖ σφάκελος καὶ φρενοπληγεῖς</speaker></line>
+<line num="879"  type="an4"><speaker name="Ἰώ"> μανίαι θάλπουσʼ, οἴστρου δʼ ἄρδις</speaker></line>
+<line num="880"  type="an4"><speaker name="Ἰώ"> χρίει μʼ ἄπυρος·</speaker></line>
+<line num="881"  type="an4"><speaker name="Ἰώ"> κραδία δὲ φόβῳ φρένα λακτίζει.</speaker></line>
+<line num="882"  type="an4"><speaker name="Ἰώ"> τροχοδινεῖται δʼ ὄμμαθʼ ἑλίγδην,</speaker></line>
+<line num="883"  type="an4"><speaker name="Ἰώ"> ἔξω δὲ δρόμου φέρομαι λύσσης</speaker></line>
+<line num="884"  type="an4"><speaker name="Ἰώ"> πνεύματι μάργῳ, γλώσσης ἀκρατής·</speaker></line>
+<line num="885"  type="an4"><speaker name="Ἰώ"> θολεροὶ δὲ λόγοι παίουσʼ εἰκῆ</speaker></line>
+<line num="886"  type="an4"><speaker name="Ἰώ"> στυγνῆς πρὸς κύμασιν ἄτης.</speaker></line>
+</subsection>
+</section>
+
+<section type="stasimon" form="strophic">
+<subsection type="strophic_triad">
+
+<line num="887"  type="D" stanza="strophe"><speaker name="Χορός"> ἦ σοφὸς ἦ σοφὸς ἦν</speaker></line>
+<line num="888"  type="-e-D" stanza="strophe"><speaker name="Χορός"> ὃς πρῶτος ἐν γνώμᾳ τόδʼ ἐβάστασε καὶ </speaker></line>
+<line num="889"  type="-D-" stanza="strophe"><speaker name="Χορός"> γλώσσᾳ διεμυθολόγησεν,</speaker></line>
+<line num="890"  type="e-D-e" stanza="strophe"><speaker name="Χορός"> ὡς τὸ κηδεῦσαι καθʼ ἑαυτὸν ἀριστεύει μακρῷ,</speaker></line>
+<line num="891"  type="-e-D" stanza="strophe"><speaker name="Χορός"> καὶ μήτε τῶν πλούτῳ διαθρυπτομένων</speaker></line>
+<line num="892"  type="e-D" stanza="strophe"><speaker name="Χορός"> μήτε τῶν γέννᾳ μεγαλυνομένων</speaker></line>
+<line num="893"  type="exexe" stanza="strophe"><speaker name="Χορός"> ὄντα χερνήταν ἐραστεῦσαι γάμων.</speaker></line>
+
+<line num="894"  type="D" stanza="antistrophe"><speaker name="Χορός"> μήποτε μήποτέ ἔμʼ, ὦ</speaker></line>
+<line num="895"  type="-e-D" stanza="antistrophe"><speaker name="Χορός"> Μοῖραι u---, λεχέων Διὸς εὐ-</speaker></line>
+<line num="896"  type="-D-" stanza="antistrophe"><speaker name="Χορός"> νάτειραν ἴδοισθε πέλουσαν·</speaker></line>
+<line num="897"  type="e-D-e" stanza="antistrophe"><speaker name="Χορός"> μηδὲ πλαθείην γαμέτᾳ τινὶ τῶν ἐξ οὐρανοῦ.</speaker></line>
+<line num="898"  type="-e-D" stanza="antistrophe"><speaker name="Χορός"> ταρβῶ γὰρ ἀστεργάνορα παρθενίαν</speaker></line>
+<line num="899"  type="e-D" stanza="antistrophe"><speaker name="Χορός"> εἰσορῶσʼ Ἰοῦς ἀμαλαπτομέναν</speaker></line>
+<line num="900"  type="exexe" stanza="antistrophe"><speaker name="Χορός"> δυσπλάνοις Ἥρας ἀλατείαις πόνων.</speaker></line>
+
+<line num="901"  type="ia6" stanza="epode"><speaker name="Χορός"> ἐμοὶ δʼ ὁπόθι μὲν ὁμαλὸς ὁ γάμος ἄφοβος οὐ,</speaker></line>
+<line num="902"  type="ia4" stanza="epode"><speaker name="Χορός"> <add>δὲ</add> δέδια μηδὲ κρεισσόνων θεῶν ἔρως</speaker></line>
+<line num="903"  type="ia4" stanza="epode"><speaker name="Χορός"> ἄφυκτον ὄμμα προσδράκοι.</speaker></line>
+<line num="904"  type="ia6" stanza="epode"><speaker name="Χορός"> ἀπόλεμος ὅδε γʼ ὁ πόλεμος, ἄπορα πόριμος· οὐδʼ</speaker></line>
+<line num="905"  type="ia4cat" stanza="epode"><speaker name="Χορός"> ἔχω τίς ἂν γενοίμαν.</speaker></line>
+<line num="906"  type="lec_ar" stanza="epode"><speaker name="Χορός"> τὰν Διὸς γὰρ οὐχ ὁρῶ μῆτιν ὅπαι φύγοιμʼ ἄν.</speaker></line>
+</subsection>
+</section>
+
+<section type="episode" form="mixed">
+<subsection type="dialogue">
+<line num="907"  type="ia6"><speaker name="Προμηθεύς"> ἦ μὴν ἔτι Ζεύς, καίπερ αὐθάδης φρενῶν,</speaker></line>
+<line num="908"  type="ia6"><speaker name="Προμηθεύς"> ἔσται ταπεινός, οἷον ἐξαρτύεται</speaker></line>
+<line num="909"  type="ia6"><speaker name="Προμηθεύς"> γάμον γαμεῖν, ὃς αὐτὸν ἐκ τυραννίδος</speaker></line>
+<line num="910"  type="ia6"><speaker name="Προμηθεύς"> θρόνων τʼ ἄιστον ἐκβαλεῖ· πατρὸς δʼ ἀρὰ</speaker></line>
+<line num="911"  type="ia6"><speaker name="Προμηθεύς"> Κρόνου τότʼ ἤδη παντελῶς κρανθήσεται,</speaker></line>
+<line num="912"  type="ia6"><speaker name="Προμηθεύς"> ἣν ἐκπίτνων ἠρᾶτο δηναιῶν θρόνων.</speaker></line>
+<line num="913"  type="ia6"><speaker name="Προμηθεύς"> τοιῶνδε μόχθων ἐκτροπὴν οὐδεὶς θεῶν</speaker></line>
+<line num="914"  type="ia6"><speaker name="Προμηθεύς"> δύναιτʼ ἂν αὐτῷ πλὴν ἐμοῦ δεῖξαι σαφῶς.</speaker></line>
+<line num="915"  type="ia6"><speaker name="Προμηθεύς"> ἐγὼ τάδʼ οἶδα χᾦ τρόπῳ. πρὸς ταῦτά νυν</speaker></line>
+<line num="916"  type="ia6"><speaker name="Προμηθεύς"> θαρσῶν καθήσθω τοῖς πεδαρσίοις κτύποις</speaker></line>
+<line num="917"  type="ia6"><speaker name="Προμηθεύς"> πιστός, τινάσσων τʼ ἐν χεροῖν πύρπνουν βέλος.</speaker></line>
+<line num="918"  type="ia6"><speaker name="Προμηθεύς"> οὐδὲν γὰρ αὐτῷ ταῦτʼ ἐπαρκέσει τὸ μὴ οὐ</speaker></line>
+<line num="919"  type="ia6"><speaker name="Προμηθεύς"> πεσεῖν ἀτίμως πτώματʼ οὐκ ἀνασχετά·</speaker></line>
+<line num="920"  type="ia6"><speaker name="Προμηθεύς"> τοῖον παλαιστὴν νῦν παρασκευάζεται</speaker></line>
+<line num="921"  type="ia6"><speaker name="Προμηθεύς"> ἐπʼ αὐτὸς αὑτῷ, δυσμαχώτατον τέρας·</speaker></line>
+<line num="922"  type="ia6"><speaker name="Προμηθεύς"> ὃς δὴ κεραυνοῦ κρείσσονʼ εὑρήσει φλόγα,</speaker></line>
+<line num="923"  type="ia6"><speaker name="Προμηθεύς"> βροντῆς θʼ ὑπερβάλλοντα καρτερὸν κτύπον·</speaker></line>
+<line num="924"  type="ia6"><speaker name="Προμηθεύς"> θαλασσίαν τε γῆς τινάκτειραν νόσον</speaker></line>
+<line num="925"  type="ia6"><speaker name="Προμηθεύς"> τρίαιναν, αἰχμὴν τὴν Ποσειδῶνος, σκεδᾷ.</speaker></line>
+<line num="926"  type="ia6"><speaker name="Προμηθεύς"> πταίσας δὲ τῷδε πρὸς κακῷ μαθήσεται</speaker></line>
+<line num="927"  type="ia6"><speaker name="Προμηθεύς"> ὅσον τό τʼ ἄρχειν καὶ τὸ δουλεύειν δίχα.</speaker></line>
+<line num="928"  type="ia6"><speaker name="Χορός"> σύ θην ἃ χρῄζεις, ταῦτʼ ἐπιγλωσσᾷ Διός.</speaker></line>
+<line num="929"  type="ia6"><speaker name="Προμηθεύς"> ἅπερ τελεῖται, πρὸς δʼ ἃ βούλομαι λέγω.</speaker></line>
+<line num="930"  type="ia6"><speaker name="Χορός"> καὶ προσδοκᾶν χρὴ δεσπόσειν Ζηνός τινα;</speaker></line>
+<line num="931"  type="ia6"><speaker name="Προμηθεύς"> καὶ τῶνδέ γʼ, ἕξει δυσλοφωτέρους πόνους.</speaker></line>
+<line num="932"  type="ia6"><speaker name="Χορός"> πῶς δʼ οὐχὶ ταρβεῖς τοιάδʼ ἐκρίπτων ἔπη;</speaker></line>
+<line num="933"  type="ia6"><speaker name="Προμηθεύς"> τί δʼ ἂν φοβοίμην ᾧ θανεῖν οὐ μόρσιμον;</speaker></line>
+<line num="934"  type="ia6"><speaker name="Χορός"> ἀλλʼ ἆθλον ἄν σοι τοῦδʼ ἔτʼ ἀλγίω πόροι.</speaker></line>
+<line num="935"  type="ia6"><speaker name="Προμηθεύς"> ὁ δʼ οὖν ποιείτω· πάντα προσδοκητά μοι.</speaker></line>
+<line num="936"  type="ia6"><speaker name="Χορός"> οἱ προσκυνοῦντες τὴν Ἀδράστειαν σοφοί.</speaker></line>
+<line num="937"  type="ia6"><speaker name="Προμηθεύς"> σέβου, προσεύχου, θῶπτε τὸν κρατοῦντʼ ἀεί.</speaker></line>
+<line num="938"  type="ia6"><speaker name="Προμηθεύς"> ἐμοὶ δʼ ἔλασσον Ζηνὸς ἢ μηδὲν μέλει.</speaker></line>
+<line num="939"  type="ia6"><speaker name="Προμηθεύς"> δράτω, κρατείτω τόνδε τὸν βραχὺν χρόνον,</speaker></line>
+<line num="940"  type="ia6"><speaker name="Προμηθεύς"> ὅπως θέλει· δαρὸν γὰρ οὐκ ἄρξει θεοῖς.</speaker></line>
+<line num="941"  type="ia6"><speaker name="Προμηθεύς"> ἀλλʼ εἰσορῶ γὰρ τόνδε τὸν Διὸς τρόχιν,</speaker></line>
+<line num="942"  type="ia6"><speaker name="Προμηθεύς"> τὸν τοῦ τυράννου τοῦ νέου διάκονον·</speaker></line>
+<line num="943"  type="ia6"><speaker name="Προμηθεύς"> πάντως τι καινὸν ἀγγελῶν ἐλήλυθεν.</speaker></line>
+<line num="944"  type="ia6"><speaker name="Ἑρμῆς"> σὲ τὸν σοφιστήν, τὸν πικρῶς ὑπέρπικρον,</speaker></line>
+<line num="945"  type="ia6"><speaker name="Ἑρμῆς"> τὸν ἐξαμαρτόντʼ εἰς θεοὺς ἐφημέροις</speaker></line>
+<line num="946"  type="ia6"><speaker name="Ἑρμῆς"> πορόντα τιμάς, τὸν πυρὸς κλέπτην λέγω·</speaker></line>
+<line num="947"  type="ia6"><speaker name="Ἑρμῆς"> πατὴρ ἄνωγέ σʼ οὕστινας κομπεῖς γάμους</speaker></line>
+<line num="948"  type="ia6"><speaker name="Ἑρμῆς"> αὐδᾶν, πρὸς ὧν ἐκεῖνος ἐκπίπτει κράτους.</speaker></line>
+<line num="949"  type="ia6"><speaker name="Ἑρμῆς"> καὶ ταῦτα μέντοι μηδὲν αἰνικτηρίως,</speaker></line>
+<line num="950"  type="ia6"><speaker name="Ἑρμῆς"> ἀλλʼ αὔθʼ ἕκαστα φράζε· μηδέ μοι διπλᾶς</speaker></line>
+<line num="951"  type="ia6"><speaker name="Ἑρμῆς"> ὁδούς, Προμηθεῦ, προσβάλῃς· ὁρᾷς δʼ ὅτι</speaker></line>
+<line num="952"  type="ia6"><speaker name="Ἑρμῆς"> Ζεὺς τοῖς τοιούτοις οὐχὶ μαλθακίζεται.</speaker></line>
+<line num="953"  type="ia6"><speaker name="Προμηθεύς"> σεμνόστομός γε καὶ φρονήματος πλέως</speaker></line>
+<line num="954"  type="ia6"><speaker name="Προμηθεύς"> ὁ μῦθός ἐστιν, ὡς θεῶν ὑπηρέτου.</speaker></line>
+<line num="955"  type="ia6"><speaker name="Προμηθεύς"> νέον νέοι κρατεῖτε καὶ δοκεῖτε δὴ</speaker></line>
+<line num="956"  type="ia6"><speaker name="Προμηθεύς"> ναίειν ἀπενθῆ πέργαμʼ· οὐκ ἐκ τῶνδʼ ἐγὼ</speaker></line>
+<line num="957"  type="ia6"><speaker name="Προμηθεύς"> δισσοὺς τυράννους ἐκπεσόντας ᾐσθόμην;</speaker></line>
+<line num="958"  type="ia6"><speaker name="Προμηθεύς"> τρίτον δὲ τὸν νῦν κοιρανοῦντʼ ἐπόψομαι</speaker></line>
+<line num="959"  type="ia6"><speaker name="Προμηθεύς"> αἴσχιστα καὶ τάχιστα. μή τί σοι δοκῶ</speaker></line>
+<line num="960"  type="ia6"><speaker name="Προμηθεύς"> ταρβεῖν ὑποπτήσσειν τε τε τοὺς νέους θεούς;</speaker></line>
+<line num="961"  type="ia6"><speaker name="Προμηθεύς"> πολλοῦ γε καὶ τοῦ παντὸς ἐλλείπω. σὺ δὲ</speaker></line>
+<line num="962"  type="ia6"><speaker name="Προμηθεύς"> κέλευθον ἥνπερ ἦλθες ἐγκόνει πάλιν·</speaker></line>
+<line num="963"  type="ia6"><speaker name="Προμηθεύς"> πεύσῃ γὰρ οὐδὲν ὧν ἀνιστορεῖς ἐμέ.</speaker></line>
+<line num="964"  type="ia6"><speaker name="Ἑρμῆς"> τοιοῖσδε μέντοι καὶ πρὶν αὐθαδίσμασιν</speaker></line>
+<line num="965"  type="ia6"><speaker name="Ἑρμῆς"> ἐς τάσδε σαυτὸν πημονὰς καθώρμισας.</speaker></line>
+<line num="966"  type="ia6"><speaker name="Προμηθεύς"> τῆς σῆς λατρείας τὴν ἐμὴν δυσπραξίαν,</speaker></line>
+<line num="967"  type="ia6"><speaker name="Προμηθεύς"> σαφῶς ἐπίστασʼ, οὐκ ἂν ἀλλάξαιμʼ ἐγώ.</speaker></line>
+<line num="968"  type="ia6"><speaker name="Ἑρμῆς"> κρεῖσσον γὰρ οἶμαι τῇδε λατρεύειν πέτρᾳ</speaker></line>
+<line num="969"  type="ia6"><speaker name="Ἑρμῆς"> ἢ πατρὶ φῦναι Ζηνὶ πιστὸν ἄγγελον.</speaker></line>
+<line num="970"  type="ia6"><speaker name="Προμηθεύς"> οὕτως ὑβρίζειν τοὺς ὑβρίζοντας χρεών.</speaker></line>
+<line num="971"  type="ia6"><speaker name="Ἑρμῆς"> χλιδᾶν ἔοικας τοῖς παροῦσι πράγμασι.</speaker></line>
+<line num="972"  type="ia6"><speaker name="Προμηθεύς"> χλιδῶ; χλιδῶντας ὧδε τοὺς ἐμοὺς ἐγὼ</speaker></line>
+<line num="973"  type="ia6"><speaker name="Προμηθεύς"> ἐχθροὺς ἴδοιμι· καὶ σὲ δʼ ἐν τούτοις λέγω.</speaker></line>
+<line num="974"  type="ia6"><speaker name="Ἑρμῆς"> ἦ κἀμὲ γάρ τι συμφοραῖς ἐπαιτιᾷ;</speaker></line>
+<line num="975"  type="ia6"><speaker name="Προμηθεύς"> ἁπλῷ λόγῳ τοὺς πάντας ἐχθαίρω θεούς,</speaker></line>
+<line num="976"  type="ia6"><speaker name="Προμηθεύς"> ὅσοι παθόντες εὖ κακοῦσί μʼ ἐκδίκως.</speaker></line>
+<line num="977"  type="ia6"><speaker name="Ἑρμῆς"> κλύω σʼ ἐγὼ μεμηνότʼ οὐ σμικρὰν νόσον.</speaker></line>
+<line num="978"  type="ia6"><speaker name="Προμηθεύς"> νοσοῖμʼ ἄν, εἰ νόσημα τοὺς ἐχθροὺς στυγεῖν.</speaker></line>
+<line num="979"  type="ia6"><speaker name="Ἑρμῆς"> εἴης φορητὸς οὐκ ἄν, εἰ πράσσοις καλῶς.</speaker></line>
+<line num="980"  type="ia6"><speaker name="Προμηθεύς"> <add>ὤμοι.</add></speaker></line>
+<line num="980a"  type="ia6"><speaker name="Ἑρμῆς"> ὤμοι; τόδε Ζεὺς τοὔπος οὐκ ἐπίσταται.</speaker></line>
+<line num="981"  type="ia6"><speaker name="Προμηθεύς"> ἀλλʼ ἐκδιδάσκει πάνθʼ ὁ γηράσκων χρόνος.</speaker></line>
+<line num="982"  type="ia6"><speaker name="Ἑρμῆς"> καὶ μὴν σύ γʼ οὔπω σωφρονεῖν ἐπίστασαι.</speaker></line>
+<line num="983"  type="ia6"><speaker name="Προμηθεύς"> σὲ γὰρ προσηύδων οὐκ ἂν ὄνθʼ ὑπηρέτην.</speaker></line>
+<line num="984"  type="ia6"><speaker name="Ἑρμῆς"> ἐρεῖν ἔοικας οὐδὲν ὧν χρῄζει πατήρ.</speaker></line>
+<line num="985"  type="ia6"><speaker name="Προμηθεύς"> καὶ μὴν ὀφείλων γʼ ἂν τίνοιμʼ αὐτῷ χάριν.</speaker></line>
+<line num="986"  type="ia6"><speaker name="Ἑρμῆς"> ἐκερτόμησας δῆθεν ὡς παῖδʼ ὄντα με.</speaker></line>
+<line num="987"  type="ia6"><speaker name="Προμηθεύς"> οὐ γὰρ σὺ παῖς τε κἄτι τοῦδʼ ἀνούστερος</speaker></line>
+<line num="988"  type="ia6"><speaker name="Προμηθεύς"> εἰ προσδοκᾷς ἐμοῦ τι πεύσεσθαι πάρα;</speaker></line>
+<line num="989"  type="ia6"><speaker name="Προμηθεύς"> οὐκ ἔστιν αἴκισμʼ οὐδὲ μηχάνημʼ ὅτῳ</speaker></line>
+<line num="990"  type="ia6"><speaker name="Προμηθεύς"> προτρέψεταί με Ζεὺς γεγωνῆσαι τάδε,</speaker></line>
+<line num="991"  type="ia6"><speaker name="Προμηθεύς"> πρὶν ἂν χαλασθῇ δεσμὰ λυμαντήρια.</speaker></line>
+<line num="992"  type="ia6"><speaker name="Προμηθεύς"> πρὸς ταῦτα ῥιπτέσθω μὲν αἰθαλοῦσσα φλόξ,</speaker></line>
+<line num="993"  type="ia6"><speaker name="Προμηθεύς"> λευκοπτέρῳ δὲ νιφάδι καὶ βροντήμασι</speaker></line>
+<line num="994"  type="ia6"><speaker name="Προμηθεύς"> χθονίοις κυκάτω πάντα καὶ ταρασσέτω.</speaker></line>
+<line num="995"  type="ia6"><speaker name="Προμηθεύς"> γνάμψει γὰρ οὐδὲν τῶνδέ μʼ ὥστε καὶ φράσαι</speaker></line>
+<line num="996"  type="ia6"><speaker name="Προμηθεύς"> πρὸς οὗ χρεών νιν ἐκπεσεῖν τυραννίδος.</speaker></line>
+<line num="997"  type="ia6"><speaker name="Ἑρμῆς"> ὅρα νυν εἴ σοι ταῦτʼ ἀρωγὰ φαίνεται.</speaker></line>
+<line num="998"  type="ia6"><speaker name="Προμηθεύς"> ὦπται πάλαι δὴ καὶ βεβούλευται τάδε.</speaker></line>
+<line num="999"  type="ia6"><speaker name="Ἑρμῆς"> τόλμησον, ὦ μάταιε, τόλμησόν ποτε</speaker></line>
+<line num="1000"  type="ia6"><speaker name="Ἑρμῆς"> πρὸς τὰς παρούσας πημονὰς ὀρθῶς φρονεῖν,</speaker></line>
+<line num="1001"  type="ia6"><speaker name="Προμηθεύς"> ὀχλεῖς μάτην με κῦμʼ ὅπως παρηγορῶν.</speaker></line>
+<line num="1002"  type="ia6"><speaker name="Προμηθεύς"> εἰσελθέτω σε μήποθʼ ὡς ἐγὼ Διὸς</speaker></line>
+<line num="1003"  type="ia6"><speaker name="Προμηθεύς"> γνώμην φοβηθεὶς θηλύνους γενήσομαι,</speaker></line>
+<line num="1004"  type="ia6"><speaker name="Προμηθεύς"> καὶ λιπαρήσω τὸν μέγα στυγούμενον</speaker></line>
+<line num="1005"  type="ia6"><speaker name="Προμηθεύς"> γυναικομίμοις ὑπτιάσμασιν χερῶν</speaker></line>
+<line num="1006"  type="ia6"><speaker name="Προμηθεύς"> λῦσαί με δεσμῶν τῶνδε· τοῦ παντὸς δέω.</speaker></line>
+<line num="1007"  type="ia6"><speaker name="Ἑρμῆς"> λέγων ἔοικα πολλὰ καὶ μάτην ἐρεῖν·</speaker></line>
+<line num="1008"  type="ia6"><speaker name="Ἑρμῆς"> τέγγῃ γὰρ οὐδὲν οὐδὲ μαλθάσσῃ λιταῖς</speaker></line>
+<line num="1009"  type="ia6"><speaker name="Ἑρμῆς"> ἐμαῖς· δακὼν δὲ στόμιον ὡς νεοζυγὴς</speaker></line>
+<line num="1010"  type="ia6"><speaker name="Ἑρμῆς"> πῶλος βιάζῃ καὶ πρὸς ἡνίας μάχῃ.</speaker></line>
+<line num="1011"  type="ia6"><speaker name="Ἑρμῆς"> ἀτὰρ σφοδρύνῃ γʼ ἀσθενεῖ σοφίσματι·</speaker></line>
+<line num="1012"  type="ia6"><speaker name="Ἑρμῆς"> αὐθαδία γὰρ τῷ φρονοῦντι μὴ καλῶς</speaker></line>
+<line num="1013"  type="ia6"><speaker name="Ἑρμῆς"> αὐτὴ καθʼ αὑτὴν οὐδενὸς μεῖζον σθένει.</speaker></line>
+<line num="1014"  type="ia6"><speaker name="Ἑρμῆς"> σκέψαι δʼ, ἐὰν μὴ τοῖς ἐμοῖς πεισθῇς λόγοις,</speaker></line>
+<line num="1015"  type="ia6"><speaker name="Ἑρμῆς"> οἷός σε χειμὼν καὶ κακῶν τρικυμία</speaker></line>
+<line num="1016"  type="ia6"><speaker name="Ἑρμῆς"> ἔπεισʼ ἄφυκτος · πρῶτα μὲν γὰρ ὀκρίδα</speaker></line>
+<line num="1017"  type="ia6"><speaker name="Ἑρμῆς"> φάραγγα βροντῇ καὶ κεραυνίᾳ φλογὶ</speaker></line>
+<line num="1018"  type="ia6"><speaker name="Ἑρμῆς"> πατὴρ σπαράξει τήνδε, καὶ κρύψει δέμας</speaker></line>
+<line num="1019"  type="ia6"><speaker name="Ἑρμῆς"> τὸ σόν, πετραία δʼ ἀγκάλη σε βαστάσει.</speaker></line>
+<line num="1020"  type="ia6"><speaker name="Ἑρμῆς"> μακρὸν δὲ μῆκος ἐκτελευτήσας χρόνου</speaker></line>
+<line num="1021"  type="ia6"><speaker name="Ἑρμῆς"> ἄψορρον ἥξεις εἰς φάος· Διὸς δέ τοί</speaker></line>
+<line num="1022"  type="ia6"><speaker name="Ἑρμῆς"> πτηνὸς κύων, δαφοινὸς αἰετός, λάβρως</speaker></line>
+<line num="1023"  type="ia6"><speaker name="Ἑρμῆς"> διαρταμήσει σώματος μέγα ῥάκος,</speaker></line>
+<line num="1024"  type="ia6"><speaker name="Ἑρμῆς"> ἄκλητος ἕρπων δαιταλεὺς πανήμερος,</speaker></line>
+<line num="1025"  type="ia6"><speaker name="Ἑρμῆς"> κελαινόβρωτον δʼ ἧπαρ ἐκθοινήσεται.</speaker></line>
+<line num="1026"  type="ia6"><speaker name="Ἑρμῆς"> τοιοῦδε μόχθου τέρμα μή τι προσδόκα,</speaker></line>
+<line num="1027"  type="ia6"><speaker name="Ἑρμῆς"> πρὶν ἂν θεῶν τις διάδοχος τῶν σῶν πόνων</speaker></line>
+<line num="1028"  type="ia6"><speaker name="Ἑρμῆς"> φανῇ, θελήσῃ τʼ εἰς ἀναύγητον μολεῖν</speaker></line>
+<line num="1029"  type="ia6"><speaker name="Ἑρμῆς"> Ἅιδην κνεφαῖά τʼ ἀμφὶ Ταρτάρου βάθη.</speaker></line>
+<line num="1030"  type="ia6"><speaker name="Ἑρμῆς"> πρὸς ταῦτα βούλευʼ· ὡς ὅδʼ οὐ πεπλασμένος</speaker></line>
+<line num="1031"  type="ia6"><speaker name="Ἑρμῆς"> ὁ κόμπος, ἀλλὰ καὶ λίαν εἰρημένος ·</speaker></line>
+<line num="1032"  type="ia6"><speaker name="Ἑρμῆς"> ψευδηγορεῖν γὰρ οὐκ ἐπίσταται στόμα</speaker></line>
+<line num="1033"  type="ia6"><speaker name="Ἑρμῆς"> τὸ Δῖον, ἀλλὰ πᾶν ἔπος τελεῖ· σὺ δὲ</speaker></line>
+<line num="1034"  type="ia6"><speaker name="Ἑρμῆς"> πάπταινε καὶ φρόντιζε, μηδʼ αὐθαδίαν</speaker></line>
+<line num="1035"  type="ia6"><speaker name="Ἑρμῆς"> εὐβουλίας ἀμείνονʼ ἡγήσῃ ποτέ.</speaker></line>
+<line num="1036"  type="ia6"><speaker name="Χορός"> ἡμῖν μὲν Ἑρμῆς οὐκ ἄκαιρα φαίνεται</speaker></line>
+<line num="1037"  type="ia6"><speaker name="Χορός"> λέγειν. ἄνωγε γάρ σε τὴν αὐθαδίαν</speaker></line>
+<line num="1038"  type="ia6"><speaker name="Χορός"> μεθέντʼ ἐρευνᾶν τὴν σοφὴν εὐβουλίαν.</speaker></line>
+<line num="1039"  type="ia6"><speaker name="Χορός"> πιθοῦ· σοφῷ γὰρ αἰσχρὸν ἐξαμαρτάνειν.</speaker></line>
+</subsection>
+<subsection type="anapaests">
+
+<line num="1040"  type="an4"><speaker name="Προμηθεύς"> εἰδότι τοί μοι τάσδʼ ἀγγελίας</speaker></line>
+<line num="1041"  type="an4"><speaker name="Προμηθεύς"> ὅδʼ ἐθώυξεν· πάσχειν δὲ κακῶς</speaker></line>
+<line num="1042"  type="an4"><speaker name="Προμηθεύς"> ἐχθρὸν ὑπʼ ἐχθρῶν οὐδὲν ἀεικές.</speaker></line>
+<line num="1043"  type="an4"><speaker name="Προμηθεύς"> πρὸς ταῦτʼ ἐπʼ ἐμοὶ ῥιπτέσθω μὲν</speaker></line>
+<line num="1044"  type="an4"><speaker name="Προμηθεύς"> πυρὸς ἀμφήκης βόστρυχος, αἰθὴρ δʼ</speaker></line>
+<line num="1045"  type="an4"><speaker name="Προμηθεύς"> ἐρεθιζέσθω βροντῇ σφακέλῳ τʼ</speaker></line>
+<line num="1046"  type="an4"><speaker name="Προμηθεύς"> ἀγρίων ἀνέμων· χθόνα δʼ ἐκ πυθμένων</speaker></line>
+<line num="1047"  type="an4"><speaker name="Προμηθεύς"> αὐταῖς ῥίζαις πνεῦμα κραδαίνοι,</speaker></line>
+<line num="1048"  type="an4"><speaker name="Προμηθεύς"> κῦμα δὲ πόντου τραχεῖ ῥοθίῳ</speaker></line>
+<line num="1049"  type="an4"><speaker name="Προμηθεύς"> συγχώσειεν τῶν οὐρανίων</speaker></line>
+<line num="1050"  type="an4"><speaker name="Προμηθεύς"> ἄστρων διόδους· εἴς τε κελαινὸν</speaker></line>
+<line num="1051"  type="an4"><speaker name="Προμηθεύς"> Τάρταρον ἄρδην ῥίψειε δέμας</speaker></line>
+<line num="1052"  type="an4"><speaker name="Προμηθεύς"> τοὐμὸν ἀνάγκης στερραῖς δίναις·</speaker></line>
+<line num="1053"  type="an4"><speaker name="Προμηθεύς"> πάντως ἐμέ γʼ οὐ θανατώσει.</speaker></line>
+<line num="1054"  type="an4"><speaker name="Ἑρμῆς"> τοιάδε μέντοι τῶν φρενοπλήκτων</speaker></line>
+<line num="1055"  type="an4"><speaker name="Ἑρμῆς"> βουλεύματʼ ἔπη τʼ ἔστιν ἀκοῦσαι.</speaker></line>
+<line num="1056"  type="an4"><speaker name="Ἑρμῆς"> τί γὰρ ἐλλείπει μὴ <add>οὐ</add> παραπαίειν</speaker></line>
+<line num="1057"  type="an4"><speaker name="Ἑρμῆς"> ἡ τοῦδʼ εὐχή; τί χαλᾷ μανιῶν;</speaker></line>
+<line num="1058"  type="an4"><speaker name="Ἑρμῆς"> ἀλλʼ οὖν ὑμεῖς γʼ αἱ πημοσύναις</speaker></line>
+<line num="1059"  type="an4"><speaker name="Ἑρμῆς"> συγκάμνουσαι ταῖς τοῦδε τόπων</speaker></line>
+<line num="1060"  type="an4"><speaker name="Ἑρμῆς"> μετά ποι χωρεῖτʼ ἐκ τῶνδε θοῶς,</speaker></line>
+<line num="1061"  type="an4"><speaker name="Ἑρμῆς"> μὴ φρένας ὑμῶν ἠλιθιώσῃ</speaker></line>
+<line num="1062"  type="an4"><speaker name="Ἑρμῆς"> βροντῆς μύκημʼ ἀτέραμνον.</speaker></line>
+<line num="1063"  type="an4"><speaker name="Χορός"> ἄλλο τι φώνει καὶ παραμυθοῦ μʼ</speaker></line>
+<line num="1064"  type="an4"><speaker name="Χορός"> ὅ τι καὶ πείσεις· οὐ γὰρ δή που</speaker></line>
+<line num="1065"  type="an4"><speaker name="Χορός"> τοῦτό γε τλητὸν παρέσυρας ἔπος.</speaker></line>
+<line num="1066"  type="an4"><speaker name="Χορός"> πῶς με κελεύεις κακότητʼ ἀσκεῖν;</speaker></line>
+<line num="1067"  type="an4"><speaker name="Χορός"> μετὰ τοῦδʼ ὅ τι χρὴ πάσχειν ἐθέλω·</speaker></line>
+<line num="1068"  type="an4"><speaker name="Χορός"> τοὺς προδότας γὰρ μισεῖν ἔμαθον,</speaker></line>
+<line num="1069"  type="an4"><speaker name="Χορός"> κοὐκ ἔστι νόσος</speaker></line>
+<line num="1070"  type="an4"><speaker name="Χορός"> τῆσδʼ ἥντινʼ ἀπέπτυσα μᾶλλον.</speaker></line>
+<line num="1071"  type="an4"><speaker name="Ἑρμῆς"> ἀλλʼ οὖν μέμνησθʼ ἁγὼ προλέγω</speaker></line>
+<line num="1072"  type="an4"><speaker name="Ἑρμῆς"> μηδὲ πρὸς ἄτης θηραθεῖσαι</speaker></line>
+<line num="1073"  type="an4"><speaker name="Ἑρμῆς"> μέμψησθε τύχην, μηδέ ποτʼ εἴπηθʼ</speaker></line>
+<line num="1074"  type="an4"><speaker name="Ἑρμῆς"> ὡς Ζεὺς ὑμᾶς εἰς ἀπρόοπτον</speaker></line>
+<line num="1075"  type="an4"><speaker name="Ἑρμῆς"> πῆμʼ εἰσέβαλεν· μὴ δῆτʼ αὐταὶ δʼ</speaker></line>
+<line num="1076"  type="an4"><speaker name="Ἑρμῆς"> ὑμᾶς αὐτάς. εἰδυῖαι γὰρ</speaker></line>
+<line num="1077"  type="an4"><speaker name="Ἑρμῆς"> κοὐκ ἐξαίφνης οὐδὲ λαθραίως</speaker></line>
+<line num="1078"  type="an4"><speaker name="Ἑρμῆς"> εἰς ἀπέρατον δίκτυον ἄτης</speaker></line>
+<line num="1079"  type="an4"><speaker name="Ἑρμῆς"> ἐμπλεχθήσεσθʼ ὑπʼ ἀνοίας.</speaker></line>
+<line num="1080"  type="an4"><speaker name="Προμηθεύς"> καὶ μὴν ἔργῳ κοὐκέτι μύθῳ</speaker></line>
+<line num="1081"  type="an4"><speaker name="Προμηθεύς"> χθὼν σεσάλευται·</speaker></line>
+<line num="1082"  type="an4"><speaker name="Προμηθεύς"> βρυχία δʼ ἠχὼ παραμυκᾶται</speaker></line>
+<line num="1083"  type="an4"><speaker name="Προμηθεύς"> βροντῆς, ἕλικες δʼ ἐκλάμπουσι</speaker></line>
+<line num="1084"  type="an4"><speaker name="Προμηθεύς"> στεροπῆς ζάπυροι, στρόμβοι δὲ κόνιν</speaker></line>
+<line num="1085"  type="an4"><speaker name="Προμηθεύς"> εἱλίσσουσι· σκιρτᾷ δʼ ἀνέμων</speaker></line>
+<line num="1086"  type="an4"><speaker name="Προμηθεύς"> πνεύματα πάντων εἰς ἄλληλα</speaker></line>
+<line num="1087"  type="an4"><speaker name="Προμηθεύς"> στάσιν ἀντίπνουν ἀποδεικνύμενα·</speaker></line>
+<line num="1088"  type="an4"><speaker name="Προμηθεύς"> ξυντετάρακται δʼ αἰθὴρ πόντῳ.</speaker></line>
+<line num="1089"  type="an4"><speaker name="Προμηθεύς"> τοιάδʼ ἐπʼ ἐμοὶ ῥιπὴ Διόθεν</speaker></line>
+<line num="1090"  type="an4"><speaker name="Προμηθεύς"> τεύχουσα φόβον στείχει φανερῶς.</speaker></line>
+<line num="1091"  type="an4"><speaker name="Προμηθεύς"> ὦ μητρὸς ἐμῆς σέβας, ὦ πάντων</speaker></line>
+<line num="1092"  type="an4"><speaker name="Προμηθεύς"> αἰθὴρ κοινὸν φάος εἱλίσσων,</speaker></line>
+<line num="1093"  type="an4cat"><speaker name="Προμηθεύς"> ἐσορᾷς μʼ ὡς ἔκδικα πάσχω.</speaker></line>
+
+</subsection>
+</section>

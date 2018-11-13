@@ -1,0 +1,537 @@
+#overlay {
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: #000;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+}
+#loading {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: -28px 0 0 -25px;
+}
+
+.number{
+  float: left;
+  margin-left: -20px;
+  border-right:1px;
+  }
+.poem{
+    counter-reset: linecounter;
+    counter-increment: poemcounter;
+    margin-bottom: 2em;
+    padding-bottom: 1em;
+} 
+.poem_meter, .date, .poem_number, .poem_title, .fragment_title, .fragment_book, .poem_header, .speaker{
+	text-transform: capitalize;
+	text-align:center;
+}
+
+.poem_header, .fragment_book{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 10px; /* 10px rounded corners */
+	margin-bottom: 1em;
+	margin-left: 30px;
+	margin-right: 20px;
+
+	padding-bottom: 1em;
+	padding-top: 1em;
+	line-height: 1.5em;
+	background-color: white;
+}
+.poem_header{
+	/*height:6em;*/
+}
+.poem_number{
+	float:left; 
+	width: 20%; 
+	font-size:5em; 
+	/*height:100%; */
+	text-align:center; 
+	padding-top:0.25em;
+}
+
+.poem_info{
+	text-align: center; 
+	width: 80%;
+	/*height:7em;*/
+	line-height: 1.5em;
+}
+.book_info{
+	float:left; 
+	text-align: center; 
+	width: 100%;
+	height:5em;
+	line-height: 1.5em;
+}
+
+.poem_meter{
+	font-size: 0.8em;
+}
+
+.work_title{
+	font-size:1.5em;
+}
+.book_title{
+	font-size:1.5em;
+	line-height: 1.25em;
+}
+
+.first{
+	padding-top: 1em;
+}
+.line {
+    display: block;
+    line-height: 50px;
+    margin-left: 20px;
+    counter-increment: linecounter;
+  }
+
+/*.line:before {
+  content: attr(data-before) counter(linecounter,decimal-leading-zero);
+  padding: 0 .5em;
+  margin-right: .5em;
+  color: #eee;
+  font-family: monospace;
+  font-size: 0.75em;
+  text-align: right;
+  }*/
+  
+.pentameter:before{
+    padding-right: 1em;
+    margin-right: 1em;
+
+}
+
+.fifth:before {
+  color: #444;
+  }
+.poem_number::after {
+	content: "\00a0";
+}    
+
+.word::after {
+	content: "\00a0";
+    background: #fff !important;
+}  
+.greek {
+    margin-left: 60px;
+    margin-top: 4em;
+    margin-bottom: 3em;
+    font-size: 18px;
+    float:left;
+    line-height: 1em;
+}
+.segment{
+        line-height: 150%;
+  }
+.elided {
+        display: inline-block;
+        min-width: 1em;
+  		padding-top: 0.2em;
+		background-origin:content-box;
+        margin-right:1px;
+        text-align: center;
+        background:transparent url(elided.svg) no-repeat center top;
+        background-size:0.5em;
+    	background-color: red;
+}
+
+.short {
+        display: inline-block;
+        min-width: 1em;
+        padding-top: 0.2em;
+		background-origin:content-box;
+        margin-right:1px;
+        text-align: center;
+        background:transparent url(short.svg) no-repeat center top;
+        background-size:0.5em;
+    	background-color: #CECEF6;
+  }
+
+.long {
+        display: inline-block;
+        min-width: 1em;
+  		padding-top: 0.2em;
+		background-origin:content-box;
+        margin-right:1px;
+        text-align: center;
+        background:transparent url(long.svg) no-repeat center top;
+        background-size:0.65em;
+    	background-color: #D8F781;
+  }
+.resolved{
+	background-color: #F5A9F2;
+}
+.res1 {
+        background:transparent url(res1.svg) no-repeat center top;
+        background-size:1em;
+        background-color: #F5A9F2;
+
+  }
+.res2 {
+        background:transparent url(res2.svg) no-repeat center top;
+        background-size:1em;
+        background-color: #F5A9F2;
+  }
+
+.endfoot {
+	border-radius: 0px 5px 5px 0px;
+}
+
+
+.footend::after  {
+	content:"|";
+    color: blue;
+    line-height:1.5em;
+    position:relative;
+    top:-16px;
+}
+.caesura::after  {
+	content:" //";
+    color: red;
+    position:relative;
+    top:-16px;
+    letter-spacing: -0.2em
+}
+.dihaeresis::after  {
+	content:" ||";
+    color: red;
+    position:relative;
+    top:-16px;
+    letter-spacing: -0.2em
+}
+
+.scazon .foot2.footend::after, .scazon .foot4.footend::after  {
+	content:"|";
+    color: blue;
+    position:relative;
+    top:-16px;
+}
+.iambic_strophe .foot2.footend::after, .iambic_strophe .foot4.footend::after  {
+	content:"|";
+    color: blue;
+    position:relative;
+    top:-16px;
+}
+.ia6 .foot2.footend::after, .ia6 .foot4.footend::after  {
+	content:"||";
+    color: blue;
+    position:relative;
+    font-size: 1.25em;
+    top:-16px;
+}
+
+.ia8 .foot2.footend::after, .ia8 .foot4.footend::after, .ia8 .foot6.footend::after  {
+	content:"||";
+    color: blue;
+    position:relative;
+    font-size: 1.25em;
+    top:-16px;
+}
+
+.ia7 .foot2.footend::after, .ia7 .foot4.footend::after, .ia7 .foot6.footend::after  {
+	content:"||";
+    color: blue;
+    position:relative;
+    font-size: 1.25em;
+    top:-16px;
+}
+
+.tr7 .foot2.footend::after, .tr7 .foot4.footend::after  {
+	content:"||";
+    color: blue;
+    position:relative;
+    font-size: 1.25em;
+    top:-16px;
+}
+
+.iambic_strophe .foot1.footend::after, .iambic_strophe .foot3.footend::after, .iambic_strophe .foot5.footend::after  {
+	content:"|";
+    color: green;
+    position:relative;
+    top:-16px;
+}
+.scazon .foot1.footend::after, .scazon .foot3.footend::after, .scazon .foot5.footend::after  {
+	content:"|";
+    color: green;
+    position:relative;
+    top:-16px;
+}
+.ia6 .foot1.footend::after, .ia6 .foot3.footend::after, .ia6 .foot5.footend::after  {
+	content:"|";
+    color: green;
+    position:relative;
+    top:-16px;
+}
+
+.ia8 .foot1.footend::after, .ia8 .foot3.footend::after, .ia8 .foot5.footend::after, .ia8 .foot7.footend::after {
+	content:"|";
+    color: green;
+    position:relative;
+    top:-16px;
+}
+
+.ia7 .foot1.footend::after, .ia7 .foot3.footend::after, .ia7 .foot5.footend::after  {
+	content:"|";
+    color: green;
+    position:relative;
+    top:-16px;
+}
+
+.tr7 .foot1.footend::after, .tr7 .foot3.footend::after, .tr7 .foot5.footend::after  {
+	content:"|";
+    color: green;
+    position:relative;
+    top:-16px;
+}
+
+.tr8 .foot1.footend::after, .tr8 .foot3.footend::after, .tr8 .foot5.footend::after, .tr8 .foot7.footend::after  {
+	content:"|";
+    color: green;
+    position:relative;
+    top:-16px;
+}
+.tr8 .foot2.footend::after, .tr8 .foot6.footend::after  {
+	content:"|";
+    color: blue;
+    position:relative;
+    top:-16px;
+}
+.tr8 .foot4.footend::after  {
+	content:"||";
+    color: red;
+    position:relative;
+    top:-16px;
+}
+.ia8 .foot4.footend::after  {
+	content:"||";
+    color: red;
+    position:relative;
+    top:-16px;
+}
+.ia7 .foot4.footend::after  {
+	content:"||";
+    color: red;
+    position:relative;
+    top:-16px;
+}
+ .ia6 .foot5.footend::after  {
+	content:"|";
+    color: red;
+    position:relative;
+    top:-16px;
+    font-size:1.5em;
+}
+
+ .ia8 .foot7.footend::after  {
+	content:"|";
+    color: red;
+    position:relative;
+    top:-16px;
+    font-size:1.5em;
+}
+
+ .tr7 .foot5.footend::after  {
+	content:"|";
+    color: red;
+    position:relative;
+    top:-16px;
+    font-size:1.5em;
+}
+ .ia7 .foot7.footend::after  {
+	content:"|";
+    color: red;
+    position:relative;
+    top:-16px;
+    font-size:1.5em;
+}
+
+.endfoot::after  {
+	content:"|";
+    color: blue;
+    line-height:1.5em;
+    position:relative;
+    top:-16px;
+}
+
+.endfoot + .syll{
+	border-radius: 5px 0px 0px 5px;
+}
+.startfoot {
+	border-radius: 5px 0px 0px 5px;
+    }
+.dactyl.short {
+    background-color:#f2bc3e
+    }
+.dactyl.long {
+    background-color: bisque
+    }
+.spondee {
+    background-color: #c0e057
+    }
+.elided {
+    background-color: darksalmon
+    }
+segment.line_fragment .syll {
+    background-color: lightgrey;
+    }
+segment.line_fragment .short {
+    background-color: lightblue
+    }
+.segment.line_fragment .long {
+    background-color: cadetblue
+    }
+.segment.line_fragment .dactyl.short {
+    background-color:#f2bc3e
+    }
+.segment.line_fragment .dactyl.long {
+    background-color: bisque
+    }
+.segment.line_fragment .spondee {
+    background-color: #c0e057
+    }
+.segment.line_fragment .elided {
+    background-color: darksalmon
+    }
+.halffoot{
+    background-color: lightblue;
+	border-radius: 5px 5px 5px 5px;
+}
+.meterline span{
+	display: inline-block;
+	height: 0.3em;
+}
+.meterline{
+	text-align: center;
+}
+.stanza{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+#authors ul, #books ul, #works ul{
+	padding: 10px;
+	margin: 5px;
+}
+ #authors ul li, #books ul li, #works ul li{
+ 	padding: 5px;
+ 	list-style-type: none;
+ }
+.chosen{
+	background-color: orange;
+	color:red
+}
+.wrong, .fixme{
+	background-color: orange;
+	color:red
+}
+
+.marked::after{
+	content:"****";
+	color: red;
+}
+.synizesis {
+	background-color: orange;
+	opacity: 0.9;
+}
+
+.selected{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.line:after{
+	content: attr(data-metre) " " attr(data-number);
+	padding-left: 20px;
+	color: #aaa;
+  	font-family: monospace;
+  	font-size: 0.75em;
+}
+.worddiv:after{
+	content: "|";
+	color: red;
+}
+
+.segment:before {
+	content: attr(data-speaker);
+	color: #aaa;
+  	font-family: monospace;
+  	font-size: 0.75em;
+  	padding: 5px;
+}
+
+.checkme{
+	background-color: orange;
+}
+.unres{
+	background-color: lime;
+}
+.anceps{
+	background-color: yellow;
+}
+
+.exception{
+	background-color: cyan;
+}
+
+.link{
+	background-color: #fffeee;
+}
+
+body{
+	/*overflow: visible;*/
+	background: #eee;
+
+}
+#latindiv{
+	background: #eee;
+
+}
+
+.poem_body {
+	display: flex;
+	flex-direction: row;
+	overflow-x: auto;
+	left: 0;
+    }
+    
+.strophe, .Epode{
+	background: #fff;
+	padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 10px; /* 5px rounded corners */
+    padding: 15px;
+    margin: 10px;
+}
+.triad {
+	flex-shrink: 0;
+}
+
+/*.poem_header{
+	position: -webkit-sticky;
+  	position: sticky;
+  	left: 0; 
+}*/
+
+.long.short{
+	background-color: red;
+	}
+	
+input[type=checkbox]
+{
+	display: inline-block;
+  /* Double-sized Checkboxes */
+  -ms-transform: scale(3); /* IE */
+  -moz-transform: scale(3); /* FF */
+  -webkit-transform: scale(3); /* Safari and Chrome */
+  -o-transform: scale(3); /* Opera */
+  padding: 20px;
+}
