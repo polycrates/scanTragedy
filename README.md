@@ -17,7 +17,7 @@ See https://hypotactic.com for poetry scanned using various versions of these to
 # Workflow:
 Read comments and headers in the main script files for usage notes.
 
-1. If you're starting with a Perseus xml file, you can use fixTragedy.py to turn it into something simpler, which you can then hand-edit in preparation for running through tragedy2html.py. For instance, "python3 fixTragedy.py unwieldyandopaqueperseusfilename0000.xml > oedipusfixed.xml"
+1. If you're starting with a Perseus xml file, you can use fixTragedy.py to turn it into something simpler, which you can then hand-edit in preparation for running through tragedy2html.py. For instance, "python3 fixTragedy.py unwieldyandopaqueperseusfilename0000.xml > oedipusfixed.xml". This has worked on the files I've tried so far, but I can't guarantee it will work for all Perseus files.
 
 2. Edit the resulting xml by hand in a good text editor. This is the stage where you'll tag each line with a meter. You can do this quickly for iambic etc. if you know how to search and replace (watch out for catalectic anapaests). Tagging lyric takes time, research and effort. Once you've done this, you probably only have a few hours work left.
 - tragedy2html.py expects this xml file to have a certain hierarchy, which you can glean from comments in that script, and from looking at the example file prometheusDC.xml. If you want to use a different hierarchy, you can of course edit the script accordingly.
