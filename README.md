@@ -31,6 +31,7 @@ Read comments and headers in the main script files for usage notes.
   - the editing page does its best to highlight syllables where there might be a problem.
   - In particular, each time a short anceps has alpha, iota or upsilon as the vowel, the syllable is underlined: check to make sure the vowel isn't in fact long (e.g. using the alpheios tools to quickly look up the word).
   - If you want to see if all this is worth your while, you can start by loading up prometheusToEdit.html and try out the editing features (you can just open it directly in your browser, so long as you don't expect to save).
+  - Make sure the page is being saved with each edit before you put a lot of work into editing. There should be a "..._save.html" version of the file in the same directory.
   - There are occasional bugs with the output which won't show up visually on the page, but which might cause problems from a data point of view (e.g. syllables being tagged as both short and long). These are, I hope, quite rare, but I continue to work to eradicate them. Bug reports with fixes for this are most welcome.
   
 5. If you wish, you can make a final html file for publishing by combining your save file with the template file (template.html). metre.js is intended for publication rather than editing. Or make your own scripts to access the data in the html save file (e.g. to convert back to xml, or into csv or sql).
