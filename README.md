@@ -24,7 +24,7 @@ Read comments and headers in the main script files for usage notes.
 
 3. Prepare an html file for final corrections: "python3 tragedy2html.py oedipusfixedandedited.xml > oedipus.html"
 
-4. Load the file from a web server. If you move the file, make sure the server can find the css, js and svg files in the same directory as the file. Now you can use the browser as a simple editor to correct the automatic tagging of the syllables (whcih is done by scanGk.js when the page loads - might take a few seconds).
+4. Load the file from a web server. If you move the file, make sure the server can find the css, js and svg files in the same directory as the file. Now you can use the browser as a simple editor to correct the automatic tagging of the syllables (which is done by scanGk.js when the page loads - might take a few seconds).
   - a number of external css and js files are loaded by this page (e.g jquery - yes, I've been working on this for a while...). If you're going to be spending a lot of time on this, it makes sense to download those files and serve them locally (e.g. so you can edit on the bus...)
   - shift click on a syllable toggles it between short and long
   - right click brings up a context menu with various functions (not all are relevant to editing Greek Tragedy, and I have a couple of functions left over from editing Plautus that I'll be adding back in soon). Spend some time playing with these before you launch into editing for real. 
