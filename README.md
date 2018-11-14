@@ -23,7 +23,7 @@ Read comments and headers in the main script files for usage notes.
 
 2. Edit the resulting xml by hand in a good text editor. This is the stage where you'll tag each line with a meter. You can do this quickly for iambic etc. if you know how to search and replace (watch out for catalectic anapaests). Tagging lyric takes time, research and effort. Once you've done this, you probably only have a few hours work left.
 - tragedy2html.py expects this xml file to have a certain hierarchy, which you can glean from comments in that script, and from looking at the example file prometheusDC.xml. If you want to use a different hierarchy, you can of course edit the script accordingly.
-- see the example file for tags to use (e.g. ia6 for iambic trimeter, an4 for a 4 anaepaest line, etc.). If you use these tags, the javascript in the html page will do a pretty good job of recognizing the rhythm. Lyric tags are at this point more a matter of judgment: just use tags that represent the pattern of longs and shorts predictably (it's up to you if you follow Dale rather than West or Page, for instance).
+- see the example file for tags to use (e.g. ia6 for iambic trimeter, an4 for a 4 anapaest line, etc.). If you use these tags, the javascript in the html page will do a pretty good job of recognizing the rhythm. Lyric tags are at this point more a matter of judgment: just use tags that represent the pattern of longs and shorts predictably (it's up to you if you follow Dale rather than West or Page, for instance).
 
 3. Prepare an html file for final corrections: "python3 tragedy2html.py oedipusfixedandedited.xml > oedipus.html". Amongst other things,  this script is responsible for splitting words into syllables.
 
