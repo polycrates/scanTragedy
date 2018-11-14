@@ -5,6 +5,8 @@ Tools for producing metrically tagged versions of Greek tragedy, starting with P
 1. A python3 installation with the following modules installed:
   - BeautifulSoup ("pip install bs4")
   - Cltk ("pip install cltk") <-- classical language toolkit (http://cltk.org/)
+  - James Tauber's Greek Accentuation ("pip install greek-accentuation"). 
+      
   
 2. For the last stage of editing, you need a web server with php working. For most the simplest solution is to use something like MAMP/LAMP (www.ampps.com)
 
