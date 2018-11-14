@@ -8,7 +8,7 @@ Tools for producing metrically tagged versions of Greek tragedy, starting with P
   - James Tauber's Greek Accentuation ("pip install greek-accentuation"). 
       
   
-2. For the last stage of editing, you need a web server with php working. For most the simplest solution is to use something like MAMP/LAMP (www.ampps.com)
+2. For the last stage of editing, you need a web server with php working. For most the simplest solution is to use something like MAMP/LAMP (e.g. www.ampps.com, www.mamp.info/en/, https://bitnami.com/stack/wamp/installer, etc.)
 
 # Disclaimer:
 These materials are shared as is. I am very much an amateur coder, and my purpose is to produce a database of scanned verse, not a set of tools. You will find much that is redundant, poorly organized, or even insecure here. Use at your own risk and don't run anything as root! If you want to offer advice and improvements to functionality, I'll be interested to see what you come up with; but bear in mind that these tools are intended to obsolete themselves: they aren't making any more Greek tragedy, so once it's scanned, we're done.
