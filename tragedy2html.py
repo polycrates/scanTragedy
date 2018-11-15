@@ -232,6 +232,7 @@ for section in sections:
 				text=speaker.text 
 				
 				text=re.sub(r"\b(.ʼ) ", r" \1", text)
+				text=re.sub(r"\b(.ʼ,) ", r" \1", text)
 				new_spk = template.new_tag("span")
 				new_line.append(new_spk)
 				new_spk["class"]="speech"
@@ -275,7 +276,11 @@ for section in sections:
 						if syll == "<": # change <add> to angle brackets; catches tags outside a speaker
 							nextlt=1
 							continue
-							
+						
+						#add back a space after elision:
+						syll=re.sub(r"\b(.ʼ)", r"\1 ", syll)
+						syll=re.sub(r"\b(.ʼ) ,", r"\1, ", syll)
+
 						new_syll = template.new_tag("span")
 						new_word.append(new_syll)
 						new_syll["class"]="syll"
