@@ -10,7 +10,7 @@ with lengths by javascript, and you'll be able to hand correct those in the brow
 Tested with python 3.6.5
 
 Warning: structure of Perseus files isn't always the same. 
-This script doesn't attempt to deal with that.
+This script doesn't yet attempt to deal with that.
 
 you may need to do "pip install bs4" first
 '''
@@ -29,6 +29,10 @@ def findParent(self, name=None, attrs={}, **kwargs):
 		r = l[0]
 	return r
 
+for milestone in soup.find_all("milestone"): #we're ignoring milestones (e.g. page markers)
+	milestone.decompose() 
+
+
 lines = soup.find_all("l") # in some files it's "line"
 
 #Note that we don't attempt to import the episode structure from Perseus 
@@ -37,19 +41,20 @@ lines = soup.find_all("l") # in some files it's "line"
 #see example file or tragedy2html.py for the expected hierarchy
 
 for line in lines:
-
-	#TODO: fix for xml input without all lines numbered (e.g. 5th lines numbered)
-	#this isn't as easy as it might seem: such files will need to be hand edited first,
-	#since if Perseus hasn't numbered them, it's not always clear where lines begin 
-	#and end (esp. with multiple speaker lines)
 	
-	num=line["n"] #beware, only works if all lines are numbered
-	
+	try:
+		num=line["n"] #beware, only works if all lines are numbered
+	except:
+		num="" # we could increment here, but out of order lines will mess that up
+		#note that change of speaker within lines isn't handled well by the Perseus xml
+		#it's tagged as two lines
+		#this will have to be fixed when hand-editing the xml to add meter tags
+		
 	spdiv = findParent(line, "sp")
 	try:
 		type = findParent(line, "div")['subtype']
 	except:
-		type = ""
+		type = "ia6"
 	if type == "episode":
 		type = "ia6"
 	try:
@@ -57,18 +62,22 @@ for line in lines:
 	except:
 		speaker = ""
 	content = line.text
+	
 	fullcontent = line.decode_contents()
 	linetag = out.new_tag("line")
+	sptag = out.new_tag("speaker")
 	out.append(linetag)
-	linetag["num"] = num
-	linetag["speaker"] = speaker
-	linetag["type"] = type
-	linetag.string = fullcontent
+	linetag.append(sptag)
 
-for milestone in out.find_all("milestone"): #we're ignoring milestones
+	linetag["num"] = num
+	sptag["name"] = speaker #we'll only have one speaker per line, but this will make it easier to fix that in hand-editing
+	linetag["type"] = type
+	sptag.string = fullcontent
+
+for milestone in out.find_all("milestone"): #we're ignoring milestones (e.g. page markers)
 	milestone.decompose()
 	
-print(out.prettify()) # or just print(out). Call this script with "> myfile.xml" to get an output file.
-
+print(out.prettify(formatter=None)) # prevents conversion of < and > in add and del tags.
+# Call this script with "> myfile.xml" to get an output file.
 
 	

@@ -3,7 +3,7 @@
 '''
 This script processes an xml file which has lines of verse tagged with meter and produces html output.
 I use fixTragedy.py to process a Perseus xml file, the result of which I then hand-edit to
-add meter tags etc. For the format of the input file, see the example, prometheusDC.xml
+add meter tags (e.g. type="ia6") etc. For the format of the file, see the example, prometheusDC.xml
 and see comments below.
 
 This script relies on the cltk modules, which can be installed with "pip install cltk"
@@ -190,8 +190,15 @@ for section in sections:
 
 		lines = sub.find_all("line")
 		for line in lines:
-			meter=line["type"]
-			number=line["num"]
+			try:
+				meter=line["type"]
+			except:
+				meter=""
+			try:
+				number=line["num"]
+			except:
+				number=""
+				
 			new_line = template.new_tag("div")
 			new_sub.append(new_line)
 			new_line["class"]="line"
@@ -206,6 +213,7 @@ for section in sections:
 	
 
 			speakers = line.find_all("speaker")
+			#if you've correctly edited the input file, lines with multiple speakers will be handled here
 			for speaker in speakers:
 				name=speaker["name"]
 				
@@ -264,7 +272,7 @@ for section in sections:
 							syll="<"+syll 
 							nextlt=0
 						
-						if syll == "<":
+						if syll == "<": # change <add> to angle brackets; catches tags outside a speaker
 							nextlt=1
 							continue
 							
