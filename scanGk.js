@@ -2218,7 +2218,7 @@ metre=$(line).data("metre");
 
 if (event.shiftKey){
 	if ($(this).hasClass('short')){
-		$(this).removeClass('nores resolved res1 res2 res1p res2p').addClass('syll long');
+		$(this).removeClass('short nores resolved res1 res2 res1p res2p').addClass('syll long');
 		}
 	else if ($(this).hasClass('long')){
 		$(this).removeClass('long nores resolved res1 res2 res1p res2p').addClass('syll short');
@@ -2245,7 +2245,7 @@ if (event.altKey && event.shiftKey){
 	$(this).remove()
 }
 
-$(line).find('.syll').removeClass('wrong fixme')
+$(line).find('.syll').removeClass('wrong fixme') //comment this out if you want extra debugging via css
 //checkHexPattern($(line))
 saveGreek();
 });
