@@ -113,6 +113,7 @@ def checksylls(arr): # the cltk/tauber magic is not perfect :-)
 
 	newline = re.sub(r"--", "-", newline)
 	newline = re.sub(r"}-", "}", newline)
+	newline = re.sub(r" ·", "·", newline)
 	newline = re.sub(r"-}", "}", newline)
 	newline = re.sub(r"\[-", "[", newline)
 	newline = re.sub(r"\b(.ʼ)-", r"\1", newline)
@@ -233,6 +234,8 @@ for section in sections:
 				
 				text=re.sub(r"\b(.ʼ) ", r" \1", text)
 				text=re.sub(r"\b(.ʼ,) ", r" \1", text)
+				text=re.sub(" ·", "·", text)
+
 				new_spk = template.new_tag("span")
 				new_line.append(new_spk)
 				new_spk["class"]="speech"

@@ -155,13 +155,14 @@ function findLong(syllab){
 	if(syllab.slice(-1)=="_"){
 		gotlong=1
 	}
-
+	
     if(gotlong==0){
     	return false
     }
     else{
     	return true;
     }
+    
 }
 function findDiphthong(syllab){
     hasDip=0;
@@ -891,7 +892,6 @@ function checkPentLine(myLine){
        }
 }
 function checkLine(line, metre){ //second pass scansion; get resolutions right etc.
-console.log("checking " + metre)
 
 if (metre == "an6cat" ||metre == "an4cat" ||metre == "an4" || metre == "an2"|| metre == "hen"|| metre == "da4"|| metre == "hex"|| metre == "asc1"|| metre == "glyc"){
 		var sylls = $(line).find('.syll');
@@ -926,7 +926,7 @@ if (metre == "ia7"){
 		return
 	}	
 	
-	console.log('checking senarius')
+	//console.log('checking senarius')
 	var sylls = $(line).find('.syll');
 	linelength=sylls.length
 	lastone=linelength-1
@@ -939,7 +939,6 @@ if (metre == "ia7"){
 	var hemis=0;
 	
 //when we get to a long, count the previous shorts and decide which are resolved
-console.log("starting check")
 if(metre == "ia6"){
 $(sylls).each(function(index){
     	if($(this).hasClass('long')){
@@ -1158,7 +1157,13 @@ $(sylls).each(function(index){
   						}
 					}
 					if (found == 1){ //single a/i/u
-					$(this).addClass("shortanceps")
+					wordtext=$(this).parent().text()
+					if (wordtext=="ὑμεῖς" || wordtext=="ὑμῖν" || wordtext=="ὑμᾶς" || wordtext=="ὑμῶν"){
+						$(this).removeClass("short res1 res2 res1p res2p resolved").addClass("long")
+					}
+					else{
+						$(this).addClass("shortanceps")
+						}
 					}
 				}
 			}
